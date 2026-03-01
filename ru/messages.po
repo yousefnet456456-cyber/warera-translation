@@ -14,7 +14,7 @@ msgstr ""
 "Plural-Forms: \n"
 
 #. placeholder {0}: user.data.mute.reason
-#: src/components/_user/user/UserHeader.tsx:409
+#: src/components/_user/user/UserHeader.tsx:411
 msgid " - Reason: {0}"
 msgstr " - Причина: {0}"
 
@@ -43,7 +43,7 @@ msgid "{0} active citizens required"
 msgstr "Требуется {0} активных граждан"
 
 #. placeholder {0}: data.userId && ( <UserUsername userId={data.userId} withAvatar withFlag /> )
-#: src/components/_user/notification/notification.frontConfig.tsx:606
+#: src/components/_user/notification/notification.frontConfig.tsx:608
 msgid "{0} bought your item offer"
 msgstr "{0} купил ваш товар"
 
@@ -65,7 +65,7 @@ msgid "{0} hours"
 msgstr "{0} часов"
 
 #. placeholder {0}: data.userId && ( <UserUsername userId={data.userId} withAvatar withFlag /> )
-#: src/components/_user/notification/notification.frontConfig.tsx:629
+#: src/components/_user/notification/notification.frontConfig.tsx:631
 msgid "{0} proposed a law, check it out!"
 msgstr "{0} выдвинул законопроект, зацените!"
 
@@ -116,7 +116,7 @@ msgstr ""
 msgid "{battleIcon}War battle for {regionName} {score}"
 msgstr ""
 
-#: src/components/_user/mission/MissionsList.tsx:168
+#: src/components/_user/mission/MissionsList.tsx:171
 msgid "{completedCount}/{totalCount} completed"
 msgstr "{completedCount}/{totalCount} выполнено"
 
@@ -141,8 +141,8 @@ msgstr "*Если у игрока уже есть какие-то предмет
 msgid "*May burn"
 msgstr "*Может сгореть"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:392
-#: src/components/_user/notification/notification.frontConfig.tsx:1218
+#: src/components/_user/notification/notification.frontConfig.tsx:394
+#: src/components/_user/notification/notification.frontConfig.tsx:1225
 msgid "<0/> applied to join <1/>"
 msgstr "<0/> принят для вступления в <1/>"
 
@@ -157,11 +157,11 @@ msgstr "<0/> с зарплатой <1>{0}</1>.{1}"
 msgid "<0/> buys your region <1/> for <2>{0}</2>"
 msgstr "<0/> купили <1/> за <2>{0}</2>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:916
+#: src/components/_user/notification/notification.frontConfig.tsx:918
 msgid "<0/> commented on your article <1/>"
 msgstr "<0/> прокомментировал Вашу статью <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:822
+#: src/components/_user/notification/notification.frontConfig.tsx:824
 msgid "<0/> conquered the region in <1/>"
 msgstr "<0/> захватили регион в <1/>"
 
@@ -169,18 +169,18 @@ msgstr "<0/> захватили регион в <1/>"
 msgid "<0/> created the conversation"
 msgstr ""
 
-#: src/components/_user/notification/notification.frontConfig.tsx:817
+#: src/components/_user/notification/notification.frontConfig.tsx:819
 msgid "<0/> defended in <1/>"
 msgstr "<0/> удержали <1/>"
 
 #. placeholder {0}: data.amount
-#: src/components/_user/notification/notification.frontConfig.tsx:406
-#: src/components/_user/notification/notification.frontConfig.tsx:1292
+#: src/components/_user/notification/notification.frontConfig.tsx:408
+#: src/components/_user/notification/notification.frontConfig.tsx:1299
 msgid "<0/> donated <1>{0}</1> to <2/>"
 msgstr "<0/> пожертвовал <1>{0}</1> в бюджет <2/>"
 
 #. placeholder {0}: data.wage
-#: src/components/_user/notification/notification.frontConfig.tsx:546
+#: src/components/_user/notification/notification.frontConfig.tsx:548
 msgid "<0/> fired you from your <1>{0}</1> wage job in <2/>"
 msgstr "<0/> уволил Вас с <1>{0}</1> зарплатой в <2/>"
 
@@ -188,49 +188,49 @@ msgstr "<0/> уволил Вас с <1>{0}</1> зарплатой в <2/>"
 msgid "<0/> gifted a sub to <1/>"
 msgstr ""
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1155
+#: src/components/_user/notification/notification.frontConfig.tsx:1162
 msgid "<0/> gifted you a premium subscription!"
 msgstr "<0/> подарил Вам премиум подписку!"
 
 #. placeholder {0}: data.bannerTitle
-#: src/components/_user/notification/notification.frontConfig.tsx:1595
+#: src/components/_user/notification/notification.frontConfig.tsx:1602
 msgid "<0/> gifted you the banner \"{0}\"!"
 msgstr "<0/> подарил Вам баннер \"{0}\"!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1696
+#: src/components/_user/notification/notification.frontConfig.tsx:1719
 msgid "<0/> gifted you the skin \"{skinTitle}\"!"
 msgstr "<0/> подарил Вам скин \"{skinTitle}\"!"
 
 #. placeholder {0}: data.skinPackTitle
-#: src/components/_user/notification/notification.frontConfig.tsx:1759
+#: src/components/_user/notification/notification.frontConfig.tsx:1782
 msgid "<0/> gifted you the skin pack \"{0}\"!"
 msgstr "<0/> подарил Вам набор скинов \"{0}\"!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1425
+#: src/components/_user/notification/notification.frontConfig.tsx:1432
 msgid "<0/> has been created, it gonna start soon!"
 msgstr "<0/> создано, оно скоро начнётся!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:225
+#: src/components/_user/notification/notification.frontConfig.tsx:227
 msgid "<0/> has been elected president of <1/>"
 msgstr "<0/> избран президентом <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1077
+#: src/components/_user/notification/notification.frontConfig.tsx:1079
 msgid "<0/> has started a revolution in <1/>"
 msgstr "<0/> устроил революцию в <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1438
+#: src/components/_user/notification/notification.frontConfig.tsx:1445
 msgid "<0/> has started! Let the battles begin!"
 msgstr "<0/> началось! Да начнётся битва!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1033
+#: src/components/_user/notification/notification.frontConfig.tsx:1035
 msgid "<0/> is attacking <1/> in <2/>"
 msgstr "<0/> атакует <1/> в <2/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1019
+#: src/components/_user/notification/notification.frontConfig.tsx:1021
 msgid "<0/> is attacking your country in <1/>"
 msgstr "<0/> атакует Вашу страну в <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1048
+#: src/components/_user/notification/notification.frontConfig.tsx:1050
 msgid "<0/> is revolting in <1/> against your country"
 msgstr "<0/> восстала в <1/> против Вашей страны"
 
@@ -238,12 +238,12 @@ msgstr "<0/> восстала в <1/> против Вашей страны"
 msgid "<0/> joined the conversation"
 msgstr ""
 
-#: src/components/_user/notification/notification.frontConfig.tsx:686
+#: src/components/_user/notification/notification.frontConfig.tsx:688
 msgid "<0/> joined the game with your referral link!"
 msgstr "<0/> присоединился к игре через Вашу рефералку!"
 
 #. placeholder {0}: data.wage
-#: src/components/_user/notification/notification.frontConfig.tsx:515
+#: src/components/_user/notification/notification.frontConfig.tsx:517
 msgid "<0/> joined your company <1/> for <2>{0}</2> wage"
 msgstr "<0/> присоединился к Вашей компании <1/> с зарплатой <2>{0}</2>"
 
@@ -252,7 +252,7 @@ msgid "<0/> kicked <1/> from the conversation"
 msgstr ""
 
 #. placeholder {0}: data.company && <CompanyNameById companyId={data.company} />
-#: src/components/_user/notification/notification.frontConfig.tsx:531
+#: src/components/_user/notification/notification.frontConfig.tsx:533
 msgid "<0/> left his job in your company {0}"
 msgstr "<0/> покинул Вашу компанию {0}"
 
@@ -260,15 +260,15 @@ msgstr "<0/> покинул Вашу компанию {0}"
 msgid "<0/> left the conversation"
 msgstr ""
 
-#: src/components/_user/notification/notification.frontConfig.tsx:901
+#: src/components/_user/notification/notification.frontConfig.tsx:903
 msgid "<0/> liked your article <1/>"
 msgstr "<0/> понравилась Ваша статья <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:964
+#: src/components/_user/notification/notification.frontConfig.tsx:966
 msgid "<0/> liked your message <1/>"
 msgstr "<0/> понравилось Ваше сообщение <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1306
+#: src/components/_user/notification/notification.frontConfig.tsx:1313
 msgid "<0/> mentioned you in a message <1/>"
 msgstr "<0/> упомянул Вас в сообщении <1/>"
 
@@ -276,24 +276,24 @@ msgstr "<0/> упомянул Вас в сообщении <1/>"
 msgid "<0/> Priority ends in <1/>"
 msgstr "<0/> Приоритет закончится в <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:885
+#: src/components/_user/notification/notification.frontConfig.tsx:887
 msgid "<0/> published a new article"
 msgstr "<0/> опубликовал новую статью"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:697
+#: src/components/_user/notification/notification.frontConfig.tsx:699
 msgid "<0/> referred you to the game."
 msgstr "<0/> порекомендовал Вам эту игру."
 
 #. placeholder {0}: data.messageId && <MessageItemById messageId={data.messageId} />
-#: src/components/_user/notification/notification.frontConfig.tsx:991
+#: src/components/_user/notification/notification.frontConfig.tsx:993
 msgid "<0/> responded to your message {0}"
 msgstr "<0/> ответил на Ваше сообщение {0}"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:950
+#: src/components/_user/notification/notification.frontConfig.tsx:952
 msgid "<0/> subscribed to you on your article <1/>"
 msgstr "<0/> подписался на Вас после прочтения <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:931
+#: src/components/_user/notification/notification.frontConfig.tsx:933
 msgid "<0/> tipped your article <1/>"
 msgstr "<0/> поддержал монетой Вашу статью <1/>"
 
@@ -306,7 +306,7 @@ msgid "<0/> wants to make peace with your country"
 msgstr "<0/> хочет заключить мир с Вашей страной"
 
 #. placeholder {0}: ts[data.governmentRole]
-#: src/components/_user/notification/notification.frontConfig.tsx:663
+#: src/components/_user/notification/notification.frontConfig.tsx:665
 msgid "<0/> was nominated as <1>{0}</1>"
 msgstr "<0/> был выдвинут на пост <1>{0}</1>"
 
@@ -321,29 +321,29 @@ msgstr ""
 msgid "<0/> won the battle ({0}-{1})"
 msgstr ""
 
-#: src/components/_user/notification/notification.frontConfig.tsx:349
+#: src/components/_user/notification/notification.frontConfig.tsx:351
 msgid "<0/> won the primary election in <1/> and can now run for president!"
 msgstr "<0/> победил в праймериз в <1/> и теперь может баллотироваться в президенты!"
 
 #. placeholder {0}: data.roundNumber
-#: src/components/_user/notification/notification.frontConfig.tsx:781
+#: src/components/_user/notification/notification.frontConfig.tsx:783
 msgid "<0/> won the round <1>#{0}</1> in <2/>"
 msgstr "<0/> выиграли раунд <1>#{0}</1> in <2/>"
 
 #. placeholder {0}: data.roundNumber
-#: src/components/_user/notification/notification.frontConfig.tsx:787
+#: src/components/_user/notification/notification.frontConfig.tsx:789
 msgid "<0/> won the round <1>#{0}</1> in <2/>!"
 msgstr "<0/> выиграли раунд <1>#{0}</1> in <2/>!"
 
-#: src/components/_user/user/UserHeader.tsx:276
+#: src/components/_user/user/UserHeader.tsx:278
 msgid "<0/><1>Buff</1> ends <2/>"
 msgstr "<0/><1>Усиление</1> закончится <2/>"
 
-#: src/components/_user/user/UserHeader.tsx:285
+#: src/components/_user/user/UserHeader.tsx:287
 msgid "<0/><1>Debuff</1> ends <2/>"
 msgstr "<0/><1>Усталость</1> закончится <2/>"
 
-#: src/components/_user/user/UserHeader.tsx:348
+#: src/components/_user/user/UserHeader.tsx:350
 msgid "<0/>Last connection was <1><2/></1>"
 msgstr "<0/>Последний раз был <1><2/></1>"
 
@@ -353,13 +353,13 @@ msgstr "<0/>Приоритет закончится в <1/>"
 
 #. placeholder {0}: companiesIds?.length ?? 0
 #. placeholder {1}: companiesLimit ?? 99
-#: src/components/_economy/company/CompanyList.tsx:105
+#: src/components/_economy/company/CompanyList.tsx:101
 msgid "<0>{0}/{1}</0> Companies"
 msgstr "<0>{0}/{1}</0> Компаний"
 
 #. placeholder {0}: totalWorkersCount.data ?? 0
 #. placeholder {1}: managementLimit ?? 99
-#: src/components/_economy/company/CompanyList.tsx:121
+#: src/components/_economy/company/CompanyList.tsx:117
 #: src/components/_economy/workOffer/WorkersLimit.tsx:24
 msgid "<0>{0}/{1}</0> Workers"
 msgstr "<0>{0}/{1}</0> Рабочих"
@@ -409,7 +409,7 @@ msgstr "<0>{0}</0> от <1>Сопротивления</1>"
 #. placeholder {0}: region.ethicDepositBonus
 #: src/components/_economy/company/RecommendedCompanyRegions.tsx:151
 msgid "<0>{0}</0> from agrarian ethics deposit bonus."
-msgstr "<0>{0}</0> от бонусов на залежи из аграрных принципов"
+msgstr "<0>{0}</0> от бонусов на залежи из аграрных принципов."
 
 #. placeholder {0}: sideBonus.countryAlliesBonusPercent
 #: src/components/_military/battle/BattleDamageBonuses.tsx:75
@@ -459,7 +459,7 @@ msgstr "<0>{0}</0> от Пацифистских принципов (оборо�
 #. placeholder {0}: region.strategicBonus
 #: src/components/_economy/company/RecommendedCompanyRegions.tsx:121
 msgid "<0>{0}</0> from strategic resources production bonus."
-msgstr "<0>{0}</0> бонуса к производству от стратегических ресурсов"
+msgstr "<0>{0}</0> бонуса к производству от стратегических ресурсов."
 
 #. placeholder {0}: gameConfig.battle.pointsToWinRound
 #: src/components/_common/RoundPoints.tsx:17
@@ -525,7 +525,7 @@ msgstr "<0>Заполняется <1>Очками Производства</1> �
 #. placeholder {7}: gameConfig?.unrest.contributionCooldownAfterRevolutionHours
 #: src/components/_political/unrest/UnrestBar.tsx:25
 msgid "<0>Unrest</0> represents internal tension in the country.<1/><2/>Citizens can contribute by spending <3>{0}</3> or <4>{1}</4> to add <5>{2}</5> to the bar. Unrest decays daily by <6>{3}-{4}%</6>.<7/><8/>When the bar is full, any party can vote via motion to start a <9>Civil war</9> (cost: <10>development × 10</10>, cooldown: {5}h). The battle takes place in the capital region, and <11>only citizens</11> can fight.<12/><13/>If revolutionaries win:<14/>- Government is impeached<15/>- Borders are opened for {6} days<16/>- Presidential elections begin<17/><18/>After a revolution, contributions are disabled for {7}h."
-msgstr "msgid \"<0>Смута</0> отражает внутреннюю напряженность в стране.<1/><2/>Граждане могут внести свой вклад, потратив <3>{0}</3> или <4>{1}</4>, добавив <5>{2}</5> в шкалу. Смута стихает с каждым днем на <6>{3}-{4}%</6>.<7/><8/> Когда шкала заполнена, любая партия может проголосовать за начало <9>Гражданской войны</9> (стоимость: <10>развитие × 10</10>, время восстановления: {5}ч). Сражение происходит в столичном регионе, и принять участие могут <11>только граждане</11>.<12/><13/>Если победят революционеры:<14/> - Правительству объявят импичмент<15/> - Границы откроются на {6} дней<16/>- Инициируются президенсткие выборы<17/><18/>После революции вклад невозможен в течение {7} часов.\""
+msgstr "<0>Смута</0> отражает внутреннюю напряженность в стране.<1/><2/>Граждане могут внести свой вклад, потратив <3>{0}</3> или <4>{1}</4>, добавив <5>{2}</5> в шкалу. Смута стихает с каждым днем на <6>{3}-{4}%</6>.<7/><8/> Когда шкала заполнена, любая партия может проголосовать за начало <9>Гражданской войны</9> (стоимость: <10>развитие × 10</10>, время восстановления: {5}ч). Сражение происходит в столичном регионе, и принять участие могут <11>только граждане</11>.<12/><13/>Если победят революционеры:<14/> - Правительству объявят импичмент<15/> - Границы откроются на {6} дней<16/>- Инициируются президенсткие выборы<17/><18/>После революции вклад невозможен в течение {7} часов."
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:86
 msgid "1 legendary down, 5 more to go for a full stuff, keep gambling!"
@@ -896,7 +896,7 @@ msgid "A deposit has been found in this region, it can be exploited by companies
 msgstr "Залежи обнаружены в этом регионе, они могут быть использованы компаниями для добычи сырья."
 
 #. placeholder {0}: data.prize
-#: src/components/_user/notification/notification.frontConfig.tsx:1543
+#: src/components/_user/notification/notification.frontConfig.tsx:1550
 msgid "A new giveaway for {0} cases has started! Join now!"
 msgstr "Начался новый розыгрыш {0} кейсов! Попытай удачу!"
 
@@ -950,7 +950,7 @@ msgid "Access war"
 msgstr ""
 
 #: src/components/_political/country/CountryHeader.tsx:70
-#: src/components/_user/user/UserHeader.tsx:162
+#: src/components/_user/user/UserHeader.tsx:164
 #: src/pages/country/[countryId]/account.tsx:36
 #: src/pages/country/[countryId]/index.tsx:328
 #: src/pages/user/[userId]/account.tsx:25
@@ -996,7 +996,9 @@ msgid "Add User"
 msgstr "Добавить Игрока"
 
 #: src/components/_political/law/Law.tsx:87
+#: src/components/_political/law/LawFormModal.tsx:303
 #: src/components/_political/partyMotion/PartyMotion.tsx:97
+#: src/components/_political/partyMotion/PartyMotionFormModal.tsx:172
 msgid "Additional cost"
 msgstr "Дополнительные расходы"
 
@@ -1005,11 +1007,11 @@ msgstr "Дополнительные расходы"
 msgid "Admin"
 msgstr "Админ"
 
-#: src/pages/user/[userId]/bans.tsx:135
+#: src/pages/user/[userId]/bans.tsx:262
 msgid "Admin Actions"
 msgstr "Админдействия"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1098
+#: src/components/_user/notification/notification.frontConfig.tsx:1100
 msgid "Admin notification"
 msgstr "Уведомления Админа"
 
@@ -1047,7 +1049,7 @@ msgstr "Аграрий"
 msgid "All"
 msgstr "Все"
 
-#: src/components/_social/ArticleList.tsx:119
+#: src/components/_social/ArticleList.tsx:130
 msgid "All categories"
 msgstr "Все категории"
 
@@ -1073,7 +1075,7 @@ msgstr "Все компании в пределах Ваших границах 
 msgid "All event types"
 msgstr "Все виды событий"
 
-#: src/components/_social/ArticleList.tsx:109
+#: src/components/_social/ArticleList.tsx:120
 msgid "All languages"
 msgstr "Все языки"
 
@@ -1113,7 +1115,7 @@ msgstr "Союзники"
 
 #: src/components/_economy/workOffer/WageInfoAlert.tsx:48
 msgid "Allowed wage range:"
-msgstr "Разрешённые разброс зарплат:"
+msgstr "Разрешённый разброс зарплат:"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:73
 msgid "Almost feels like cheating"
@@ -1128,12 +1130,8 @@ msgstr "Почти готово...."
 msgid "Ammo"
 msgstr "Экспансивные патроны"
 
-#: src/components/_user/user/SkillValue.tsx:88
-msgid "Ammo:"
-msgstr ""
-
-#: src/components/_political/law/LawFormModal.tsx:229
-#: src/components/_political/law/LawFormModal.tsx:230
+#: src/components/_political/law/LawFormModal.tsx:251
+#: src/components/_political/law/LawFormModal.tsx:252
 msgid "Amount"
 msgstr "Количество"
 
@@ -1185,7 +1183,7 @@ msgstr "Узор в приложении"
 msgid "Application fee"
 msgstr "Членский взнос"
 
-#: src/components/_political/citizenshipApplication/CitizenshipApplicationForm.tsx:62
+#: src/components/_political/citizenshipApplication/CitizenshipApplicationForm.tsx:60
 #: src/pages/country/[countryId]/citizenship.tsx:44
 msgid "Apply"
 msgstr "Принять"
@@ -1193,10 +1191,6 @@ msgstr "Принять"
 #: src/components/_user/worker/WorkerEditFormModal.tsx:102
 msgid "Are you sure you want to fire this worker?"
 msgstr "Вы действительно хотите уволить этого рабочего?"
-
-#: src/components/_user/user/UserDropdown.tsx:350
-msgid "Are you sure you want to give the \"Bug finder\" badge to {username}?"
-msgstr "Вы действительно хотите дать {username} значок \"Искатель багов\"?"
 
 #: src/pages/country/[countryId]/government.tsx:93
 msgid "Are you sure you want to leave the congress?"
@@ -1232,11 +1226,11 @@ msgstr "Вы действительно хотите пропустить обу
 msgid "Armor"
 msgstr "Броня"
 
-#: src/components/_political/law/LawFormModal.tsx:196
+#: src/components/_political/law/LawFormModal.tsx:218
 msgid "Article ID"
 msgstr "ID Статьи"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:899
+#: src/components/_user/notification/notification.frontConfig.tsx:901
 msgid "Article liked"
 msgstr "Статья лайкнута"
 
@@ -1244,11 +1238,11 @@ msgstr "Статья лайкнута"
 msgid "Article Tip"
 msgstr "Статейные чаевые"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:929
+#: src/components/_user/notification/notification.frontConfig.tsx:931
 msgid "Article tipped"
 msgstr "Статье оставлены чаевые"
 
-#: src/components/_user/user/UserHeader.tsx:202
+#: src/components/_user/user/UserHeader.tsx:204
 #: src/pages/user/[userId]/index.tsx:199
 msgid "Articles"
 msgstr "Статьи"
@@ -1303,7 +1297,7 @@ msgstr "Автоматический двигатель"
 msgid "Automated Engine"
 msgstr "Автоматический Двигатель"
 
-#: src/components/_user/user/UserDropdown.tsx:153
+#: src/components/_user/user/UserDropdown.tsx:142
 msgid "Avatar removed"
 msgstr "Аватарка удалена"
 
@@ -1311,7 +1305,7 @@ msgstr "Аватарка удалена"
 msgid "Badge won"
 msgstr "Значок получен"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:106
+#: src/components/_user/notification/notification.frontConfig.tsx:108
 msgid "Badge Won"
 msgstr "Значок Получен"
 
@@ -1327,7 +1321,11 @@ msgstr "Баланс"
 msgid "Balanced - No modifiers"
 msgstr "Баланс - нет модификаторов"
 
-#: src/components/_user/user/UserDropdown.tsx:275
+#: src/pages/user/[userId]/bans.tsx:288
+msgid "Ban History"
+msgstr ""
+
+#: src/components/_user/user/UserDropdown.tsx:264
 msgid "Ban user"
 msgstr "Забанить игрока"
 
@@ -1335,19 +1333,19 @@ msgstr "Забанить игрока"
 msgid "Bankruptcy"
 msgstr "Банкротство"
 
-#: src/components/_user/user/UserHeader.tsx:397
+#: src/components/_user/user/UserHeader.tsx:399
 msgid "Banned"
 msgstr "Забанен"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1623
+#: src/components/_user/notification/notification.frontConfig.tsx:1646
 msgid "Banner Accepted!"
 msgstr "Баннер принят!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1592
+#: src/components/_user/notification/notification.frontConfig.tsx:1599
 msgid "Banner gift received"
 msgstr "Подарочный баннер получен"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1561
+#: src/components/_user/notification/notification.frontConfig.tsx:1568
 msgid "Banner gift sent"
 msgstr "Подарочный баннер отправлен"
 
@@ -1355,8 +1353,8 @@ msgstr "Подарочный баннер отправлен"
 msgid "Banners"
 msgstr "Баннеры"
 
-#: src/components/_user/user/UserHeader.tsx:180
-#: src/components/_user/user/UserHeader.tsx:221
+#: src/components/_user/user/UserHeader.tsx:182
+#: src/components/_user/user/UserHeader.tsx:223
 msgid "Bans"
 msgstr "Баны"
 
@@ -1386,7 +1384,7 @@ msgid "Battle"
 msgstr "Битва"
 
 #: src/components/_political/event/EventList.tsx:65
-#: src/components/_user/notification/notification.frontConfig.tsx:814
+#: src/components/_user/notification/notification.frontConfig.tsx:816
 msgid "Battle ended"
 msgstr "Битва окончена"
 
@@ -1394,7 +1392,7 @@ msgstr "Битва окончена"
 msgid "Battle opened"
 msgstr "Битва начата"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1352
+#: src/components/_user/notification/notification.frontConfig.tsx:1359
 msgid "Battle Ranking Reward"
 msgstr "Награда рейтинга Битвы"
 
@@ -1431,7 +1429,7 @@ msgstr "Выдвинуть кандидатуру"
 msgid "Better than nothing, right?"
 msgstr "Лучше чем ничего, правда?"
 
-#: src/components/_user/user/UserDropdown.tsx:258
+#: src/components/_user/user/UserDropdown.tsx:247
 msgid "Block (hide content)"
 msgstr "Заблокировать (скрыть контент)"
 
@@ -1473,33 +1471,29 @@ msgstr "Бригадир"
 msgid "Browse Packs"
 msgstr "Посмотреть наборы"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:856
+#: src/components/_user/notification/notification.frontConfig.tsx:858
 msgid "Buff ended"
 msgstr "Бафф закончился"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:837
+#: src/components/_user/notification/notification.frontConfig.tsx:839
 msgid "Buff started"
 msgstr "Бафф активирован"
 
-#: src/components/_user/user/SkillValue.tsx:124
-msgid "Buffs:"
-msgstr ""
-
-#: src/components/_user/user/UserDropdown.tsx:138
-msgid "Bug Finder badge given"
-msgstr "Значок «Искатель багов» присвоен"
-
-#: src/components/_economy/company/CompanyList.tsx:156
+#: src/components/_economy/company/CompanyList.tsx:152
 msgid "Build a company"
 msgstr "Построить компанию"
 
-#: src/components/_military/mu/MuList.tsx:84
+#: src/components/_military/mu/MuList.tsx:80
 msgid "Build a military unit"
 msgstr "Создать военный отряд"
 
-#: src/components/_military/mu/MuFormModal.tsx:139
+#: src/components/_military/mu/MuFormModal.tsx:136
 msgid "Build the military unit"
 msgstr "Создать военный отряд"
+
+#: src/pages/user/[userId]/bans.tsx:181
+msgid "Buy"
+msgstr ""
 
 #: src/components/_user/mission/mission.frontConfig.tsx:166
 msgid "Buy for <0>{count}</0> money on market"
@@ -1509,7 +1503,7 @@ msgstr "Купить на рынке на сумму <0>{count}</0>"
 msgid "Buy Items"
 msgstr "Купить предмет"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:742
+#: src/components/_user/notification/notification.frontConfig.tsx:744
 msgid "Buy order match!"
 msgstr "Совпадение заявки на покупку!"
 
@@ -1544,7 +1538,7 @@ msgstr "Кандидат"
 
 #: src/components/_political/party/party.frontConfig.tsx:262
 msgid "Cannot have a vice president or ministers."
-msgstr "Нельзя назначать вице-президента или министров"
+msgstr "Нельзя назначать вице-президента или министров."
 
 #: src/components/_political/party/party.frontConfig.tsx:134
 msgid "Cannot have allies."
@@ -1655,7 +1649,7 @@ msgstr "Выберите свою страну"
 msgid "Choose your side and click to deal <0>Damages</0>! Keep hitting to help your team win."
 msgstr "Выбери свою сторону и кликни, чтобы нанести <0>Урон</0>! Продолжай бить, чтобы помочь своей команде выиграть."
 
-#: src/components/_user/user/UserHeader.tsx:269
+#: src/components/_user/user/UserHeader.tsx:271
 msgid "Citizen since <0><1/></0>"
 msgstr "Гражданин с <0><1/></0>"
 
@@ -1672,28 +1666,28 @@ msgstr "Граждане получают бонус, когда сражают�
 #: src/components/_political/party/party.frontConfig.tsx:86
 #: src/components/_political/party/party.frontConfig.tsx:100
 msgid "Citizens get an additional <0>{0}</0> attacking battle bonus."
-msgstr "Граждане получают дополнительный <0>{0}</0> бонус урона в атаке"
+msgstr "Граждане получают дополнительный <0>{0}</0> бонус урона в атаке."
 
 #. placeholder {0}: formatPercent(ethicsBonuses.isolationism['-1'].enemyBattleBonus)
 #. placeholder {0}: formatPercent(ethicsBonuses.isolationism['-2'].enemyBattleBonus)
 #: src/components/_political/party/party.frontConfig.tsx:127
 #: src/components/_political/party/party.frontConfig.tsx:142
 msgid "Citizens get an additional <0>{0}</0> battle bonus against sworn enemies."
-msgstr "Граждане получают дополнительный <0>{0}</0> бонус урона против заклятых врагов"
+msgstr "Граждане получают дополнительный <0>{0}</0> бонус урона против заклятых врагов."
 
 #. placeholder {0}: formatPercent(ethicsBonuses.isolationism[1].allyBattleBonus)
 #. placeholder {0}: formatPercent(ethicsBonuses.isolationism[2].allyBattleBonus)
 #: src/components/_political/party/party.frontConfig.tsx:160
 #: src/components/_political/party/party.frontConfig.tsx:174
 msgid "Citizens get an additional <0>{0}</0> battle bonus fighting for allies."
-msgstr "Граждане получают дополнительный <0>{0}</0> бонус урона в войне за союзников"
+msgstr "Граждане получают дополнительный <0>{0}</0> бонус урона в войне за союзников."
 
 #. placeholder {0}: formatPercent(ethicsBonuses.militarism['-1'].defenseBattleBonus)
 #. placeholder {0}: formatPercent(ethicsBonuses.militarism['-2'].defenseBattleBonus)
 #: src/components/_political/party/party.frontConfig.tsx:51
 #: src/components/_political/party/party.frontConfig.tsx:68
 msgid "Citizens get an additional <0>{0}</0> defensive battle bonus."
-msgstr "Граждане получают дополнительный <0>{0}</0> бонус к урону в обороне"
+msgstr "Граждане получают дополнительный <0>{0}</0> бонус к урону в обороне."
 
 #: src/components/_political/country/CountryHeader.tsx:107
 msgid "Citizenship"
@@ -1769,7 +1763,7 @@ msgstr "Закрыть"
 msgid "Colonel"
 msgstr "Полковник"
 
-#: src/components/_user/user/UserDropdown.tsx:198
+#: src/components/_user/user/UserDropdown.tsx:187
 msgid "Color scheme"
 msgstr "Цветовая схема"
 
@@ -1777,13 +1771,18 @@ msgstr "Цветовая схема"
 msgid "Commander"
 msgstr "Командующий"
 
+#: src/components/_user/notification/notification.frontConfig.tsx:1630
+#: src/components/_user/notification/notification.frontConfig.tsx:1821
+msgid "Commission earned"
+msgstr ""
+
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:116
 msgid "Commodore"
 msgstr "Коммодор"
 
 #: src/components/_layout/LayoutMenu.tsx:182
 #: src/components/_user/user/MyAvatar.tsx:48
-#: src/components/_user/user/UserHeader.tsx:194
+#: src/components/_user/user/UserHeader.tsx:196
 #: src/pages/companies.tsx:96
 msgid "Companies"
 msgstr "Компании"
@@ -1793,7 +1792,7 @@ msgstr "Компании"
 msgid "Companies limit"
 msgstr "Лимит компаний"
 
-#: src/components/_economy/company/CompanyList.tsx:78
+#: src/components/_economy/company/CompanyList.tsx:74
 msgid "Companies limit reached"
 msgstr "Достигнут лимит компаний"
 
@@ -1838,43 +1837,43 @@ msgid "Congrats"
 msgstr "Поздравляю"
 
 #. placeholder {0}: data.level
-#: src/components/_user/notification/notification.frontConfig.tsx:423
+#: src/components/_user/notification/notification.frontConfig.tsx:425
 msgid "Congratulations, you leveled up to level {0}!"
 msgstr "Поздравляют, вы поднялись до {0} уровня!"
 
 #. placeholder {0}: data.countryName
-#: src/components/_user/notification/notification.frontConfig.tsx:212
+#: src/components/_user/notification/notification.frontConfig.tsx:214
 msgid "Congratulations! You have been elected as the new congress member of {0}"
 msgstr "Поздравляю! Вы были избраны как новый член парламента {0}"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:316
+#: src/components/_user/notification/notification.frontConfig.tsx:318
 msgid "Congratulations! You have been elected as the new leader of <0/>"
 msgstr "Поздравляю! Вы были избраны новым лидером <0/>"
 
 #. placeholder {0}: data.countryName
-#: src/components/_user/notification/notification.frontConfig.tsx:207
+#: src/components/_user/notification/notification.frontConfig.tsx:209
 msgid "Congratulations! You have been elected as the new president of {0}"
 msgstr "Поздравляю! Вы были избраны как новый президент {0}"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:321
+#: src/components/_user/notification/notification.frontConfig.tsx:323
 msgid "Congratulations! You have been elected to the council of <0/>"
 msgstr "Поздравляю! Вы были избраны в совет <0/>"
 
 #. placeholder {0}: militaryRankingConfig[data.rank].percentDamages
-#: src/components/_user/notification/notification.frontConfig.tsx:1331
+#: src/components/_user/notification/notification.frontConfig.tsx:1338
 msgid "Congratulations! You have been promoted to <0/> with an attack bonus of <1>{0}</1>"
 msgstr "Поздравляю! Вы повышены в звании до <0/> с бонусом атаки в <1>{0}</1>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1527
+#: src/components/_user/notification/notification.frontConfig.tsx:1534
 msgid "Congratulations! You won the giveaway and received cases!"
 msgstr "Поздравляю! Вы победили в розыгрыше и получили кейсы!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:365
-#: src/components/_user/notification/notification.frontConfig.tsx:1204
+#: src/components/_user/notification/notification.frontConfig.tsx:367
+#: src/components/_user/notification/notification.frontConfig.tsx:1211
 msgid "Congratulations! Your application to <0/> has been accepted"
 msgstr "Поздравляю! Ваш запрос к <0/> был одобрен"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1406
+#: src/components/_user/notification/notification.frontConfig.tsx:1413
 msgid "Congratulations! Your team <0/> won the tournament <1/>!"
 msgstr "Поздравляю! Ваша команда <0/> выиграла турнир <1/>!"
 
@@ -1882,27 +1881,27 @@ msgstr "Поздравляю! Ваша команда <0/> выиграла ту
 msgid "Congress election"
 msgstr "Выборы в парламент"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:142
+#: src/components/_user/notification/notification.frontConfig.tsx:144
 msgid "Congress election candidacy is now open in <0/>"
 msgstr "Выдвижение кандидатов в парламент началось в <0/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:133
+#: src/components/_user/notification/notification.frontConfig.tsx:135
 msgid "Congress election candidate open"
 msgstr "Выдвижение кандидатов в парламент началось"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:183
+#: src/components/_user/notification/notification.frontConfig.tsx:185
 msgid "Congress election ended"
 msgstr "Выборы в парламент завершились"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:192
+#: src/components/_user/notification/notification.frontConfig.tsx:194
 msgid "Congress election has ended in <0/>. Check the results!"
 msgstr "Выборы в парламент <0/> завершились. Зацените результаты!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:158
+#: src/components/_user/notification/notification.frontConfig.tsx:160
 msgid "Congress election vote open"
 msgstr "Голосование за кандидатов в парламент началось"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:167
+#: src/components/_user/notification/notification.frontConfig.tsx:169
 msgid "Congress election voting is now open in <0/>"
 msgstr "Голосование за кандидатов в парламент началось в <0/>"
 
@@ -1913,7 +1912,7 @@ msgstr "Выборы в парламент"
 #. placeholder {0}: ethicsBonuses.imperialism['-2'].minCongressSeats
 #: src/components/_political/party/party.frontConfig.tsx:204
 msgid "Congress has a minimum of <0>{0} seats</0>."
-msgstr "Парламент имеет минимум <0>{0} кресел</0>"
+msgstr "Парламент имеет минимум <0>{0} кресел</0>."
 
 #: src/pages/country/[countryId]/government.tsx:64
 msgid "Congress members"
@@ -1927,7 +1926,7 @@ msgstr "Авторизация через Discord"
 msgid "Connect with email"
 msgstr "Авторизация через email"
 
-#: src/pages/user/[userId]/bans.tsx:127
+#: src/pages/user/[userId]/bans.tsx:254
 msgid "Connection"
 msgstr "Соединение"
 
@@ -1939,7 +1938,7 @@ msgstr "Захваченные регионы"
 msgid "Consider giving it to your local moderator"
 msgstr "Думаю, стоит донести на вас местному модератору"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:643
+#: src/components/_user/notification/notification.frontConfig.tsx:645
 msgid "Construction started"
 msgstr "Строительство началось"
 
@@ -1990,7 +1989,7 @@ msgstr "Капрал"
 msgid "Cost"
 msgstr "Цена"
 
-#: src/components/_political/partyMotion/PartyMotionFormModal.tsx:110
+#: src/components/_political/partyMotion/PartyMotionFormModal.tsx:134
 msgid "Council member to remove"
 msgstr "Член Совета для удаления"
 
@@ -2101,7 +2100,7 @@ msgstr "Текущее кол-во:"
 msgid "Custom username font"
 msgstr "Пользовательский шрифт никнейма"
 
-#: src/components/_user/mission/MissionsList.tsx:186
+#: src/components/_user/mission/MissionsList.tsx:189
 msgid "Daily"
 msgstr "Ежедневные"
 
@@ -2109,11 +2108,11 @@ msgstr "Ежедневные"
 msgid "Daily maintenance"
 msgstr "Ежедневное обслуживание"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1636
+#: src/components/_user/notification/notification.frontConfig.tsx:1659
 msgid "Daily Missions Reset"
 msgstr "Сброс ежедневных миссий"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:436
+#: src/components/_user/notification/notification.frontConfig.tsx:438
 msgid "Daily XP available!"
 msgstr "Ежедневный XP доступен!"
 
@@ -2141,7 +2140,7 @@ msgstr "Чёрт, да ты везунчик"
 msgid "Danger zone"
 msgstr "Опасная зона"
 
-#: src/components/_political/law/LawFormModal.tsx:250
+#: src/components/_political/law/LawFormModal.tsx:272
 msgid "Dark"
 msgstr "Тёмное"
 
@@ -2197,13 +2196,9 @@ msgstr "Наносит больше урона"
 msgid "Deals some damages"
 msgstr "Наносит хоть какой-то урон"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:870
+#: src/components/_user/notification/notification.frontConfig.tsx:872
 msgid "Debuff ended"
 msgstr "Усталость прошла"
-
-#: src/components/_user/user/SkillValue.tsx:156
-msgid "Debuffs:"
-msgstr ""
 
 #: src/components/_political/law/law.frontConfig.tsx:93
 msgid "Declare war"
@@ -2254,7 +2249,7 @@ msgstr "Удалить аккаунт"
 msgid "Delete your account"
 msgstr "Удалить ваш аккаунт"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1258
+#: src/components/_user/notification/notification.frontConfig.tsx:1265
 msgid "Demoted from Commander"
 msgstr "Разжалованы из Командиров"
 
@@ -2284,7 +2279,7 @@ msgstr "Залежи истощатся через"
 
 #: src/components/_political/party/party.frontConfig.tsx:344
 msgid "Deposits cannot spawn within your borders."
-msgstr "Залежи не могут появляться в пределах Ваших границ"
+msgstr "Залежи не могут появляться в пределах Ваших границ."
 
 #: src/components/_political/party/PartyDescriptionModal.tsx:59
 #: src/components/_political/party/PartyFormModal.tsx:103
@@ -2297,7 +2292,7 @@ msgstr "Опишите цели и ценности Вашей партии"
 msgid "Description"
 msgstr "Описание"
 
-#: src/components/_user/user/UserDropdown.tsx:167
+#: src/components/_user/user/UserDropdown.tsx:156
 msgid "Description removed"
 msgstr "Описание удалено"
 
@@ -2305,7 +2300,7 @@ msgstr "Описание удалено"
 msgid "Description updated!"
 msgstr "Описание обновлено!"
 
-#: src/components/_user/user/UserDropdown.tsx:330
+#: src/components/_user/user/UserDropdown.tsx:319
 msgid "Destroy item from inventory"
 msgstr "Уничтожить предмет из инвентаря"
 
@@ -2371,7 +2366,7 @@ msgstr "Уклонитесь от <0>{count}</0> атак"
 
 #: src/components/_political/party/party.frontConfig.tsx:58
 msgid "Does not gain development from non-core regions."
-msgstr "Не даёт развитие от оккупированных регионов"
+msgstr "Не даёт развитие от оккупированных регионов."
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:55
 msgid "Don't forget to drink water"
@@ -2408,16 +2403,16 @@ msgstr "Сводки Пожертвований"
 msgid "Donations"
 msgstr "Пожертвования"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:459
+#: src/components/_user/notification/notification.frontConfig.tsx:461
 msgid "Double XP Ended"
 msgstr "Двойной XP закончился"
 
 #. placeholder {0}: data.duration
-#: src/components/_user/notification/notification.frontConfig.tsx:452
+#: src/components/_user/notification/notification.frontConfig.tsx:454
 msgid "Double XP event has started for {0} hours!"
 msgstr "Событие Двойной XP началось и продлится {0} часов!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:450
+#: src/components/_user/notification/notification.frontConfig.tsx:452
 msgid "Double XP Started"
 msgstr "Двойной XP начался"
 
@@ -2450,7 +2445,7 @@ msgstr "Экономические законы"
 msgid "Economic skills"
 msgstr "Экономические навыки"
 
-#: src/components/_user/user/UserDropdown.tsx:189
+#: src/components/_user/user/UserDropdown.tsx:178
 msgid "Edit description"
 msgstr "Изменить описание"
 
@@ -2461,10 +2456,6 @@ msgstr "Изменить Описание"
 #: src/components/_user/worker/WorkerEditFormModal.tsx:143
 msgid "Edit worker"
 msgstr "Управлять рабочим"
-
-#: src/components/_user/user/SkillValue.tsx:201
-msgid "Effective:"
-msgstr ""
 
 #: src/components/_political/country/CountryHeader.tsx:101
 #: src/pages/country/[countryId]/elections.tsx:28
@@ -2497,7 +2488,7 @@ msgstr "Элитный Шлем"
 msgid "Elite Pants"
 msgstr "Элитные Штаны"
 
-#: src/pages/user/[userId]/bans.tsx:60
+#: src/pages/user/[userId]/bans.tsx:74
 msgid "Email"
 msgstr "Email"
 
@@ -2544,7 +2535,7 @@ msgstr "Энергия"
 msgid "Ensign"
 msgstr "Старший прапорщик"
 
-#: src/components/_political/law/LawFormModal.tsx:197
+#: src/components/_political/law/LawFormModal.tsx:219
 msgid "Enter article ID"
 msgstr "Введите ID статьи"
 
@@ -2564,10 +2555,6 @@ msgstr "Предпринимательство"
 msgid "Equipment"
 msgstr "Экипировка"
 
-#: src/components/_user/user/SkillValue.tsx:73
-msgid "Equipment:"
-msgstr ""
-
 #: src/components/_economy/market/MarketHeader.tsx:26
 msgid "Equipments"
 msgstr "Экипировка"
@@ -2579,7 +2566,7 @@ msgstr "Ошибка"
 
 #: src/components/_economy/workOffer/EstimatedCompanyBenefit.tsx:103
 msgid "Estimated benefit per"
-msgstr ""
+msgstr "Ожидаемая прибыль на"
 
 #: src/pages/party/[partyId]/index.tsx:57
 msgid "Ethics"
@@ -2587,7 +2574,7 @@ msgstr "Принципы"
 
 #: src/pages/party/[partyId]/index.tsx:51
 msgid "Ethics are bonuses from the party, applied when the president is a member of this party."
-msgstr "Принципы - бонусы от партии, членом которой является президент страны"
+msgstr "Принципы - бонусы от партии, членом которой является президент страны."
 
 #: src/components/_political/partyMotion/PartyMotionTypeSelect.tsx:83
 msgid "Ethics motions"
@@ -2679,7 +2666,7 @@ msgstr "Бонус лояльности"
 
 #: src/components/_economy/workOffer/EstimatedCompanyBenefit.tsx:164
 msgid "Fidelity bonus:"
-msgstr ""
+msgstr "Бонус лояльности:"
 
 #: src/components/_user/user/skills.frontConfig.tsx:190
 msgid "Fight skills"
@@ -2746,7 +2733,7 @@ msgstr "Найти военный отряд"
 msgid "Find another job"
 msgstr "Найти другую работу"
 
-#: src/components/_user/user/UserDropdown.tsx:316
+#: src/components/_user/user/UserDropdown.tsx:305
 msgid "Fine (remove money)"
 msgstr "Штраф (удалить деньги)"
 
@@ -2762,11 +2749,11 @@ msgstr "Уволить члена правительства"
 msgid "Fire worker?"
 msgstr "Уволить работника?"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:544
+#: src/components/_user/notification/notification.frontConfig.tsx:546
 msgid "Fired from company"
 msgstr "Уволен из компании"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:673
+#: src/components/_user/notification/notification.frontConfig.tsx:675
 msgid "Fired from government"
 msgstr "Уволен из правительства"
 
@@ -2775,7 +2762,7 @@ msgid "Fish"
 msgstr "Рыба"
 
 #: src/components/_layout/LayoutMapOptions.tsx:276
-#: src/pages/user/[userId]/bans.tsx:90
+#: src/pages/user/[userId]/bans.tsx:104
 msgid "Flags"
 msgstr "Флаги"
 
@@ -2787,14 +2774,14 @@ msgstr "Шрифт"
 msgid "Font size"
 msgstr "Размер шрифта"
 
-#: src/components/_user/user/UserDropdown.tsx:207
+#: src/components/_user/user/UserDropdown.tsx:196
 msgid "Font style"
 msgstr "Стиль шрифта"
 
 #. placeholder {0}: ts[country.specializedItem]
 #: src/pages/country/[countryId]/index.tsx:416
 msgid "for companies producing <0>{0}</0> located in <1/>."
-msgstr "для компаний, производящих <0>{0}</0> в <1/>"
+msgstr "для компаний, производящих <0>{0}</0> в <1/>."
 
 #: src/pages/shop/index.tsx:129
 msgid "Free daily reward"
@@ -2832,7 +2819,7 @@ msgstr "Гемы используются для покупки ассетов �
 msgid "General"
 msgstr "Генерал"
 
-#: src/components/_user/mission/MissionsList.tsx:238
+#: src/components/_user/mission/MissionsList.tsx:241
 msgid "Generate Missions"
 msgstr "Генерация миссий"
 
@@ -2856,7 +2843,7 @@ msgstr "Подарок отправлен! Набор скинов разбло�
 msgid "Gift sent! Thanks for supporting the game <3"
 msgstr "Подарок отправлен! Спасибо за поддержку игры <3"
 
-#: src/components/_user/user/UserDropdown.tsx:241
+#: src/components/_user/user/UserDropdown.tsx:230
 msgid "Gift Supporter Plan"
 msgstr "Подарить премиум-подписку"
 
@@ -2868,15 +2855,11 @@ msgstr "Подарить этот набор другому"
 msgid "gifted"
 msgstr "подарил"
 
-#: src/components/_user/user/UserDropdown.tsx:344
-msgid "Give \"Bug finder\" badge"
-msgstr "Выдать знак \"Искатель багов\""
+#: src/components/_user/user/UserDropdown.tsx:333
+msgid "Give badge"
+msgstr ""
 
-#: src/components/_user/user/UserDropdown.tsx:349
-msgid "Give Bug Finder Badge"
-msgstr "Выдать знак \"Искатель багов\""
-
-#: src/components/_user/user/UserDropdown.tsx:323
+#: src/components/_user/user/UserDropdown.tsx:312
 msgid "Give money"
 msgstr "Дать денег"
 
@@ -2884,15 +2867,15 @@ msgstr "Дать денег"
 msgid "Give your token a descriptive name so you can identify it later."
 msgstr "Дайте своему токену описательное имя, чтобы Вы могли идентифицировать его."
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1553
+#: src/components/_user/notification/notification.frontConfig.tsx:1560
 msgid "Giveaway Ended"
 msgstr "Розыгрыш окончен"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1541
+#: src/components/_user/notification/notification.frontConfig.tsx:1548
 msgid "Giveaway Started"
 msgstr "Розыгрыш начался"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1525
+#: src/components/_user/notification/notification.frontConfig.tsx:1532
 msgid "Giveaway Won!"
 msgstr "Выиграл Розыгрыш!"
 
@@ -2913,7 +2896,7 @@ msgstr "Срочно купи лотерейный билет"
 msgid "Go to job market"
 msgstr "Перейти на рынок труда"
 
-#: src/components/_economy/company/CompanyList.tsx:92
+#: src/components/_economy/company/CompanyList.tsx:88
 msgid "Go to skills"
 msgstr "Перейти к навыкам"
 
@@ -2997,7 +2980,7 @@ msgstr "Ударь <0>{count}</0> раз в битвах"
 
 #: src/components/_other/shop/ShopHeader.tsx:16
 #: src/components/_political/country/CountryHeader.tsx:57
-#: src/components/_user/user/UserHeader.tsx:148
+#: src/components/_user/user/UserHeader.tsx:150
 msgid "Home"
 msgstr "Главная"
 
@@ -3091,7 +3074,7 @@ msgid "Income from taxes increases by <0>{0}</0>."
 msgstr "Поступления от налогов увеличены на <0>{0}</0>."
 
 #: src/components/_political/country/CountryTaxes.tsx:21
-#: src/components/_political/law/LawFormModal.tsx:207
+#: src/components/_political/law/LawFormModal.tsx:229
 msgid "Income tax"
 msgstr "Подоходный налог"
 
@@ -3115,12 +3098,11 @@ msgstr "Новобранец"
 
 #: src/components/_layout/LayoutMenu.tsx:123
 #: src/components/_user/user/MyAvatar.tsx:35
-#: src/components/_user/user/UserHeader.tsx:154
+#: src/components/_user/user/UserHeader.tsx:156
 #: src/pages/companies.tsx:83
 #: src/pages/country/[countryId]/account.tsx:24
 #: src/pages/market/index.tsx:49
 #: src/pages/user/[userId]/account.tsx:19
-#: src/pages/user/[userId]/bans.tsx:100
 #: src/pages/user/[userId]/companies.tsx:46
 #: src/pages/user/[userId]/index.tsx:192
 #: src/pages/user/[userId]/inventory.tsx:30
@@ -3148,7 +3130,7 @@ msgstr "Будет только лучше… наверное"
 msgid "It will not gain any production and its workers will not be able to work."
 msgstr "Она не будет производить никакой продукции, а её работники не смогут работать."
 
-#: src/components/_user/notification/notification.frontConfig.tsx:604
+#: src/components/_user/notification/notification.frontConfig.tsx:606
 msgid "Item bought"
 msgstr "Предмет куплен"
 
@@ -3271,8 +3253,8 @@ msgstr "Начать праймериз"
 msgid "Law failed"
 msgstr "Закон отклонён"
 
-#: src/components/_political/law/LawFormModal.tsx:72
-#: src/components/_user/notification/notification.frontConfig.tsx:627
+#: src/components/_political/law/LawFormModal.tsx:76
+#: src/components/_user/notification/notification.frontConfig.tsx:629
 msgid "Law proposed"
 msgstr "Закон принят"
 
@@ -3332,7 +3314,7 @@ msgstr "Легендарные Штаны"
 msgid "Level up your skills!"
 msgstr "Улучши свои навыки!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:420
+#: src/components/_user/notification/notification.frontConfig.tsx:422
 msgid "Level up!"
 msgstr "Новый уровень!"
 
@@ -3348,7 +3330,7 @@ msgstr "Освободить регион"
 msgid "Lieutenant"
 msgstr "Лейтенант"
 
-#: src/components/_political/law/LawFormModal.tsx:248
+#: src/components/_political/law/LawFormModal.tsx:270
 msgid "Light"
 msgstr "Мягкое"
 
@@ -3396,7 +3378,7 @@ msgstr "Скот"
 msgid "Load more"
 msgstr "Загрузить больше"
 
-#: src/components/_military/mu/MuList.tsx:124
+#: src/components/_military/mu/MuList.tsx:120
 msgid "Load More Military Units"
 msgstr "Загрузить больше Военных Отрядов"
 
@@ -3412,7 +3394,7 @@ msgstr "Загрузка {status}..."
 msgid "Loading..."
 msgstr "Загрузка..."
 
-#: src/components/_military/mu/MuFormModal.tsx:119
+#: src/components/_military/mu/MuFormModal.tsx:116
 msgid "Location"
 msgstr "Локация"
 
@@ -3438,15 +3420,15 @@ msgstr "Лут Кейсов"
 msgid "Loot chance"
 msgstr "Шанс лута"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:491
+#: src/components/_user/notification/notification.frontConfig.tsx:493
 msgid "Looted case"
 msgstr "Залутал кейс"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:489
+#: src/components/_user/notification/notification.frontConfig.tsx:491
 msgid "Looted cases"
 msgstr "Залутал кейсы"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:726
+#: src/components/_user/notification/notification.frontConfig.tsx:728
 msgid "Looted money"
 msgstr "Залутал деньги"
 
@@ -3487,7 +3469,7 @@ msgstr "Управление"
 msgid "map"
 msgstr "карта"
 
-#: src/components/_political/law/LawFormModal.tsx:245
+#: src/components/_political/law/LawFormModal.tsx:267
 msgid "Map Accent"
 msgstr "Оттенок на карте"
 
@@ -3501,7 +3483,7 @@ msgid "Market"
 msgstr "Рынок"
 
 #: src/components/_political/country/CountryTaxes.tsx:24
-#: src/components/_political/law/LawFormModal.tsx:211
+#: src/components/_political/law/LawFormModal.tsx:233
 msgid "Market tax"
 msgstr "Налог на продажу"
 
@@ -3574,7 +3556,7 @@ msgstr "Заявки на членство"
 msgid "Members"
 msgstr "Участники"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1304
+#: src/components/_user/notification/notification.frontConfig.tsx:1311
 msgid "Mentioned in message"
 msgstr "Упомянут в сообщении"
 
@@ -3582,7 +3564,7 @@ msgstr "Упомянут в сообщении"
 msgid "Message (Optional)"
 msgstr "Сообщение (опционально)"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:962
+#: src/components/_user/notification/notification.frontConfig.tsx:964
 msgid "Message liked"
 msgstr "Сообщение лайкнуто"
 
@@ -3603,13 +3585,9 @@ msgstr "Военные законы"
 msgid "Military Rank"
 msgstr "Воинское звание"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1329
+#: src/components/_user/notification/notification.frontConfig.tsx:1336
 msgid "Military Rank Up!"
 msgstr "Вы повышены в звании!"
-
-#: src/components/_user/user/SkillValue.tsx:140
-msgid "Military rank:"
-msgstr ""
 
 #: src/components/_user/user/MilitaryRanksInfoModal.tsx:82
 msgid "Military Ranks"
@@ -3619,7 +3597,7 @@ msgstr "Воинские звания"
 msgid "Military Unit"
 msgstr "ВО"
 
-#: src/components/_military/mu/MuFormModal.tsx:51
+#: src/components/_military/mu/MuFormModal.tsx:49
 msgid "Military unit created"
 msgstr "Военный отряд создан"
 
@@ -3645,7 +3623,7 @@ msgstr "Министр Иностранных Дел"
 
 #: src/components/_layout/LayoutRightIcons.tsx:254
 #: src/components/_layout/MoreButtonNav.tsx:103
-#: src/components/_user/mission/MissionsList.tsx:165
+#: src/components/_user/mission/MissionsList.tsx:168
 msgid "Missions"
 msgstr "Миссии"
 
@@ -3681,7 +3659,7 @@ msgstr "Ожидайте больше премиумных приколюх!"
 msgid "Motion failed"
 msgstr "Постановление отклонено"
 
-#: src/components/_political/partyMotion/PartyMotionFormModal.tsx:46
+#: src/components/_political/partyMotion/PartyMotionFormModal.tsx:51
 msgid "Motion proposed"
 msgstr "Постановление принято"
 
@@ -3711,7 +3689,7 @@ msgstr "Перенести компанию"
 msgid "Move to top"
 msgstr "Поднять на верх списка"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:559
+#: src/components/_user/notification/notification.frontConfig.tsx:561
 msgid "Moved to a new company"
 msgstr "Переведён в новую компанию"
 
@@ -3720,23 +3698,23 @@ msgstr "Переведён в новую компанию"
 msgid "MU"
 msgstr "ВО"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1202
+#: src/components/_user/notification/notification.frontConfig.tsx:1209
 msgid "MU Application Accepted"
 msgstr "Заявка в ВО принята"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1189
+#: src/components/_user/notification/notification.frontConfig.tsx:1196
 msgid "MU Application Rejected"
 msgstr "Заявка в ВО отклонена"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1290
+#: src/components/_user/notification/notification.frontConfig.tsx:1297
 msgid "MU Donation Received"
 msgstr "Получено пожертвование в ВО"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1272
+#: src/components/_user/notification/notification.frontConfig.tsx:1279
 msgid "MU Ownership Transferred"
 msgstr "Владелец ВО сменён"
 
-#: src/components/_user/user/UserDropdown.tsx:289
+#: src/components/_user/user/UserDropdown.tsx:278
 msgid "Mute user"
 msgstr "Замутить игрока"
 
@@ -3776,7 +3754,7 @@ msgstr "Мифические Штаны"
 msgid "Mythic?! Your account is blessed"
 msgstr "Мифик?! Твой аккаунт благословлён"
 
-#: src/components/_military/mu/MuFormModal.tsx:115
+#: src/components/_military/mu/MuFormModal.tsx:112
 #: src/components/_political/party/PartyFormModal.tsx:99
 msgid "Name"
 msgstr "Название"
@@ -3787,7 +3765,7 @@ msgstr "Нужна работа?"
 
 #: src/components/_economy/workOffer/EstimatedCompanyBenefit.tsx:173
 msgid "Net benefit:"
-msgstr ""
+msgstr "Итоговая прибыль:"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:26
 msgid "Never give up!"
@@ -3799,7 +3777,7 @@ msgstr "Не прекращай лудоманить"
 
 #: src/components/_other/shop/SkinItem.tsx:119
 #: src/components/_other/shop/SkinPackItem.tsx:83
-#: src/components/_social/ArticleList.tsx:133
+#: src/components/_social/ArticleList.tsx:161
 msgid "New"
 msgstr "Новые"
 
@@ -3807,19 +3785,19 @@ msgstr "Новые"
 msgid "New API Token Created"
 msgstr "Новый API токен создан"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:882
+#: src/components/_user/notification/notification.frontConfig.tsx:884
 msgid "New article"
 msgstr "Новая статья"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:914
+#: src/components/_user/notification/notification.frontConfig.tsx:916
 msgid "New comment"
 msgstr "Новый комментарий"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:475
+#: src/components/_user/notification/notification.frontConfig.tsx:477
 msgid "New equipment"
 msgstr "Новое снаряжение"
 
-#: src/components/_political/partyMotion/PartyMotionFormModal.tsx:133
+#: src/components/_political/partyMotion/PartyMotionFormModal.tsx:157
 msgid "New ethics configuration"
 msgstr "Новые принципы"
 
@@ -3837,11 +3815,11 @@ msgstr "Новое предложение работы"
 msgid "New location"
 msgstr "Новая локация"
 
-#: src/components/_military/mu/MuFormModal.tsx:95
+#: src/components/_military/mu/MuFormModal.tsx:92
 msgid "New military unit"
 msgstr "Новый военный отряд"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1216
+#: src/components/_user/notification/notification.frontConfig.tsx:1223
 msgid "New MU Application"
 msgstr "Новая заявка в ВО"
 
@@ -3849,28 +3827,28 @@ msgstr "Новая заявка в ВО"
 msgid "New name"
 msgstr "Новое имя"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:390
+#: src/components/_user/notification/notification.frontConfig.tsx:392
 msgid "New Party Application"
 msgstr "Новая заявка в Партию"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:333
+#: src/components/_user/notification/notification.frontConfig.tsx:335
 msgid "New Party Leader"
 msgstr "Новый Лидер Партии"
 
 #: src/components/_political/event/EventList.tsx:66
-#: src/components/_user/notification/notification.frontConfig.tsx:223
+#: src/components/_user/notification/notification.frontConfig.tsx:225
 msgid "New president"
 msgstr "Новый президент"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:684
+#: src/components/_user/notification/notification.frontConfig.tsx:686
 msgid "New referred user"
 msgstr "Новый приглашённый игрок"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:695
+#: src/components/_user/notification/notification.frontConfig.tsx:697
 msgid "New referrer"
 msgstr "Новый реферал"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:948
+#: src/components/_user/notification/notification.frontConfig.tsx:950
 msgid "New subscriber"
 msgstr "Новый подписчик"
 
@@ -3878,11 +3856,11 @@ msgstr "Новый подписчик"
 msgid "New supporters"
 msgstr "Новые премиум-подписчики"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:467
+#: src/components/_user/notification/notification.frontConfig.tsx:469
 msgid "New weapon"
 msgstr "Новое оружие"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:513
+#: src/components/_user/notification/notification.frontConfig.tsx:515
 msgid "New worker"
 msgstr "Новый работник"
 
@@ -3967,7 +3945,7 @@ msgstr "Нет рейтинга урона."
 msgid "No donations yet"
 msgstr "Нет пожертвований"
 
-#: src/pages/user/[userId]/bans.tsx:68
+#: src/pages/user/[userId]/bans.tsx:82
 msgid "No email found"
 msgstr "Email не найден"
 
@@ -3983,11 +3961,11 @@ msgstr "Нет экипированных предметов"
 msgid "No laws yet"
 msgstr "Нет законопроектов"
 
-#: src/components/_military/mu/MuList.tsx:97
+#: src/components/_military/mu/MuList.tsx:93
 msgid "No military units found"
 msgstr "Военные отряды не найдены"
 
-#: src/components/_user/mission/MissionsList.tsx:228
+#: src/components/_user/mission/MissionsList.tsx:231
 msgid "No missions available"
 msgstr "Миссии недоступны"
 
@@ -4003,7 +3981,7 @@ msgstr "Постановлений не найдено"
 msgid "No offers found"
 msgstr "Предложения не найдены"
 
-#: src/components/_political/government/Government.tsx:179
+#: src/components/_political/government/Government.tsx:177
 msgid "No one nominated yet."
 msgstr "Пока никто не номинирован."
 
@@ -4051,20 +4029,20 @@ msgstr "Войны не найдены"
 msgid "No work offers"
 msgstr "Предложения работы не найдены"
 
-#: src/components/_political/government/Government.tsx:187
-#: src/components/_political/government/NominateForm.tsx:61
+#: src/components/_political/government/Government.tsx:185
+#: src/components/_political/government/NominateForm.tsx:59
 msgid "Nominate"
 msgstr "Выдвинуть"
 
-#: src/components/_political/government/Government.tsx:198
+#: src/components/_political/government/Government.tsx:196
 msgid "Nominate a {title}"
 msgstr "Выдвинуть {title}"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:661
+#: src/components/_user/notification/notification.frontConfig.tsx:663
 msgid "Nominated at government"
 msgstr "Выдвинут в правительство"
 
-#: src/components/_political/law/LawFormModal.tsx:249
+#: src/components/_political/law/LawFormModal.tsx:271
 msgid "Normal"
 msgstr "Обычный"
 
@@ -4084,9 +4062,9 @@ msgstr "Вот это другое дело!"
 msgid "Number of Donors:"
 msgstr "Количество спонсоров:"
 
-#: src/components/_political/partyMotion/PartyMotionFormModal.tsx:118
+#: src/components/_political/partyMotion/PartyMotionFormModal.tsx:142
 msgid "Occupied region"
-msgstr "оккупированный регион"
+msgstr "Оккупированный регион"
 
 #: src/utils/translations.tsx:75
 msgid "Oil"
@@ -4216,7 +4194,7 @@ msgstr "Приобретён"
 msgid "Owned Military Units"
 msgstr "Собственные военные отряды"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1274
+#: src/components/_user/notification/notification.frontConfig.tsx:1281
 msgid "Ownership of <0/> has been transferred from <1/> to <2/>"
 msgstr "Владение <0/> передано от <1/> к <2/>"
 
@@ -4252,11 +4230,11 @@ msgstr "Партии"
 msgid "Party"
 msgstr "Партия"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:363
+#: src/components/_user/notification/notification.frontConfig.tsx:365
 msgid "Party Application Accepted"
 msgstr "Заявка в партию принята"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:377
+#: src/components/_user/notification/notification.frontConfig.tsx:379
 msgid "Party Application Rejected"
 msgstr "Заявка в партию отклонена"
 
@@ -4264,27 +4242,27 @@ msgstr "Заявка в партию отклонена"
 msgid "Party Council election"
 msgstr "Выборы в Совет Партии"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:251
+#: src/components/_user/notification/notification.frontConfig.tsx:253
 msgid "Party Council election candidacy is now open in <0/>"
 msgstr "Начался приём заявок на выборы в Совет Партии в <0/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:242
+#: src/components/_user/notification/notification.frontConfig.tsx:244
 msgid "Party Council election candidate open"
 msgstr "Начался приём заявок на выборы в Совет Партии"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:292
+#: src/components/_user/notification/notification.frontConfig.tsx:294
 msgid "Party Council election ended"
 msgstr "Выборы в Совнт Партии окончены"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:301
+#: src/components/_user/notification/notification.frontConfig.tsx:303
 msgid "Party Council election has ended in <0/>. Check the results!"
 msgstr "Выборы в Совет Партии окончены в <0/>. Помотрите результаты!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:267
+#: src/components/_user/notification/notification.frontConfig.tsx:269
 msgid "Party Council election vote open"
 msgstr "Начались выборы в Совет Партии"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:276
+#: src/components/_user/notification/notification.frontConfig.tsx:278
 msgid "Party Council election voting is now open in <0/>"
 msgstr "Начались выборы в Совет Партии в <0/>"
 
@@ -4292,7 +4270,7 @@ msgstr "Начались выборы в Совет Партии в <0/>"
 msgid "Party created"
 msgstr "Партия создана"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:404
+#: src/components/_user/notification/notification.frontConfig.tsx:406
 msgid "Party Donation Received"
 msgstr "Получено пожертвование в Партию"
 
@@ -4300,27 +4278,27 @@ msgstr "Получено пожертвование в Партию"
 msgid "Party Leader election"
 msgstr "Выборы Лидера Партии"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:246
+#: src/components/_user/notification/notification.frontConfig.tsx:248
 msgid "Party Leader election candidacy is now open in <0/>"
 msgstr "Начался приём кандидатов на Лидера Партии в <0/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:240
+#: src/components/_user/notification/notification.frontConfig.tsx:242
 msgid "Party Leader election candidate open"
 msgstr "Начался приём кандидатов на Лидера Партии"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:290
+#: src/components/_user/notification/notification.frontConfig.tsx:292
 msgid "Party Leader election ended"
 msgstr "Выборы Лидера Партии окончены"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:296
+#: src/components/_user/notification/notification.frontConfig.tsx:298
 msgid "Party Leader election has ended in <0/>. Check the results!"
 msgstr "Выборы Лидера Партии окончены в <0?>. Посмотрите результаты!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:265
+#: src/components/_user/notification/notification.frontConfig.tsx:267
 msgid "Party Leader election vote open"
 msgstr "Начались выборы Лидера Партии"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:271
+#: src/components/_user/notification/notification.frontConfig.tsx:273
 msgid "Party Leader election voting is now open in <0/>"
 msgstr "Начались выборы Лидера Партии в <0/>"
 
@@ -4365,7 +4343,7 @@ msgstr "Посадить дерево в дата-центре"
 msgid "Please complete the CAPTCHA."
 msgstr "Пожалуйста, пройдите CAPTCHA."
 
-#: src/components/_military/mu/MuFormModal.tsx:70
+#: src/components/_military/mu/MuFormModal.tsx:68
 #: src/components/_political/party/PartyFormModal.tsx:61
 msgid "Please select a region"
 msgstr "Пожалуйста, выберите регион"
@@ -4391,23 +4369,23 @@ msgstr "Точность"
 msgid "Premium"
 msgstr "Премиум-подписка"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1121
+#: src/components/_user/notification/notification.frontConfig.tsx:1128
 msgid "Premium activated"
 msgstr "Премиум-подписка активирована"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1131
+#: src/components/_user/notification/notification.frontConfig.tsx:1138
 msgid "Premium expired"
 msgstr "Премиум-подписка истёкла"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1174
+#: src/components/_user/notification/notification.frontConfig.tsx:1181
 msgid "Premium gift expired"
 msgstr "Премиум-подписка истекла"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1152
+#: src/components/_user/notification/notification.frontConfig.tsx:1159
 msgid "Premium gift received"
 msgstr "Подарочная премиум-подписка получена"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1139
+#: src/components/_user/notification/notification.frontConfig.tsx:1146
 msgid "Premium gift sent"
 msgstr "Подарочная премиум-подписка отправлена"
 
@@ -4423,27 +4401,27 @@ msgstr "Президент"
 msgid "Presidential election"
 msgstr "Президенсткие выборы"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:137
+#: src/components/_user/notification/notification.frontConfig.tsx:139
 msgid "Presidential election candidacy is now open in <0/>"
 msgstr "Выдвижение кандидатов на президентские выборы в <0/> открыто"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:131
+#: src/components/_user/notification/notification.frontConfig.tsx:133
 msgid "Presidential election candidate open"
 msgstr "Выдвижение кандидатов на президентские выборы открыто"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:181
+#: src/components/_user/notification/notification.frontConfig.tsx:183
 msgid "Presidential election ended"
 msgstr "Президентские выборы завершены"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:187
+#: src/components/_user/notification/notification.frontConfig.tsx:189
 msgid "Presidential election has ended in <0/>. Check the results!"
 msgstr "Президентские выборы в <0/> завершены. Ознакомьтесь с результатами!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:156
+#: src/components/_user/notification/notification.frontConfig.tsx:158
 msgid "Presidential election vote open"
 msgstr "Голосование на президентских выборах открыто"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:162
+#: src/components/_user/notification/notification.frontConfig.tsx:164
 msgid "Presidential election voting is now open in <0/>"
 msgstr "Голосование на президентских выборах в <0/> открыто"
 
@@ -4455,7 +4433,7 @@ msgstr "Президентские выборы"
 msgid "Primary election"
 msgstr "Праймериз"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:347
+#: src/components/_user/notification/notification.frontConfig.tsx:349
 msgid "Primary Election Ended"
 msgstr "Праймериз окончен"
 
@@ -4513,13 +4491,13 @@ msgstr "Бонус к производству"
 
 #: src/components/_economy/workOffer/EstimatedCompanyBenefit.tsx:156
 msgid "Production bonus:"
-msgstr ""
+msgstr "Бонус к производству:"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:714
+#: src/components/_user/notification/notification.frontConfig.tsx:716
 msgid "Production in<0/> is full, you should start production!"
 msgstr "Производство в <0/> заполнено, начните производство!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:712
+#: src/components/_user/notification/notification.frontConfig.tsx:714
 msgid "Production is full"
 msgstr "Производство заполнено"
 
@@ -4527,11 +4505,11 @@ msgstr "Производство заполнено"
 msgid "Profile"
 msgstr "Профиль"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1244
+#: src/components/_user/notification/notification.frontConfig.tsx:1251
 msgid "Promoted to Commander"
 msgstr "Повышен до командира"
 
-#: src/components/_political/partyMotion/PartyMotionFormModal.tsx:101
+#: src/components/_political/partyMotion/PartyMotionFormModal.tsx:125
 #: src/components/_political/partyMotion/PartyMotionList.tsx:48
 msgid "Propose a motion"
 msgstr "Предложить постановление"
@@ -4549,11 +4527,11 @@ msgstr "Предложить союз с <0/>, увеличив урон Ваш�
 msgid "Propose an alliance to another country"
 msgstr "Предложить союз другой стране"
 
-#: src/components/_political/law/LawFormModal.tsx:290
+#: src/components/_political/law/LawFormModal.tsx:318
 msgid "Propose law"
 msgstr "Предложить законопроект"
 
-#: src/components/_political/partyMotion/PartyMotionFormModal.tsx:157
+#: src/components/_political/partyMotion/PartyMotionFormModal.tsx:187
 msgid "Propose motion"
 msgstr "Предложить постановление"
 
@@ -4607,7 +4585,7 @@ msgstr "Быстрый разбор вещей"
 msgid "Ranking loot chance"
 msgstr "Рейтинг шанса лута"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1484
+#: src/components/_user/notification/notification.frontConfig.tsx:1491
 msgid "Ranking Reward"
 msgstr "Награда за рейтинг"
 
@@ -4619,11 +4597,11 @@ msgstr "Рейтинги"
 
 #: src/components/_layout/LayoutRightIcons.tsx:313
 msgid "Ranks"
-msgstr "Звания"
+msgstr "Рейтинг"
 
 #: src/components/_economy/workOffer/EstimatedCompanyBenefit.tsx:128
 msgid "Raw materials:"
-msgstr ""
+msgstr "Сырьё:"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:381
 msgid "Reach level 10"
@@ -4657,10 +4635,6 @@ msgstr "Достигните воинского звания 5"
 msgid "Reach Military Rank 5"
 msgstr "Достигните Воинского Звания 5"
 
-#: src/components/_user/user/SkillValue.tsx:171
-msgid "Reached limit:"
-msgstr ""
-
 #. placeholder {0}: leveling.level + 1
 #: src/components/_user/user/Level.tsx:108
 msgid "Reaching level {0} will give you <0>{nextLevelSkillPoints} Skill Points</0>."
@@ -4683,7 +4657,7 @@ msgid "Rear Admiral"
 msgstr "Контр-адмирал"
 
 #: src/components/_political/law/Law.tsx:71
-#: src/components/_political/law/LawFormModal.tsx:157
+#: src/components/_political/law/LawFormModal.tsx:179
 msgid "Reason"
 msgstr "Причина"
 
@@ -4697,7 +4671,7 @@ msgstr "Рецепт"
 
 #: src/components/_other/shop/SkinPackModal.tsx:232
 msgid "Recipient"
-msgstr ""
+msgstr "Реципиент"
 
 #: src/components/_economy/company/RecommendedCompanyRegions.tsx:84
 msgid "Recommended regions"
@@ -4715,7 +4689,7 @@ msgstr "Снижает потерю здоровья в боях"
 msgid "Referral link copied to clipboard"
 msgstr "Реферальная ссылка скопирована в буфер обмена"
 
-#: src/components/_user/user/UserHeader.tsx:208
+#: src/components/_user/user/UserHeader.tsx:210
 #: src/components/_user/user/UserRankingsPanel.tsx:50
 #: src/pages/user/[userId]/index.tsx:210
 #: src/pages/user/[userId]/referrals.tsx:67
@@ -4762,7 +4736,7 @@ msgstr "Регион"
 msgid "Region buy offer"
 msgstr "Предложение покупки региона"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1046
+#: src/components/_user/notification/notification.frontConfig.tsx:1048
 msgid "Region is revolting!"
 msgstr "В регионе восстание!"
 
@@ -4841,7 +4815,7 @@ msgstr "Исключить из совета партии"
 msgid "Remove all"
 msgstr "Удалить всё"
 
-#: src/components/_user/user/UserDropdown.tsx:337
+#: src/components/_user/user/UserDropdown.tsx:326
 msgid "Remove all offers"
 msgstr "Удалить все предложения"
 
@@ -4849,7 +4823,7 @@ msgstr "Удалить все предложения"
 msgid "Remove an inactive congress member from its position"
 msgstr "Снять неактивного депутата с должности"
 
-#: src/components/_user/user/UserDropdown.tsx:367
+#: src/components/_user/user/UserDropdown.tsx:351
 msgid "Remove Avatar"
 msgstr "Удалить аватар"
 
@@ -4857,7 +4831,7 @@ msgstr "Удалить аватар"
 msgid "Remove council member"
 msgstr "Исключить члена совета"
 
-#: src/components/_user/user/UserDropdown.tsx:389
+#: src/components/_user/user/UserDropdown.tsx:373
 msgid "Remove Description"
 msgstr "Удалить описание"
 
@@ -4870,7 +4844,7 @@ msgstr "Убрать противника"
 msgid "Remove the current party leader from their position"
 msgstr "Убрать текущего лидера партии с его позиции"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1230
+#: src/components/_user/notification/notification.frontConfig.tsx:1237
 msgid "Removed from Military Unit"
 msgstr "Исключён из военного отряда"
 
@@ -4887,7 +4861,7 @@ msgstr "Переименовать компанию"
 msgid "Replace all party ethics with a new configuration"
 msgstr "Обновить все принципы партии"
 
-#: src/components/_user/user/UserDropdown.tsx:248
+#: src/components/_user/user/UserDropdown.tsx:237
 msgid "Report user"
 msgstr "Пожаловаться на пользователя"
 
@@ -4908,7 +4882,7 @@ msgstr "Обновить задание"
 msgid "Reset"
 msgstr "Сбросить"
 
-#: src/components/_user/user/UserDropdown.tsx:362
+#: src/components/_user/user/UserDropdown.tsx:346
 msgid "Reset avatar"
 msgstr "Сбросить аватар"
 
@@ -4916,7 +4890,7 @@ msgstr "Сбросить аватар"
 msgid "Reset CAPTCHA"
 msgstr "Сбросить CAPTCHA"
 
-#: src/components/_user/user/UserDropdown.tsx:384
+#: src/components/_user/user/UserDropdown.tsx:368
 msgid "Reset description"
 msgstr "Сбросить описание"
 
@@ -4924,11 +4898,11 @@ msgstr "Сбросить описание"
 msgid "Reset tutorials"
 msgstr "Сбросить обучение"
 
-#: src/components/_user/user/UserDropdown.tsx:373
+#: src/components/_user/user/UserDropdown.tsx:357
 msgid "Reset username"
 msgstr "Сбросить никнейм"
 
-#: src/components/_user/user/UserDropdown.tsx:378
+#: src/components/_user/user/UserDropdown.tsx:362
 msgid "Reset Username"
 msgstr "Сбросить никнейм"
 
@@ -4957,7 +4931,7 @@ msgstr "Ресурсы"
 msgid "Resources reshuffled"
 msgstr "Ресурсы перераспределены"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:989
+#: src/components/_user/notification/notification.frontConfig.tsx:991
 msgid "Response to message"
 msgstr "Ответ на сообщение"
 
@@ -4973,7 +4947,7 @@ msgstr "Вернуть регион в его родную страну"
 msgid "Revoke API token?"
 msgstr "Отозвать API токен?"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1060
+#: src/components/_user/notification/notification.frontConfig.tsx:1062
 msgid "Revolt started!"
 msgstr "Восстание началось!"
 
@@ -4985,7 +4959,7 @@ msgstr "Революция окончена"
 msgid "Revolution started"
 msgstr "Революция началась"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1075
+#: src/components/_user/notification/notification.frontConfig.tsx:1077
 msgid "Revolution started!"
 msgstr "Революция началась!"
 
@@ -5005,15 +4979,15 @@ msgid "Round #{0}"
 msgstr "Раунд #{0}"
 
 #. placeholder {0}: data.roundNumber
-#: src/components/_user/notification/notification.frontConfig.tsx:802
+#: src/components/_user/notification/notification.frontConfig.tsx:804
 msgid "Round <0>#{0}</0> in <1/> is about to end!"
 msgstr "Раунд <0>#{0}</0> в <1/> скоро завершится!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:800
+#: src/components/_user/notification/notification.frontConfig.tsx:802
 msgid "Round about to end"
 msgstr "Раунд скоро завершится"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:779
+#: src/components/_user/notification/notification.frontConfig.tsx:781
 msgid "Round ended"
 msgstr "Раунд завершен"
 
@@ -5043,7 +5017,7 @@ msgstr "Правящая Партия"
 msgid "Running low on health?"
 msgstr "Мало здоровья?"
 
-#: src/pages/user/[userId]/bans.tsx:153
+#: src/pages/user/[userId]/bans.tsx:280
 msgid "Sanction History"
 msgstr "История санкций"
 
@@ -5083,11 +5057,11 @@ msgstr "Поиск стран…"
 
 #: src/components/_other/shop/SkinPackModal.tsx:234
 msgid "Search recipient username..."
-msgstr ""
+msgstr "Искать никнейм реципиента..."
 
-#: src/components/_political/government/NominateForm.tsx:49
+#: src/components/_political/government/NominateForm.tsx:47
 msgid "Search username to nominate..."
-msgstr ""
+msgstr "Искать никнейм для выдвижения..."
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:44
 msgid "See all your workers and companies stats"
@@ -5097,7 +5071,7 @@ msgstr "Просмотр всех данных по работникам и ко
 msgid "See your spending and income breakdown"
 msgstr "Смотреть расход и доход"
 
-#: src/components/_military/mu/MuFormModal.tsx:120
+#: src/components/_military/mu/MuFormModal.tsx:117
 msgid "Select a location"
 msgstr "Выбрать локацию"
 
@@ -5109,11 +5083,11 @@ msgstr "Выбрать регион"
 msgid "Select all"
 msgstr "Выбрать все"
 
-#: src/components/_political/partyMotion/PartyMotionFormModal.tsx:119
+#: src/components/_political/partyMotion/PartyMotionFormModal.tsx:143
 msgid "Select an occupied region"
 msgstr "Выбрать оккупированный регион"
 
-#: src/components/_user/user/UserDropdown.tsx:221
+#: src/components/_user/user/UserDropdown.tsx:210
 msgid "Select banner"
 msgstr "Выбрать баннер"
 
@@ -5121,7 +5095,7 @@ msgstr "Выбрать баннер"
 msgid "Select law type"
 msgstr "Выбрать законопроект"
 
-#: src/components/_political/law/LawFormModal.tsx:246
+#: src/components/_political/law/LawFormModal.tsx:268
 msgid "Select map accent"
 msgstr "Выбрать оттенок на карте"
 
@@ -5129,7 +5103,7 @@ msgstr "Выбрать оттенок на карте"
 msgid "Select motion type"
 msgstr "Выберите постановление"
 
-#: src/components/_user/user/UserDropdown.tsx:228
+#: src/components/_user/user/UserDropdown.tsx:217
 msgid "Select skin"
 msgstr "Выбрать скин"
 
@@ -5141,6 +5115,10 @@ msgstr "Работа на себя"
 #: src/components/_user/mission/mission.frontConfig.tsx:62
 msgid "Self work <0>{count}</0> times in your companies"
 msgstr "Работайте <0>{count}</0> раз в Ваших компаниях"
+
+#: src/pages/user/[userId]/bans.tsx:206
+msgid "Sell"
+msgstr ""
 
 #: src/components/_economy/company/CompanyDropdown.tsx:253
 msgid "Sell company?"
@@ -5158,7 +5136,7 @@ msgstr "Продай это, тебе нужно купить больше ке�
 msgid "Sell Items"
 msgstr "Продать предметы"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:744
+#: src/components/_user/notification/notification.frontConfig.tsx:746
 msgid "Sell order match!"
 msgstr "Совпадение заявки на продажу!"
 
@@ -5168,7 +5146,7 @@ msgstr "Заявки на продажу"
 
 #: src/components/_economy/workOffer/EstimatedCompanyBenefit.tsx:111
 msgid "Sell price:"
-msgstr ""
+msgstr "Рыночная цена:"
 
 #: src/components/_economy/itemTrading/ItemTradingOrderItem.tsx:147
 msgid "sells"
@@ -5183,7 +5161,7 @@ msgstr "Отправить <0>{0}</0> <1/>"
 msgid "Send <0>{count}</0> messages"
 msgstr "Отправить <0>{count}</0> сообщений"
 
-#: src/components/_user/user/UserDropdown.tsx:397
+#: src/components/_user/user/UserDropdown.tsx:381
 msgid "Send a message"
 msgstr "Отправить сообщение"
 
@@ -5203,7 +5181,7 @@ msgstr "Отправить сообщение"
 msgid "Send money to another country"
 msgstr "Отправить деньги другой стране"
 
-#: src/components/_user/user/UserDropdown.tsx:303
+#: src/components/_user/user/UserDropdown.tsx:292
 msgid "Send warning"
 msgstr "Отправить предупреждение"
 
@@ -5233,7 +5211,7 @@ msgstr "Выбрать цвет страны"
 
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:88
 msgid "Set new party ethics configuration:"
-msgstr "Установить новый набор принципов партии"
+msgstr "Установить новый набор принципов партии:"
 
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:79
 msgid "Set party ethics"
@@ -5273,7 +5251,7 @@ msgid "Set your username"
 msgstr "Выбрать ваш никнейм"
 
 #: src/components/_user/user/MyAvatar.tsx:54
-#: src/components/_user/user/UserHeader.tsx:214
+#: src/components/_user/user/UserHeader.tsx:216
 msgid "Settings"
 msgstr "Настройки"
 
@@ -5283,7 +5261,7 @@ msgstr "Настройки"
 msgid "Shop"
 msgstr "Магазин"
 
-#: src/pages/user/[userId]/bans.tsx:119
+#: src/pages/user/[userId]/bans.tsx:246
 msgid "Show Inventory"
 msgstr "Показать инвентарь"
 
@@ -5293,16 +5271,16 @@ msgstr "Показать инвентарь"
 msgid "Show more"
 msgstr "Показать больше"
 
+#: src/components/_social/ArticleList.tsx:140
+msgid "Show only articles with positive score (score >= -5)"
+msgstr ""
+
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:19
 msgid "Skill issue?"
 msgstr "Дело в навыках?"
 
-#: src/components/_user/user/SkillValue.tsx:45
-msgid "Skill upgrade:"
-msgstr ""
-
 #: src/components/_user/user/MyAvatar.tsx:41
-#: src/components/_user/user/UserHeader.tsx:169
+#: src/components/_user/user/UserHeader.tsx:171
 #: src/pages/user/[userId]/index.tsx:156
 msgid "Skills"
 msgstr "Навыки"
@@ -5315,15 +5293,15 @@ msgstr "Навыки делают Вас сильнее. Давайте нара
 msgid "Skills saved!"
 msgstr "Навыки сохранены!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1693
+#: src/components/_user/notification/notification.frontConfig.tsx:1716
 msgid "Skin gift received"
 msgstr "Подарочный скин получен"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1661
+#: src/components/_user/notification/notification.frontConfig.tsx:1684
 msgid "Skin gift sent"
 msgstr "Подарочный скин отправлен"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1725
+#: src/components/_user/notification/notification.frontConfig.tsx:1748
 msgid "Skin pack gift sent"
 msgstr "Подарочный набор скинов отправлен"
 
@@ -5352,7 +5330,7 @@ msgstr "Пропустить обучение"
 msgid "Sniper"
 msgstr "Снайперка"
 
-#: src/components/_economy/company/CompanyList.tsx:83
+#: src/components/_economy/company/CompanyList.tsx:79
 msgid "Some of your companies are disabled."
 msgstr "Некоторые ваши компании выключены."
 
@@ -5372,7 +5350,7 @@ msgstr "Ефрейтор"
 msgid "Specialization"
 msgstr "Специализация"
 
-#: src/components/_political/law/LawFormModal.tsx:272
+#: src/components/_political/law/LawFormModal.tsx:294
 msgid "Specialization item"
 msgstr "Специализация на товаре"
 
@@ -5432,7 +5410,7 @@ msgstr "Начать революцию"
 msgid "Started <0/>"
 msgstr "Началась <0/>"
 
-#: src/components/_user/mission/MissionsList.tsx:211
+#: src/components/_user/mission/MissionsList.tsx:214
 msgid "Starting"
 msgstr "Начальные"
 
@@ -5489,7 +5467,7 @@ msgstr "Стратегический ресурс"
 msgid "Strategic resources"
 msgstr "Стратегические ресурсы"
 
-#: src/components/_social/ArticleList.tsx:161
+#: src/components/_social/ArticleList.tsx:189
 msgid "Subscribed"
 msgstr "Подписки"
 
@@ -5519,9 +5497,9 @@ msgid "Supporter"
 msgstr "Подписка"
 
 #: src/components/_economy/inventoryAccount/InventoryAccount.tsx:51
-#: src/components/_user/user/UserDropdown.tsx:192
-#: src/components/_user/user/UserDropdown.tsx:201
-#: src/components/_user/user/UserDropdown.tsx:210
+#: src/components/_user/user/UserDropdown.tsx:181
+#: src/components/_user/user/UserDropdown.tsx:190
+#: src/components/_user/user/UserDropdown.tsx:199
 msgid "Supporter feature"
 msgstr "Возможности подписки"
 
@@ -5571,19 +5549,19 @@ msgstr "Учитывать залежи ресурсов"
 msgid "Tank"
 msgstr "Танк"
 
-#: src/components/_political/law/LawFormModal.tsx:171
+#: src/components/_political/law/LawFormModal.tsx:193
 msgid "Target country"
 msgstr "Страна-цель"
 
-#: src/components/_political/law/LawFormModal.tsx:184
+#: src/components/_political/law/LawFormModal.tsx:206
 msgid "Target region"
 msgstr "Регион-цель"
 
-#: src/components/_political/law/LawFormModal.tsx:259
+#: src/components/_political/law/LawFormModal.tsx:281
 msgid "Target user"
 msgstr "Игрок-цель"
 
-#: src/components/_political/law/LawFormModal.tsx:204
+#: src/components/_political/law/LawFormModal.tsx:226
 msgid "Tax type"
 msgstr "Тип налогов"
 
@@ -5628,15 +5606,15 @@ msgstr "Залежь даёт бонус к производству в опре
 msgid "The deposit will expire in the following amount of time."
 msgstr "Залежь истощится через определённое количество времени."
 
-#: src/components/_user/notification/notification.frontConfig.tsx:460
+#: src/components/_user/notification/notification.frontConfig.tsx:462
 msgid "The double XP event has ended."
 msgstr "Событие \"Двойной XP\" завершился."
 
-#: src/components/_user/notification/notification.frontConfig.tsx:858
+#: src/components/_user/notification/notification.frontConfig.tsx:860
 msgid "The effect of your consumed buffs has ended. The debuff phase has begun and will last <0>{debuffDuration}h</0>."
 msgstr "Усиление от таблетки закончилось. Началась стадия усталости, которая продлится <0>{debuffDuration} часов</0>."
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1554
+#: src/components/_user/notification/notification.frontConfig.tsx:1561
 msgid "The giveaway has ended. Check if you won!"
 msgstr "Розыгрыш завершён. Проверьте, выиграли ли Вы!"
 
@@ -5644,7 +5622,7 @@ msgstr "Розыгрыш завершён. Проверьте, выиграли 
 msgid "The strategic resource will be reshuffled in the following amount of time."
 msgstr "Стратегический ресурс будет перераспределён в течение следующего периода времени."
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1451
+#: src/components/_user/notification/notification.frontConfig.tsx:1458
 msgid "The tournament has ended for your team <0/>. Check the results!"
 msgstr "Турнир завершён для Вашей команды <0/>. Проверьте результаты!"
 
@@ -5701,6 +5679,66 @@ msgstr "Время драться за свою страну! Присоедин
 msgid "Time to produce!"
 msgstr "Время производить!"
 
+#: src/components/_other/shop/skinPack.frontConfig.tsx:17
+msgid "Tiny Pixel"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:95
+msgid "Tiny Pixel Ammo"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:107
+msgid "Tiny Pixel Boots"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:104
+msgid "Tiny Pixel Chest"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:113
+msgid "Tiny Pixel Gloves"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:116
+msgid "Tiny Pixel Gun"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:98
+msgid "Tiny Pixel Heavy Ammo"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:101
+msgid "Tiny Pixel Helmet"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:128
+msgid "Tiny Pixel Jet"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:131
+msgid "Tiny Pixel Light Ammo"
+msgstr ""
+
+#: src/components/_other/shop/skinPack.frontConfig.tsx:16
+msgid "Tiny Pixel Pack"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:110
+msgid "Tiny Pixel Pants"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:119
+msgid "Tiny Pixel Rifle"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:122
+msgid "Tiny Pixel Sniper"
+msgstr ""
+
+#: src/components/_other/shop/skin.frontConfig.tsx:125
+msgid "Tiny Pixel Tank"
+msgstr ""
+
 #: src/components/_user/mission/mission.frontConfig.tsx:288
 msgid "Tip <0>{count}</0> articles"
 msgstr "Оставь чаевые <0>{count}</0> статьям"
@@ -5713,15 +5751,15 @@ msgstr "Чаевые Статье"
 msgid "Token Name"
 msgstr "Имя Токена"
 
-#: src/components/_social/ArticleList.tsx:153
+#: src/components/_social/ArticleList.tsx:181
 msgid "Top"
 msgstr "Топ"
 
-#: src/components/_social/ArticleList.tsx:140
+#: src/components/_social/ArticleList.tsx:168
 msgid "Top (1d)"
 msgstr "Топ (1д)"
 
-#: src/components/_social/ArticleList.tsx:147
+#: src/components/_social/ArticleList.tsx:175
 msgid "Top (1w)"
 msgstr "Топ (1н)"
 
@@ -5770,41 +5808,33 @@ msgstr "Всего урона"
 msgid "Total Donated:"
 msgstr "Всего внесено:"
 
-#: src/components/_user/user/SkillValue.tsx:186
-msgid "Total:"
-msgstr ""
-
 #: src/components/_military/battle/ActiveBattlesList.tsx:75
 #: src/components/_military/battle/ActiveBattlesList.tsx:139
 #: src/pages/events/index.tsx:89
 msgid "Tournament"
 msgstr "Турнир"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1423
+#: src/components/_user/notification/notification.frontConfig.tsx:1430
 msgid "Tournament Created"
 msgstr "Турнир Создан"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1463
+#: src/components/_user/notification/notification.frontConfig.tsx:1470
 msgid "Tournament Eliminated"
 msgstr "Выбыл из турнира"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1449
+#: src/components/_user/notification/notification.frontConfig.tsx:1456
 msgid "Tournament Ended"
 msgstr "Турнир завершён"
 
-#: src/components/_user/user/SkillValue.tsx:104
-msgid "Tournament reward:"
-msgstr ""
-
-#: src/components/_user/notification/notification.frontConfig.tsx:1374
+#: src/components/_user/notification/notification.frontConfig.tsx:1381
 msgid "Tournament Round Won"
 msgstr "Раунд турнира выигран"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1436
+#: src/components/_user/notification/notification.frontConfig.tsx:1443
 msgid "Tournament Started"
 msgstr "Турнир начался"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1404
+#: src/components/_user/notification/notification.frontConfig.tsx:1411
 msgid "Tournament Won!"
 msgstr "Турнир выигран!"
 
@@ -5821,7 +5851,7 @@ msgstr "Торговля"
 msgid "Trainee"
 msgstr "Курсант"
 
-#: src/components/_user/user/UserHeader.tsx:188
+#: src/components/_user/user/UserHeader.tsx:190
 msgid "Transac."
 msgstr "Транзак."
 
@@ -5855,11 +5885,11 @@ msgstr "Обучение"
 msgid "Tutorials reseted"
 msgstr "Обучение сброшено"
 
-#: src/components/_user/user/UserDropdown.tsx:282
+#: src/components/_user/user/UserDropdown.tsx:271
 msgid "Unban user"
 msgstr "Разбанить игрока"
 
-#: src/components/_user/user/UserDropdown.tsx:257
+#: src/components/_user/user/UserDropdown.tsx:246
 msgid "Unblock (show content)"
 msgstr "Разблокировать (показать контент)"
 
@@ -5893,17 +5923,17 @@ msgstr "Доступна кнопка «Помочь всем»"
 msgid "Unlock Produce all button"
 msgstr "Доступна кнопка «Произвести всё»"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1756
+#: src/components/_user/notification/notification.frontConfig.tsx:1779
 msgid "Unlocked pack"
 msgstr "Разблокирован пак"
 
-#: src/components/_user/user/UserDropdown.tsx:296
+#: src/components/_user/user/UserDropdown.tsx:285
 msgid "Unmute user"
 msgstr "Размьютить игрока"
 
-#: src/components/_user/user/UserHeader.tsx:405
+#: src/components/_user/user/UserHeader.tsx:407
 msgid "Unmuted <0/>"
-msgstr "Размьючен <0/>"
+msgstr "Заглушён <0/>"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:93
 msgid "Unreal. This doesn't happen"
@@ -6050,7 +6080,7 @@ msgstr "Используется для улучшения компаний, в�
 msgid "user"
 msgstr "игрока"
 
-#: src/pages/user/[userId]/bans.tsx:144
+#: src/pages/user/[userId]/bans.tsx:271
 msgid "User Actions"
 msgstr "Действия игрока"
 
@@ -6058,7 +6088,7 @@ msgstr "Действия игрока"
 msgid "User already owns all skins"
 msgstr "У этого игрока уже есть все скины"
 
-#: src/components/_user/user/UserDropdown.tsx:124
+#: src/components/_user/user/UserDropdown.tsx:123
 msgid "User blocked"
 msgstr "Игрок заблокирован"
 
@@ -6070,11 +6100,11 @@ msgstr "Вклад игрока в захват высот."
 msgid "User removed from family group"
 msgstr "Игрок удалён из семейной группы"
 
-#: src/components/_user/user/UserDropdown.tsx:128
+#: src/components/_user/user/UserDropdown.tsx:127
 msgid "User unblocked"
 msgstr "Игрок разблокирован"
 
-#: src/components/_political/government/NominateForm.tsx:46
+#: src/components/_political/government/NominateForm.tsx:44
 #: src/components/_user/auth/WelcomeModal.tsx:142
 #: src/components/_user/user/UserForm.tsx:45
 #: src/components/_user/user/UserForm.tsx:46
@@ -6082,7 +6112,7 @@ msgstr "Игрок разблокирован"
 msgid "Username"
 msgstr "Никнейм"
 
-#: src/components/_user/user/UserDropdown.tsx:160
+#: src/components/_user/user/UserDropdown.tsx:149
 msgid "Username removed"
 msgstr "Никнейм удалён"
 
@@ -6192,7 +6222,7 @@ msgstr "Вице-президент"
 
 #: src/components/_military/battle/BattleHeader.tsx:168
 msgid "View on map"
-msgstr ""
+msgstr "Показать на карте"
 
 #: src/components/_military/war/WarComparison.tsx:45
 msgid "VS"
@@ -6203,13 +6233,13 @@ msgstr "VS"
 msgid "Wage"
 msgstr "Зарплата"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:574
+#: src/components/_user/notification/notification.frontConfig.tsx:576
 msgid "Wage changed"
 msgstr "Зарплата изменена"
 
 #: src/components/_economy/workOffer/EstimatedCompanyBenefit.tsx:119
 msgid "Wage cost ({productionPoints} pts):"
-msgstr ""
+msgstr "Зарплата ({productionPoints} ОП):"
 
 #: src/components/_user/worker/WorkerEditFormModal.tsx:175
 msgid "Wage per production"
@@ -6219,7 +6249,7 @@ msgstr "Зарплата за производство"
 msgid "Wage reduction accepted."
 msgstr "Снижение зарплаты принято."
 
-#: src/components/_user/notification/notification.frontConfig.tsx:589
+#: src/components/_user/notification/notification.frontConfig.tsx:591
 #: src/components/_user/worker/WageReductionAlert.tsx:66
 msgid "Wage reduction proposed"
 msgstr "Предложено снижение зарплаты"
@@ -6269,11 +6299,7 @@ msgstr "Богатство"
 msgid "Weapon"
 msgstr "Оружие"
 
-#: src/components/_user/user/SkillValue.tsx:58
-msgid "Weapon:"
-msgstr ""
-
-#: src/components/_user/mission/MissionsList.tsx:199
+#: src/components/_user/mission/MissionsList.tsx:202
 msgid "Weekly"
 msgstr "Еженедельно"
 
@@ -6285,11 +6311,11 @@ msgstr "Недельный баланс"
 msgid "Weekly damages"
 msgstr "Недельный урон"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1648
+#: src/components/_user/notification/notification.frontConfig.tsx:1671
 msgid "Weekly Missions Reset"
 msgstr "Сброс еженедельных миссий"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1089
+#: src/components/_user/notification/notification.frontConfig.tsx:1091
 msgid "Welcome"
 msgstr "Добро пожаловать"
 
@@ -6298,7 +6324,7 @@ msgid "Welcome back {username}!"
 msgstr "С возвращением, {username}!"
 
 #: src/components/_user/auth/WelcomeModal.tsx:113
-#: src/components/_user/notification/notification.frontConfig.tsx:1090
+#: src/components/_user/notification/notification.frontConfig.tsx:1092
 msgid "Welcome to War Era!"
 msgstr "Добро пожаловать в War Era!"
 
@@ -6314,17 +6340,17 @@ msgstr "Когда Ваше <0>Здоровье</0> закончится, отк
 msgid "Whole Production"
 msgstr "Всё производство"
 
-#: src/components/_political/law/LawFormModal.tsx:158
+#: src/components/_political/law/LawFormModal.tsx:180
 msgid "Why do you want to propose this law?"
 msgstr "Почему Вы хотите предложить этот законопроект?"
 
 #: src/components/_economy/workOffer/EstimatedCompanyBenefit.tsx:185
 msgid "with bonus"
-msgstr ""
+msgstr "с бонусом"
 
 #: src/components/_economy/workOffer/EstimatedCompanyBenefit.tsx:195
 msgid "with bonus + fidelity"
-msgstr ""
+msgstr "с бонусом + лояльность"
 
 #: src/components/_military/battle/ActiveBattlesList.tsx:111
 #: src/components/_military/battle/ActiveBattlesList.tsx:174
@@ -6352,7 +6378,7 @@ msgstr "Работайте и зарабатывайте!"
 msgid "Worker fired!"
 msgstr "Работник уволен!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:529
+#: src/components/_user/notification/notification.frontConfig.tsx:531
 msgid "Worker left"
 msgstr "Работник уволился"
 
@@ -6373,7 +6399,7 @@ msgstr "Работа на других — отличный способ зар�
 msgid "Wow congratulations! Anyway have you considered buying premium?"
 msgstr "Вау, поздравляем! Кстати, не думали о покупке премиума?"
 
-#: src/components/_political/law/LawFormModal.tsx:147
+#: src/components/_political/law/LawFormModal.tsx:169
 #: src/components/_political/law/LawList.tsx:58
 msgid "Write a law"
 msgstr "Выдвинуть законопроект"
@@ -6436,7 +6462,7 @@ msgstr "Вы не участвуете"
 msgid "You are very skilled!"
 msgstr "Вы очень умелы!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:749
+#: src/components/_user/notification/notification.frontConfig.tsx:751
 msgid "You bought items."
 msgstr "Вы купили предметы."
 
@@ -6464,7 +6490,19 @@ msgstr "Вы не можете подать заявку на гражданст
 msgid "You don't have permission to view applications."
 msgstr "У Вас нет прав для просмотра заявок."
 
-#: src/components/_user/notification/notification.frontConfig.tsx:872
+#: src/components/_user/notification/notification.frontConfig.tsx:1632
+msgid "You earned gems from a banner sale!"
+msgstr ""
+
+#: src/components/_user/notification/notification.frontConfig.tsx:1823
+msgid "You earned gems from a sale of \"{skinTitle}\"!"
+msgstr ""
+
+#: src/components/_user/notification/notification.frontConfig.tsx:1827
+msgid "You earned gems from a skin pack sale!"
+msgstr ""
+
+#: src/components/_user/notification/notification.frontConfig.tsx:874
 msgid "You feel healthy, the debuff effect no longer affects you."
 msgstr "Вы чувствуете себя здоровым, усталость больше на вас не действует."
 
@@ -6476,33 +6514,33 @@ msgstr "Ваша заявка будет автоматически одобре
 msgid "You have a case!"
 msgstr "У Вас есть кейс!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1260
+#: src/components/_user/notification/notification.frontConfig.tsx:1267
 msgid "You have been demoted from commander in <0/> by <1/>"
 msgstr "Вы были понижены с должности командира в <0/> игроком <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:335
+#: src/components/_user/notification/notification.frontConfig.tsx:337
 msgid "You have been elected as the new leader of <0/>"
 msgstr "Вы были избраны новым лидером <0/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1246
+#: src/components/_user/notification/notification.frontConfig.tsx:1253
 msgid "You have been promoted to commander in <0/> by <1/>"
 msgstr "Вы были повышены до командира в <0/> игроком <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1232
+#: src/components/_user/notification/notification.frontConfig.tsx:1239
 msgid "You have been removed from <0/> by <1/>"
 msgstr "Вы были удалены из <0/> игроком <1/>"
 
 #. placeholder {0}: data.money
-#: src/components/_user/notification/notification.frontConfig.tsx:1354
+#: src/components/_user/notification/notification.frontConfig.tsx:1361
 msgid "You have been rewarded <0>{0}</0> for your contribution to the battle in <1/>"
 msgstr "Вы были награждены <0>{0}</0> за Ваш вклад в битву <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:561
+#: src/components/_user/notification/notification.frontConfig.tsx:563
 msgid "You have been transferred from <0/> to <1/>"
 msgstr "Вас перевели из <0/> в <1/>"
 
 #. placeholder {0}: 1
-#: src/components/_user/notification/notification.frontConfig.tsx:839
+#: src/components/_user/notification/notification.frontConfig.tsx:841
 msgid "You have consumed <0>{0}</0>, it's effect starts now and ends in <1>{buffDuration}h</1>."
 msgstr "Вы употребили <0>{0}</0>, её эффект уже начался и продлится <1>{buffDuration}часов</1>."
 
@@ -6534,19 +6572,19 @@ msgstr "Вы уволились с работы!"
 
 #. placeholder {0}: data.quantity
 #. placeholder {1}: data.lootChance
-#: src/components/_user/notification/notification.frontConfig.tsx:494
+#: src/components/_user/notification/notification.frontConfig.tsx:496
 msgid "You looted <0>{0}</0> with a loot chance of <1>{1}</1> in <2/>"
 msgstr "Вы залутали <0>{0}</0> c шансом лута <1>{1}</1> в <2/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:476
+#: src/components/_user/notification/notification.frontConfig.tsx:478
 msgid "You looted a new equipment!"
 msgstr "Вы залутали новую экипировку!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:468
+#: src/components/_user/notification/notification.frontConfig.tsx:470
 msgid "You looted a new weapon!"
 msgstr "Вы залутали новое оружие!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:727
+#: src/components/_user/notification/notification.frontConfig.tsx:729
 msgid "You looted money on the battlefield."
 msgstr "Вы заработали деньги на поле боя."
 
@@ -6569,35 +6607,35 @@ msgstr "Вы должны потратить все 3 очка этики ({poin
 msgid "You need to equip a weapon first"
 msgstr "Сначала экипируйте оружие"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1176
+#: src/components/_user/notification/notification.frontConfig.tsx:1183
 msgid "You premium gift from <0/> has expired! Would you consider subscribing and supporting the game? 👉👈"
 msgstr "Ваша премиум-подписка от <0/> истекла! Не хотите оформить подписку и поддержать игру? 👉👈"
 
 #. placeholder {0}: data.muId ? ( <MuName muId={data.muId} /> ) : data.countryId ? ( <CountryName countryId={data.countryId} /> ) : ( 'your' )
 #. placeholder {1}: data.rank && ( <> position{' '} <Typo fw='bold' color='text1'> #{data.rank} </Typo> </> )
-#: src/components/_user/notification/notification.frontConfig.tsx:1486
+#: src/components/_user/notification/notification.frontConfig.tsx:1493
 msgid "You received a reward for {0} {1} in<0/> tier in the ranking <1/>"
 msgstr "Вы получили награду за {0} {1} в<0/> тире в общем рейтинге <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:751
+#: src/components/_user/notification/notification.frontConfig.tsx:753
 msgid "You sold items."
 msgstr "Вы продали предметы."
 
 #. placeholder {0}: data.bannerTitle
-#: src/components/_user/notification/notification.frontConfig.tsx:1564
+#: src/components/_user/notification/notification.frontConfig.tsx:1571
 msgid "You successfully gifted \"{0}\" to <0/>!"
 msgstr "Вы успешно подарили \"{0}\" <0/>!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1664
+#: src/components/_user/notification/notification.frontConfig.tsx:1687
 msgid "You successfully gifted \"{skinTitle}\" to <0/>!"
 msgstr "Вы успешно подарили скин \"{skinTitle}\" <0/>!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1141
+#: src/components/_user/notification/notification.frontConfig.tsx:1148
 msgid "You successfully gifted a premium subscription to <0/>!"
 msgstr "Вы успешно подарили премиум подписку <0/>!"
 
 #. placeholder {0}: data.skinPackTitle
-#: src/components/_user/notification/notification.frontConfig.tsx:1728
+#: src/components/_user/notification/notification.frontConfig.tsx:1751
 msgid "You successfully gifted the skin pack \"{0}\" to <0/>!"
 msgstr "Вы успешно подарили набор скинов \"{0}\" <0/>!"
 
@@ -6605,12 +6643,12 @@ msgstr "Вы успешно подарили набор скинов \"{0}\" <0/
 msgid "You very lucky"
 msgstr "Ты чертовски удачлив"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:675
+#: src/components/_user/notification/notification.frontConfig.tsx:677
 msgid "You was fired from the government by <0/>"
 msgstr "<0/> уволил тебя из правительства"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:204
-#: src/components/_user/notification/notification.frontConfig.tsx:313
+#: src/components/_user/notification/notification.frontConfig.tsx:206
+#: src/components/_user/notification/notification.frontConfig.tsx:315
 msgid "You were elected"
 msgstr "Вы были избраны"
 
@@ -6671,13 +6709,13 @@ msgstr "Ваш аккаунт отправлен на проверку по по
 msgid "Your ancestors are proud"
 msgstr "Твои предки гордятся тобой"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:379
-#: src/components/_user/notification/notification.frontConfig.tsx:1191
+#: src/components/_user/notification/notification.frontConfig.tsx:381
+#: src/components/_user/notification/notification.frontConfig.tsx:1198
 msgid "Your application to <0/> has been rejected"
 msgstr "Ваш запрос к <0/> был отклонён"
 
 #. placeholder {0}: data.bannerTitle
-#: src/components/_user/notification/notification.frontConfig.tsx:1625
+#: src/components/_user/notification/notification.frontConfig.tsx:1648
 msgid "Your banner \"{0}\" has been accepted and is now available in the shop! It has been automatically unlocked for you."
 msgstr "Ваш баннер \"{0}\" был принят и теперь доступен в магазине! Он был автоматически разблокирован для Вас."
 
@@ -6689,19 +6727,19 @@ msgstr "Ваше гражданство будет изменено"
 msgid "Your country"
 msgstr "Ваша страна"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1017
+#: src/components/_user/notification/notification.frontConfig.tsx:1019
 msgid "Your country is under attack!"
 msgstr "Ваша страна атакована!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1031
+#: src/components/_user/notification/notification.frontConfig.tsx:1033
 msgid "Your country launched an attack!"
 msgstr "Ваша страна начала атаку!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1062
+#: src/components/_user/notification/notification.frontConfig.tsx:1064
 msgid "Your country started a revolt in <0/> against <1/>"
 msgstr "Ваша страна начала восстание в <0/> против <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:645
+#: src/components/_user/notification/notification.frontConfig.tsx:647
 msgid "Your country started the construction of <0/> in <1/>"
 msgstr "Ваша страна начала строительство <0/> в <1/>"
 
@@ -6713,11 +6751,11 @@ msgstr "Ваша текущая работа"
 msgid "Your current order"
 msgstr "Ваш текущий ордер"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1638
+#: src/components/_user/notification/notification.frontConfig.tsx:1661
 msgid "Your daily missions have been reset! Complete them to earn rewards."
 msgstr "Ваши ежедневные миссии сброшены! Выполните их, чтобы забрать награды."
 
-#: src/components/_user/notification/notification.frontConfig.tsx:438
+#: src/components/_user/notification/notification.frontConfig.tsx:440
 msgid "Your daily XP limit has been reset, you can now gain XP and get your daily reward!"
 msgstr "Ваш ежедневный лимит XP сброшен, теперь Вы можете получать XP и забирать ежедневные награды!"
 
@@ -6737,7 +6775,7 @@ msgstr "Ваш работодатель хочет сократить вашу �
 
 #. placeholder {0}: data.oldWage
 #. placeholder {1}: data.newWage
-#: src/components/_user/notification/notification.frontConfig.tsx:591
+#: src/components/_user/notification/notification.frontConfig.tsx:593
 msgid "Your employer wants to reduce your wage in <0/> from <1>{0}</1> to <2>{1}</2>. Accept or reject this change."
 msgstr "Ваш работодатель хочет сократить вашу зарплату в <0/> с <1>{0}</1> до <2>{1}</2>. Примите или отклоните изменение."
 
@@ -6761,7 +6799,7 @@ msgstr "Твоя удача только разогревается, ещё не
 msgid "Your luck is on vacation"
 msgstr "Твоя удача в отпуск укатила"
 
-#: src/components/_military/mu/MuFormModal.tsx:114
+#: src/components/_military/mu/MuFormModal.tsx:111
 msgid "Your military unit name"
 msgstr "Название Вашего военного отряда"
 
@@ -6773,11 +6811,11 @@ msgstr "Ваши лоты"
 msgid "Your party name"
 msgstr "Название Вашей партии"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1123
+#: src/components/_user/notification/notification.frontConfig.tsx:1130
 msgid "Your premium subscription has been activated!"
 msgstr "Ваша премиум-подписка активирована!"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1132
+#: src/components/_user/notification/notification.frontConfig.tsx:1139
 msgid "Your premium subscription has expired!"
 msgstr "Ваша премиум-подписка истекла!"
 
@@ -6789,11 +6827,11 @@ msgstr "Ваше звание"
 msgid "Your referral link"
 msgstr "Ваша реферальная ссылка"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1465
+#: src/components/_user/notification/notification.frontConfig.tsx:1472
 msgid "Your team <0/> has been eliminated from the <1/>"
 msgstr "Ваша команда <0/> с треском вылетела из <1/>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1376
+#: src/components/_user/notification/notification.frontConfig.tsx:1383
 msgid "Your team <0/> won a round in <1/>!"
 msgstr "Ваша команда <0/> выиграла раунд в <1/>!"
 
@@ -6803,11 +6841,11 @@ msgstr "Ваша команда:"
 
 #. placeholder {0}: data.oldWage
 #. placeholder {1}: data.newWage
-#: src/components/_user/notification/notification.frontConfig.tsx:576
+#: src/components/_user/notification/notification.frontConfig.tsx:578
 msgid "Your wage in <0/> changed from <1>{0}</1> to <2>{1}</2>"
 msgstr "Ваша зарплата в <0/> изменена с <1>{0}</1> до <2>{1}</2>"
 
-#: src/components/_user/notification/notification.frontConfig.tsx:1650
+#: src/components/_user/notification/notification.frontConfig.tsx:1673
 msgid "Your weekly missions have been reset! Complete them to earn rewards."
 msgstr "Ваши еженедельные миссии сброшены! Выполните их, чтобы забрать награду."
 
@@ -6815,6 +6853,6 @@ msgstr "Ваши еженедельные миссии сброшены! Вып�
 msgid "your@email.com"
 msgstr "ваш@email.com"
 
-#: src/components/_social/ArticleList.tsx:167
+#: src/components/_social/ArticleList.tsx:195
 msgid "Yours"
 msgstr "Ваши"
