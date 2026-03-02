@@ -167,6 +167,10 @@ msgstr "<0/> a cucerit regiunea <1/>"
 msgid "<0/> created the conversation"
 msgstr ""
 
+#: src/components/_political/event/event.frontConfig.tsx:175
+msgid "<0/> declared war on <1/>"
+msgstr ""
+
 #: src/components/_user/notification/notification.frontConfig.tsx:819
 msgid "<0/> defended in <1/>"
 msgstr "<0/> a apărat <1/>"
@@ -176,6 +180,18 @@ msgstr "<0/> a apărat <1/>"
 #: src/components/_user/notification/notification.frontConfig.tsx:1299
 msgid "<0/> donated <1>{0}</1> to <2/>"
 msgstr "<0/> a donat <1>{0}</1> către <2/>"
+
+#: src/components/_political/event/event.frontConfig.tsx:142
+msgid "<0/> financed a resistance war for <1/> in <2/>"
+msgstr ""
+
+#: src/components/_political/event/event.frontConfig.tsx:149
+msgid "<0/> financed a revolt in <1/>"
+msgstr ""
+
+#: src/components/_political/event/event.frontConfig.tsx:446
+msgid "<0/> financed a revolt in <1/> for <2/> against <3/>"
+msgstr ""
 
 #. placeholder {0}: data.wage
 #: src/components/_user/notification/notification.frontConfig.tsx:548
@@ -212,6 +228,39 @@ msgstr "<0/> a fost creat, va începe în curând!"
 msgid "<0/> has been elected president of <1/>"
 msgstr "<0/> a fost ales președinte al <1/>"
 
+#. placeholder {0}: data.amount
+#: src/components/_political/event/event.frontConfig.tsx:211
+msgid "<0/> has bought <1/> from <2/> for <3>{0}</3>"
+msgstr ""
+
+#: src/components/_political/event/event.frontConfig.tsx:327
+msgid "<0/> has broken their alliance with <1/>"
+msgstr ""
+
+#: src/components/_political/event/event.frontConfig.tsx:97
+msgid "<0/> has conquered <1/> against <2/>"
+msgstr ""
+
+#: src/components/_political/event/event.frontConfig.tsx:116
+msgid "<0/> has defended <1/> against <2/>"
+msgstr ""
+
+#: src/components/_political/event/event.frontConfig.tsx:453
+msgid "<0/> has financed a revolt in <1/> for <2/> against <3/>"
+msgstr ""
+
+#: src/components/_political/event/event.frontConfig.tsx:370
+msgid "<0/> has financed resistance in <1/>"
+msgstr ""
+
+#: src/components/_political/event/event.frontConfig.tsx:312
+msgid "<0/> has formed an alliance with <1/>"
+msgstr ""
+
+#: src/components/_political/event/event.frontConfig.tsx:227
+msgid "<0/> has liberated <1/> and returned it to <2/>"
+msgstr ""
+
 #: src/components/_user/notification/notification.frontConfig.tsx:1079
 msgid "<0/> has started a revolution in <1/>"
 msgstr ""
@@ -220,6 +269,20 @@ msgstr ""
 msgid "<0/> has started! Let the battles begin!"
 msgstr "<0/> a început! Să înceapă bătăliile!"
 
+#: src/components/_political/event/event.frontConfig.tsx:384
+msgid "<0/> has suppressed resistance in <1/>"
+msgstr ""
+
+#. placeholder {0}: data.money
+#: src/components/_political/event/event.frontConfig.tsx:254
+msgid "<0/> has transferred <1>{0}</1> to <2/>"
+msgstr ""
+
+#. placeholder {0}: !data.attackerRegion ? 'revolting' : 'attacking'
+#: src/components/_political/event/event.frontConfig.tsx:155
+msgid "<0/> is {0} <1/>"
+msgstr ""
+
 #: src/components/_user/notification/notification.frontConfig.tsx:1035
 msgid "<0/> is attacking <1/> in <2/>"
 msgstr "<0/> atacă <1/> în <2/>"
@@ -227,6 +290,10 @@ msgstr "<0/> atacă <1/> în <2/>"
 #: src/components/_user/notification/notification.frontConfig.tsx:1021
 msgid "<0/> is attacking your country in <1/>"
 msgstr "<0/> atacă țara ta în <1/>"
+
+#: src/components/_political/event/event.frontConfig.tsx:299
+msgid "<0/> is in bankruptcy. Removing all alliances and disabling every region upgrades."
+msgstr ""
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1050
 msgid "<0/> is revolting in <1/> against your country"
@@ -266,6 +333,10 @@ msgstr "<0/> a apreciat articolul tău <1/>"
 msgid "<0/> liked your message <1/>"
 msgstr "<0/> a apreciat mesajul tău <1/>"
 
+#: src/components/_political/event/event.frontConfig.tsx:242
+msgid "<0/> made peace with <1/>"
+msgstr ""
+
 #: src/components/_user/notification/notification.frontConfig.tsx:1313
 msgid "<0/> mentioned you in a message <1/>"
 msgstr "<0/> te-a menționat într-un mesaj <1/>"
@@ -295,6 +366,10 @@ msgstr "<0/> s-a abonat la tine de la articolul tău <1/>"
 msgid "<0/> tipped your article <1/>"
 msgstr "<0/> ți-a sponsorizat articolul <1/>"
 
+#: src/components/_political/event/event.frontConfig.tsx:197
+msgid "<0/> took control of <1/>"
+msgstr ""
+
 #: src/components/_military/war/WarHeader.tsx:28
 msgid "<0/> vs <1/> war"
 msgstr "Războiul <0/> vs <1/>"
@@ -302,6 +377,10 @@ msgstr "Războiul <0/> vs <1/>"
 #: src/components/_political/law/law.frontConfig.tsx:83
 msgid "<0/> wants to make peace with your country"
 msgstr "<0/> propune un tratat de pace"
+
+#: src/components/_political/event/event.frontConfig.tsx:192
+msgid "<0/> was elected president of <1/>"
+msgstr ""
 
 #. placeholder {0}: ts[data.governmentRole]
 #: src/components/_user/notification/notification.frontConfig.tsx:665
@@ -349,6 +428,11 @@ msgstr "<0/>Ultima conexiune <1><2/></1>"
 msgid "<0/>Priority ends in <1/>"
 msgstr "Prioritatea pentru <0/> se termină în <1/>"
 
+#. placeholder {0}: levelConfig.stats.resistanceGrowthReduction ?? 0
+#: src/components/_other/upgrade/upgrade.frontConfig.tsx:58
+msgid "<0>-{0}%</0> Resistance growth per hour"
+msgstr ""
+
 #. placeholder {0}: companiesIds?.length ?? 0
 #. placeholder {1}: companiesLimit ?? 99
 #: src/components/_economy/company/CompanyList.tsx:101
@@ -377,6 +461,11 @@ msgstr "<0>{0}</0> din ordine de la <1/>"
 msgid "<0>{0}</0> against enemy of <1/>"
 msgstr "<0>{0}</0> împortiva inamicului <1/>"
 
+#. placeholder {0}: levelConfig.stats.attackBonus || 0
+#: src/components/_other/upgrade/upgrade.frontConfig.tsx:46
+msgid "<0>{0}</0> Attack bonus"
+msgstr ""
+
 #. placeholder {0}: sideBonus.regionNotLinkedToCapitalMalusPercent
 #: src/components/_military/battle/BattleDamageBonuses.tsx:160
 msgid "<0>{0}</0> because <1/> is not linked to the capital"
@@ -391,6 +480,11 @@ msgstr "<0>{0}</0> deoarece <1/> a pierdut <2/>"
 #: src/components/_military/battle/BattleDamageBonuses.tsx:206
 msgid "<0>{0}</0> because <1/> occupies at least one of <2/> regions"
 msgstr "<0>{0}</0> deoarece <1/> ocupă cel puțin o regiune din <2/>"
+
+#. placeholder {0}: levelConfig.stats.defenseBonus || 0
+#: src/components/_other/upgrade/upgrade.frontConfig.tsx:34
+msgid "<0>{0}</0> Defense bonus"
+msgstr ""
 
 #. placeholder {0}: sideBonus.regionAttackBonusPercent
 #. placeholder {0}: sideBonus.regionDefenseBonusPercent
@@ -463,6 +557,11 @@ msgstr ""
 #: src/components/_common/RoundPoints.tsx:17
 msgid "<0>{0}</0> ground are required to win a round, points are gained every tick"
 msgstr "<0>{0}</0> Teren necesar pentru a câștiga runda, terenul fiind câștigat în fiecare tic"
+
+#. placeholder {0}: levelConfig.stats.maxProduction
+#: src/components/_other/upgrade/upgrade.frontConfig.tsx:81
+msgid "<0>{0}</0> Storage capacity"
+msgstr ""
 
 #. placeholder {0}: -lawConfig.maintenanceCost
 #: src/components/_political/law/Law.tsx:99
@@ -889,14 +988,29 @@ msgstr "O <0>insignă de Susținător</0>"
 msgid "A beautiful colored username that will make you very popular"
 msgstr "Un nume de utilizator colorat care te va face foarte popular"
 
+#: src/components/_political/event/event.frontConfig.tsx:399
+msgid "A civil war has started by <0/> in <1/>"
+msgstr ""
+
 #: src/pages/region/[regionId]/index.tsx:57
 msgid "A deposit has been found in this region, it can be exploited by companies to produce raws."
 msgstr "Un zăcământ a fost găsit în această regiune, poate fi exploatat de companii pentru a produce materii prime."
+
+#. placeholder {0}: ts[data.itemCode]
+#. placeholder {1}: data.bonusPercent
+#. placeholder {2}: data.durationDays
+#: src/components/_political/event/event.frontConfig.tsx:267
+msgid "A deposit of <0>{0}</0> <1>{1}</1> has been found in <2/> for {2} days"
+msgstr ""
 
 #. placeholder {0}: data.prize
 #: src/components/_user/notification/notification.frontConfig.tsx:1550
 msgid "A new giveaway for {0} cases has started! Join now!"
 msgstr "O nouă tombolă pentru {0} cutii a început! Înscrie-te acum!"
+
+#: src/components/_political/event/event.frontConfig.tsx:137
+msgid "A revolution has started in <0/>"
+msgstr ""
 
 #: src/pages/region/[regionId]/index.tsx:94
 msgid "A strategic resource has been found in this region, it gives its owner a production and development bonus."
@@ -1128,6 +1242,10 @@ msgstr "Aproape gata..."
 msgid "Ammo"
 msgstr "Muniție"
 
+#: src/components/_user/user/SkillValue.tsx:88
+msgid "Ammo:"
+msgstr ""
+
 #: src/components/_political/law/LawFormModal.tsx:251
 #: src/components/_political/law/LawFormModal.tsx:252
 msgid "Amount"
@@ -1145,7 +1263,15 @@ msgstr "Numărul de <0>Muncitori</0> pe care îi poți gestiona. Și limita ziln
 msgid "Amount of companies you can own"
 msgstr "Numărul de companii pe care le poți deține"
 
-#: src/components/_user/auth/LoginFormModal.tsx:101
+#: src/components/_political/event/event.frontConfig.tsx:332
+msgid "An alliance has been broken"
+msgstr ""
+
+#: src/components/_political/event/event.frontConfig.tsx:317
+msgid "An alliance has been formed"
+msgstr ""
+
+#: src/components/_user/auth/LoginFormModal.tsx:94
 msgid "An email with the verification code has been sent to {email}"
 msgstr "Un email cu codul de verificare a fost trimis la {email}"
 
@@ -1292,6 +1418,7 @@ msgid "Automated engine"
 msgstr "Motor automat"
 
 #: src/components/_economy/work/WorkChart.tsx:234
+#: src/components/_other/upgrade/upgrade.frontConfig.tsx:69
 msgid "Automated Engine"
 msgstr "Motor Automat"
 
@@ -1457,6 +1584,10 @@ msgstr "Rupe alianța"
 msgid "Break an alliance with another country"
 msgstr "Rupe o alianță cu o altă țară"
 
+#: src/components/_other/upgrade/upgrade.frontConfig.tsx:114
+msgid "Break room"
+msgstr ""
+
 #: src/components/_political/law/law.frontConfig.tsx:252
 msgid "Break the alliance with <0/>"
 msgstr "Rupe alianța cu <0/>"
@@ -1477,6 +1608,10 @@ msgstr "Buff încheiat"
 msgid "Buff started"
 msgstr "Buff început"
 
+#: src/components/_user/user/SkillValue.tsx:124
+msgid "Buffs:"
+msgstr ""
+
 #: src/components/_economy/company/CompanyList.tsx:152
 msgid "Build a company"
 msgstr "Construiește o companie"
@@ -1488,6 +1623,10 @@ msgstr "Construiește unitate militară"
 #: src/components/_military/mu/MuFormModal.tsx:136
 msgid "Build the military unit"
 msgstr "Construiește unitatea militară"
+
+#: src/components/_other/upgrade/upgrade.frontConfig.tsx:31
+msgid "Bunker"
+msgstr ""
 
 #: src/pages/user/[userId]/bans.tsx:181
 msgid "Buy"
@@ -1554,19 +1693,19 @@ msgstr ""
 msgid "Captain"
 msgstr "Căpitan"
 
-#: src/components/_user/auth/ConnectFromModal.tsx:244
+#: src/components/_user/auth/ConnectFromModal.tsx:238
 msgid "CAPTCHA challenge expired. Please try again."
 msgstr "Testul CAPTCHA a exiprat. Încearcă din nou."
 
-#: src/components/_user/auth/ConnectFromModal.tsx:240
+#: src/components/_user/auth/ConnectFromModal.tsx:234
 msgid "CAPTCHA challenge failed. Resetting..."
 msgstr "Testul CAPTCHA a eșuat. Resetare..."
 
-#: src/components/_user/auth/ConnectFromModal.tsx:248
+#: src/components/_user/auth/ConnectFromModal.tsx:242
 msgid "CAPTCHA timed out. Resetting..."
 msgstr "Testul CAPTCHA a expirat. Resetare..."
 
-#: src/components/_user/auth/ConnectFromModal.tsx:72
+#: src/components/_user/auth/ConnectFromModal.tsx:65
 msgid "CAPTCHA verification timed out. Resetting..."
 msgstr "Verificarea CAPTCHA a expirat. Resetare..."
 
@@ -1916,13 +2055,17 @@ msgstr ""
 msgid "Congress members"
 msgstr "Parlamentari"
 
-#: src/components/_user/auth/ConnectFromModal.tsx:300
+#: src/components/_user/auth/ConnectFromModal.tsx:295
 msgid "Connect with Discord"
 msgstr "Conectează-te cu Discord"
 
-#: src/components/_user/auth/ConnectFromModal.tsx:287
-msgid "Connect with email"
-msgstr "Conectează-te cu email"
+#: src/components/_user/auth/ConnectFromModal.tsx:281
+msgid "Connect with email code"
+msgstr ""
+
+#: src/components/_user/auth/ConnectFromModal.tsx:308
+msgid "Connect with Google"
+msgstr ""
 
 #: src/pages/user/[userId]/bans.tsx:254
 msgid "Connection"
@@ -2198,6 +2341,10 @@ msgstr "Face ceva daune"
 msgid "Debuff ended"
 msgstr "Debuff încheiat"
 
+#: src/components/_user/user/SkillValue.tsx:156
+msgid "Debuffs:"
+msgstr ""
+
 #: src/components/_political/law/law.frontConfig.tsx:93
 msgid "Declare war"
 msgstr "Declară război"
@@ -2242,7 +2389,7 @@ msgstr "Declară un inamic principal"
 msgid "Delete account"
 msgstr "Șterge contul"
 
-#: src/pages/index.tsx:159
+#: src/pages/index.tsx:146
 #: src/pages/rules.tsx:40
 msgid "Delete your account"
 msgstr "Ștergere cont"
@@ -2262,6 +2409,11 @@ msgstr "Zăcământ epuizat"
 #: src/components/_political/event/EventList.tsx:70
 msgid "Deposit discovered"
 msgstr "Zăcământ descoperit"
+
+#. placeholder {0}: ts[data.itemCode]
+#: src/components/_political/event/event.frontConfig.tsx:285
+msgid "Deposit of <0>{0}</0> has been depleted in <1/>"
+msgstr ""
 
 #: src/pages/region/[regionId]/index.tsx:56
 msgid "Deposit resource"
@@ -2401,6 +2553,10 @@ msgstr ""
 msgid "Donations"
 msgstr ""
 
+#: src/components/_other/upgrade/upgrade.frontConfig.tsx:101
+msgid "Dormitories"
+msgstr ""
+
 #: src/components/_user/notification/notification.frontConfig.tsx:461
 msgid "Double XP Ended"
 msgstr "XP dublu încheiat"
@@ -2454,6 +2610,10 @@ msgstr "Editează descrierea"
 #: src/components/_user/worker/WorkerEditFormModal.tsx:143
 msgid "Edit worker"
 msgstr "Editează muncitor"
+
+#: src/components/_user/user/SkillValue.tsx:201
+msgid "Effective:"
+msgstr ""
 
 #: src/components/_political/country/CountryHeader.tsx:101
 #: src/pages/country/[countryId]/elections.tsx:28
@@ -2537,8 +2697,8 @@ msgstr "Sublocotenent"
 msgid "Enter article ID"
 msgstr "Introdu ID articol"
 
-#: src/components/_user/auth/ConnectFromModal.tsx:138
-#: src/components/_user/auth/ConnectFromModal.tsx:144
+#: src/components/_user/auth/ConnectFromModal.tsx:140
+#: src/components/_user/auth/ConnectFromModal.tsx:145
 msgid "Enter the code we sent to your email."
 msgstr "Introdu codul pe care ți l-am trimis pe email."
 
@@ -2552,6 +2712,10 @@ msgstr "Antreprenoriat"
 #: src/pages/user/[userId]/inventory.tsx:58
 msgid "Equipment"
 msgstr "Echipament"
+
+#: src/components/_user/user/SkillValue.tsx:73
+msgid "Equipment:"
+msgstr ""
 
 #: src/components/_economy/market/MarketHeader.tsx:26
 msgid "Equipments"
@@ -2604,13 +2768,21 @@ msgstr "Eroare la copiere"
 msgid "Failed to copy text: "
 msgstr "Eroare la copiere: "
 
-#: src/components/_user/auth/ConnectFromModal.tsx:102
+#: src/components/_user/auth/ConnectFromModal.tsx:94
 msgid "Failed to start Discord login."
 msgstr "Eroare în pornirea autentificării cu Discord."
 
-#: src/components/_user/auth/ConnectFromModal.tsx:100
+#: src/components/_user/auth/ConnectFromModal.tsx:92
 msgid "Failed to start Discord login. Please retry the CAPTCHA."
 msgstr "Eroare în pornirea autentificării cu Discord. Refă testul CAPTCHA."
+
+#: src/components/_user/auth/ConnectFromModal.tsx:113
+msgid "Failed to start Google login."
+msgstr ""
+
+#: src/components/_user/auth/ConnectFromModal.tsx:111
+msgid "Failed to start Google login. Please retry the CAPTCHA."
+msgstr ""
 
 #: src/components/_user/user/FamilyGroup.tsx:60
 msgid "Family Group"
@@ -2821,6 +2993,11 @@ msgstr "General"
 msgid "Generate Missions"
 msgstr "Generează Misiuni"
 
+#. placeholder {0}: levelConfig.stats.dailyProd
+#: src/components/_other/upgrade/upgrade.frontConfig.tsx:72
+msgid "Generates <0>{0}</0>/day"
+msgstr ""
+
 #: src/components/_other/shop/SkinCollectionModal.tsx:94
 msgid "Get multiple skins at once with a 30% discount!"
 msgstr ""
@@ -2876,6 +3053,11 @@ msgstr "Tombola a început"
 #: src/components/_user/notification/notification.frontConfig.tsx:1532
 msgid "Giveaway Won!"
 msgstr "Ai câștigat tombola!"
+
+#. placeholder {0}: levelConfig.stats.attackBonus
+#: src/components/_other/upgrade/upgrade.frontConfig.tsx:92
+msgid "Gives <0>{0}</0>"
+msgstr ""
 
 #: src/components/_layout/LayoutMapOptions.tsx:220
 msgid "Globe (experimental)"
@@ -2933,6 +3115,10 @@ msgstr "Puncte Teren"
 #: src/utils/translations.tsx:23
 msgid "Gun"
 msgstr "Pistol"
+
+#: src/components/_other/upgrade/upgrade.frontConfig.tsx:89
+msgid "Headquarters"
+msgstr ""
 
 #: src/components/_user/user/skills.frontConfig.tsx:77
 #: src/components/_user/user/skills.frontConfig.tsx:78
@@ -3489,6 +3675,17 @@ msgstr "TVA"
 msgid "Marshal"
 msgstr "Mareșal"
 
+#. placeholder {0}: levelConfig.stats.members
+#: src/components/_other/upgrade/upgrade.frontConfig.tsx:104
+msgid "Maximum of <0>{0}</0> members."
+msgstr ""
+
+#. placeholder {0}: levelConfig.stats.maxWorkers
+#. placeholder {1}: typeof levelConfig.stats.dailyHires !== 'undefined' && ( <> <br /> Daily hiring limit of{' '} <EntityValue IconComponent={WorkerIcon}> {levelConfig.stats.dailyHires} </EntityValue>{' '} per day. </> )
+#: src/components/_other/upgrade/upgrade.frontConfig.tsx:117
+msgid "Maximum of <0>{0}</0> workers.{1}"
+msgstr ""
+
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:32
 msgid "Maybe epic music would help?"
 msgstr "Poate muzica epică ar ajuta?"
@@ -3575,6 +3772,10 @@ msgstr ""
 msgid "Militarist"
 msgstr ""
 
+#: src/components/_other/upgrade/upgrade.frontConfig.tsx:43
+msgid "Military base"
+msgstr ""
+
 #: src/components/_political/law/LawTypeSelect.tsx:73
 msgid "Military laws"
 msgstr "Legi militare"
@@ -3586,6 +3787,10 @@ msgstr "Rang Militar"
 #: src/components/_user/notification/notification.frontConfig.tsx:1336
 msgid "Military Rank Up!"
 msgstr "Avansare în rang militar!"
+
+#: src/components/_user/user/SkillValue.tsx:140
+msgid "Military rank:"
+msgstr ""
 
 #: src/components/_user/user/MilitaryRanksInfoModal.tsx:82
 msgid "Military Ranks"
@@ -4125,7 +4330,7 @@ msgstr "Deschide cutii"
 msgid "Open Chat"
 msgstr "Deschide chatul"
 
-#: src/components/_user/auth/LoginFormModal.tsx:118
+#: src/components/_user/auth/LoginFormModal.tsx:111
 msgid "Open Email"
 msgstr "Deschide email"
 
@@ -4195,6 +4400,10 @@ msgstr "Unități Militare Deținute"
 #: src/components/_user/notification/notification.frontConfig.tsx:1281
 msgid "Ownership of <0/> has been transferred from <1/> to <2/>"
 msgstr "Proprietatea <0/> a fost transferată de la <1/> la <2/>"
+
+#: src/components/_other/upgrade/upgrade.frontConfig.tsx:55
+msgid "Pacification Center"
+msgstr ""
 
 #: src/components/_political/party/party.frontConfig.tsx:64
 #: src/components/_political/party/party.frontConfig.tsx:77
@@ -4316,6 +4525,10 @@ msgstr "Pace încheiată"
 msgid "Pending wage reduction"
 msgstr "Reducere salarială în așteptare"
 
+#: src/components/_political/event/event.frontConfig.tsx:343
+msgid "People are angry, an auto revolt has started in <0/>"
+msgstr ""
+
 #: src/utils/translations.tsx:74
 msgid "Petroleum"
 msgstr "Țiței"
@@ -4336,8 +4549,9 @@ msgstr "Pastilă"
 msgid "Plant a tree in the data center"
 msgstr "Plantează un copac în datacenter"
 
-#: src/components/_user/auth/ConnectFromModal.tsx:84
-#: src/components/_user/auth/ConnectFromModal.tsx:169
+#: src/components/_user/auth/ConnectFromModal.tsx:82
+#: src/components/_user/auth/ConnectFromModal.tsx:101
+#: src/components/_user/auth/ConnectFromModal.tsx:167
 msgid "Please complete the CAPTCHA."
 msgstr "Completează testul CAPTCHA."
 
@@ -4440,7 +4654,7 @@ msgstr ""
 msgid "Priority from declaring wars or winning battles is <0>{0} hours</0> instead of 24."
 msgstr ""
 
-#: src/pages/index.tsx:155
+#: src/pages/index.tsx:142
 #: src/pages/rules.tsx:36
 msgid "Privacy"
 msgstr "Confidențialitate"
@@ -4632,6 +4846,10 @@ msgstr "Atinge rangul militar 5"
 #: src/components/_user/mission/mission.frontConfig.tsx:406
 msgid "Reach Military Rank 5"
 msgstr "Atinge rangul militar 5"
+
+#: src/components/_user/user/SkillValue.tsx:171
+msgid "Reached limit:"
+msgstr ""
 
 #. placeholder {0}: leveling.level + 1
 #: src/components/_user/user/Level.tsx:108
@@ -4884,7 +5102,7 @@ msgstr "Reset"
 msgid "Reset avatar"
 msgstr "Resetează avatar"
 
-#: src/components/_user/auth/ConnectFromModal.tsx:272
+#: src/components/_user/auth/ConnectFromModal.tsx:266
 msgid "Reset CAPTCHA"
 msgstr "Resetează testul CAPTCHA"
 
@@ -5264,8 +5482,9 @@ msgid "Show Inventory"
 msgstr ""
 
 #: src/components/_military/damageRanking/DamageRankingList.tsx:216
-#: src/components/_social/ArticleTags.tsx:235
-#: src/components/_social/ArticleTags.tsx:343
+#: src/components/_social/ArticleTags.tsx:268
+#: src/components/_social/ArticleTags.tsx:319
+#: src/components/_social/ArticleTags.tsx:427
 msgid "Show more"
 msgstr "Mai multe"
 
@@ -5276,6 +5495,10 @@ msgstr ""
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:19
 msgid "Skill issue?"
 msgstr "Se mai uită și la față"
+
+#: src/components/_user/user/SkillValue.tsx:45
+msgid "Skill upgrade:"
+msgstr ""
 
 #: src/components/_user/user/MyAvatar.tsx:41
 #: src/components/_user/user/UserHeader.tsx:171
@@ -5450,6 +5673,7 @@ msgid "Steel"
 msgstr "Oțel"
 
 #: src/components/_economy/company/CompanyTags.tsx:107
+#: src/components/_other/upgrade/upgrade.frontConfig.tsx:78
 msgid "Storage"
 msgstr "Magazie"
 
@@ -5465,6 +5689,10 @@ msgstr "Resursă strategică"
 msgid "Strategic resources"
 msgstr "Resurse strategice"
 
+#: src/components/_political/event/event.frontConfig.tsx:357
+msgid "Strategic resources have been reshuffled across the whole map."
+msgstr ""
+
 #: src/components/_social/ArticleList.tsx:189
 msgid "Subscribed"
 msgstr "Abonamente"
@@ -5473,9 +5701,9 @@ msgstr "Abonamente"
 msgid "Subscribers"
 msgstr "Abonați"
 
-#: src/components/_user/auth/ConnectFromModal.tsx:118
-msgid "Successfully logged in with Discord!"
-msgstr "Logat cu succes via Discord!"
+#: src/components/_user/auth/ConnectFromModal.tsx:125
+msgid "Successfully logged in!"
+msgstr ""
 
 #: src/components/_user/premium/PremiumActions.tsx:57
 msgid "Support the game"
@@ -5567,7 +5795,7 @@ msgstr "Tip taxă"
 msgid "Taxes"
 msgstr "Taxe"
 
-#: src/pages/index.tsx:151
+#: src/pages/index.tsx:138
 #: src/pages/rules.tsx:32
 msgid "Terms"
 msgstr "Termeni"
@@ -5592,6 +5820,14 @@ msgstr "Câte <0>Puncte de Producție</0> generezi când muncești"
 msgid "The base value for <0>Damages</0> calculation."
 msgstr "Valoarea de bază pentru calculul <0>Daunelor</0>"
 
+#: src/components/_political/event/event.frontConfig.tsx:431
+msgid "The civil war started by <0/> in <1/> has been suppressed"
+msgstr ""
+
+#: src/components/_political/event/event.frontConfig.tsx:415
+msgid "The civil war started by <0/> in <1/> has succeeded of <2/> and the government has been overthrown."
+msgstr ""
+
 #: src/components/_user/user/skills.frontConfig.tsx:57
 msgid "The damage factor increase of critical hits over normal hits"
 msgstr "Câte extra daune dau loviturile critice peste cele normale"
@@ -5615,6 +5851,14 @@ msgstr "Efectul buffurilor tale consumate s-a încheiat. Faza de debuff a încep
 #: src/components/_user/notification/notification.frontConfig.tsx:1561
 msgid "The giveaway has ended. Check if you won!"
 msgstr "Tombola s-a încheiat. Verifică dacă ai câștigat!"
+
+#: src/components/_political/event/event.frontConfig.tsx:82
+msgid "The revolution in <0/> has been suppressed. The government remains in power."
+msgstr ""
+
+#: src/components/_political/event/event.frontConfig.tsx:68
+msgid "The revolution in <0/> has succeeded! The government has been overthrown."
+msgstr ""
 
 #: src/pages/region/[regionId]/index.tsx:110
 msgid "The strategic resource will be reshuffled in the following amount of time."
@@ -5765,7 +6009,7 @@ msgstr ""
 msgid "Top 3 offers"
 msgstr "Top 3 oferte"
 
-#: src/pages/index.tsx:144
+#: src/pages/index.tsx:131
 msgid "Top countries"
 msgstr "Top țări"
 
@@ -5806,6 +6050,10 @@ msgstr "Daune totale"
 msgid "Total Donated:"
 msgstr "Total donat:"
 
+#: src/components/_user/user/SkillValue.tsx:186
+msgid "Total:"
+msgstr ""
+
 #: src/components/_military/battle/ActiveBattlesList.tsx:75
 #: src/components/_military/battle/ActiveBattlesList.tsx:139
 #: src/pages/events/index.tsx:89
@@ -5823,6 +6071,10 @@ msgstr "Eliminat din turneu"
 #: src/components/_user/notification/notification.frontConfig.tsx:1456
 msgid "Tournament Ended"
 msgstr "Turneul s-a încheiat"
+
+#: src/components/_user/user/SkillValue.tsx:104
+msgid "Tournament reward:"
+msgstr ""
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1381
 msgid "Tournament Round Won"
@@ -6190,11 +6442,11 @@ msgstr ""
 msgid "Vanguard"
 msgstr "Avangardă"
 
-#: src/components/_user/auth/LoginFormModal.tsx:96
+#: src/components/_user/auth/LoginFormModal.tsx:89
 msgid "Verification code"
 msgstr "Cod de verificare"
 
-#: src/components/_user/auth/LoginFormModal.tsx:156
+#: src/components/_user/auth/LoginFormModal.tsx:149
 msgid "Verify"
 msgstr "Verifică"
 
@@ -6206,7 +6458,7 @@ msgstr "Verifică-ți emailul pentru a crea oferte de muncă. Verifică emailul 
 msgid "Verify your email to trade items. Check your email or logout/login again"
 msgstr "Verifică-ți emailul pentru a tranzacționa articole. Verifică emailul sau deconectează-te și conectează-te din nou"
 
-#: src/components/_user/auth/ConnectFromModal.tsx:260
+#: src/components/_user/auth/ConnectFromModal.tsx:254
 msgid "Verifying CAPTCHA..."
 msgstr "Se verifică CAPTCHA..."
 
@@ -6297,6 +6549,10 @@ msgstr "Avere"
 msgid "Weapon"
 msgstr "Armă"
 
+#: src/components/_user/user/SkillValue.tsx:58
+msgid "Weapon:"
+msgstr ""
+
 #: src/components/_user/mission/MissionsList.tsx:202
 msgid "Weekly"
 msgstr "Săptămânale"
@@ -6317,7 +6573,7 @@ msgstr "Resetare Misiuni Săptămânale"
 msgid "Welcome"
 msgstr "Bine ai venit"
 
-#: src/components/_user/auth/LoginFormModal.tsx:66
+#: src/components/_user/auth/LoginFormModal.tsx:59
 msgid "Welcome back {username}!"
 msgstr "Bine ai revenit {username}!"
 
@@ -6847,7 +7103,7 @@ msgstr "Salariul tău în <0/> s-a schimbat de la <1>{0}</1> la <2>{1}</2>"
 msgid "Your weekly missions have been reset! Complete them to earn rewards."
 msgstr "Misiunile tale săptămânale au fost resetate! Completează-le pentru a câștiga recompense."
 
-#: src/components/_user/auth/ConnectFromModal.tsx:208
+#: src/components/_user/auth/ConnectFromModal.tsx:203
 msgid "your@email.com"
 msgstr "adresa_ta@email.com"
 

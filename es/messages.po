@@ -169,6 +169,10 @@ msgstr "<0/> conquistó la región en <1/>"
 msgid "<0/> created the conversation"
 msgstr ""
 
+#: src/components/_political/event/event.frontConfig.tsx:175
+msgid "<0/> declared war on <1/>"
+msgstr ""
+
 #: src/components/_user/notification/notification.frontConfig.tsx:819
 msgid "<0/> defended in <1/>"
 msgstr "<0/> defendió en <1/>"
@@ -178,6 +182,18 @@ msgstr "<0/> defendió en <1/>"
 #: src/components/_user/notification/notification.frontConfig.tsx:1299
 msgid "<0/> donated <1>{0}</1> to <2/>"
 msgstr "<0/> donó <1>{0}</1> a <2/>"
+
+#: src/components/_political/event/event.frontConfig.tsx:142
+msgid "<0/> financed a resistance war for <1/> in <2/>"
+msgstr ""
+
+#: src/components/_political/event/event.frontConfig.tsx:149
+msgid "<0/> financed a revolt in <1/>"
+msgstr ""
+
+#: src/components/_political/event/event.frontConfig.tsx:446
+msgid "<0/> financed a revolt in <1/> for <2/> against <3/>"
+msgstr ""
 
 #. placeholder {0}: data.wage
 #: src/components/_user/notification/notification.frontConfig.tsx:548
@@ -214,6 +230,39 @@ msgstr "¡<0/> ha sido creado, comenzará pronto!"
 msgid "<0/> has been elected president of <1/>"
 msgstr "<0/> ha sido elegido/a presidente de <1/>"
 
+#. placeholder {0}: data.amount
+#: src/components/_political/event/event.frontConfig.tsx:211
+msgid "<0/> has bought <1/> from <2/> for <3>{0}</3>"
+msgstr ""
+
+#: src/components/_political/event/event.frontConfig.tsx:327
+msgid "<0/> has broken their alliance with <1/>"
+msgstr ""
+
+#: src/components/_political/event/event.frontConfig.tsx:97
+msgid "<0/> has conquered <1/> against <2/>"
+msgstr ""
+
+#: src/components/_political/event/event.frontConfig.tsx:116
+msgid "<0/> has defended <1/> against <2/>"
+msgstr ""
+
+#: src/components/_political/event/event.frontConfig.tsx:453
+msgid "<0/> has financed a revolt in <1/> for <2/> against <3/>"
+msgstr ""
+
+#: src/components/_political/event/event.frontConfig.tsx:370
+msgid "<0/> has financed resistance in <1/>"
+msgstr ""
+
+#: src/components/_political/event/event.frontConfig.tsx:312
+msgid "<0/> has formed an alliance with <1/>"
+msgstr ""
+
+#: src/components/_political/event/event.frontConfig.tsx:227
+msgid "<0/> has liberated <1/> and returned it to <2/>"
+msgstr ""
+
 #: src/components/_user/notification/notification.frontConfig.tsx:1079
 msgid "<0/> has started a revolution in <1/>"
 msgstr "<0/> ha iniciado una revuelta en <1/>"
@@ -222,6 +271,20 @@ msgstr "<0/> ha iniciado una revuelta en <1/>"
 msgid "<0/> has started! Let the battles begin!"
 msgstr "¡<0/> ha comenzado! ¡Que comiencen las batallas!"
 
+#: src/components/_political/event/event.frontConfig.tsx:384
+msgid "<0/> has suppressed resistance in <1/>"
+msgstr ""
+
+#. placeholder {0}: data.money
+#: src/components/_political/event/event.frontConfig.tsx:254
+msgid "<0/> has transferred <1>{0}</1> to <2/>"
+msgstr ""
+
+#. placeholder {0}: !data.attackerRegion ? 'revolting' : 'attacking'
+#: src/components/_political/event/event.frontConfig.tsx:155
+msgid "<0/> is {0} <1/>"
+msgstr ""
+
 #: src/components/_user/notification/notification.frontConfig.tsx:1035
 msgid "<0/> is attacking <1/> in <2/>"
 msgstr "<0/> está atacando a <1/> en <2/>"
@@ -229,6 +292,10 @@ msgstr "<0/> está atacando a <1/> en <2/>"
 #: src/components/_user/notification/notification.frontConfig.tsx:1021
 msgid "<0/> is attacking your country in <1/>"
 msgstr "<0/> está atacando tu país en <1/>"
+
+#: src/components/_political/event/event.frontConfig.tsx:299
+msgid "<0/> is in bankruptcy. Removing all alliances and disabling every region upgrades."
+msgstr ""
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1050
 msgid "<0/> is revolting in <1/> against your country"
@@ -268,6 +335,10 @@ msgstr "A <0/> le gustó tu artículo <1/>"
 msgid "<0/> liked your message <1/>"
 msgstr "A <0/> le gustó tu mensaje <1/>"
 
+#: src/components/_political/event/event.frontConfig.tsx:242
+msgid "<0/> made peace with <1/>"
+msgstr ""
+
 #: src/components/_user/notification/notification.frontConfig.tsx:1313
 msgid "<0/> mentioned you in a message <1/>"
 msgstr "<0/> te mencionó en un mensaje <1/>"
@@ -297,6 +368,10 @@ msgstr "<0/> se suscribió a ti en tu artículo <1/>"
 msgid "<0/> tipped your article <1/>"
 msgstr "<0/> dio propina a tu artículo <1/>"
 
+#: src/components/_political/event/event.frontConfig.tsx:197
+msgid "<0/> took control of <1/>"
+msgstr ""
+
 #: src/components/_military/war/WarHeader.tsx:28
 msgid "<0/> vs <1/> war"
 msgstr "Guerra <0/> vs <1/>"
@@ -304,6 +379,10 @@ msgstr "Guerra <0/> vs <1/>"
 #: src/components/_political/law/law.frontConfig.tsx:83
 msgid "<0/> wants to make peace with your country"
 msgstr "<0/> propone un tratado de paz con tu país"
+
+#: src/components/_political/event/event.frontConfig.tsx:192
+msgid "<0/> was elected president of <1/>"
+msgstr ""
 
 #. placeholder {0}: ts[data.governmentRole]
 #: src/components/_user/notification/notification.frontConfig.tsx:665
@@ -351,6 +430,11 @@ msgstr "<0/>La última conexión fue <1><2/></1>"
 msgid "<0/>Priority ends in <1/>"
 msgstr "La prioridad para <0/> termina en <1/>"
 
+#. placeholder {0}: levelConfig.stats.resistanceGrowthReduction ?? 0
+#: src/components/_other/upgrade/upgrade.frontConfig.tsx:58
+msgid "<0>-{0}%</0> Resistance growth per hour"
+msgstr ""
+
 #. placeholder {0}: companiesIds?.length ?? 0
 #. placeholder {1}: companiesLimit ?? 99
 #: src/components/_economy/company/CompanyList.tsx:101
@@ -379,6 +463,11 @@ msgstr "Órdenes de <0>{0}</0> <1/>"
 msgid "<0>{0}</0> against enemy of <1/>"
 msgstr "<0>{0}</0> contra el enemigo de <1/>"
 
+#. placeholder {0}: levelConfig.stats.attackBonus || 0
+#: src/components/_other/upgrade/upgrade.frontConfig.tsx:46
+msgid "<0>{0}</0> Attack bonus"
+msgstr ""
+
 #. placeholder {0}: sideBonus.regionNotLinkedToCapitalMalusPercent
 #: src/components/_military/battle/BattleDamageBonuses.tsx:160
 msgid "<0>{0}</0> because <1/> is not linked to the capital"
@@ -393,6 +482,11 @@ msgstr "<0>{0}</0> porque <1/> perdió <2/>"
 #: src/components/_military/battle/BattleDamageBonuses.tsx:206
 msgid "<0>{0}</0> because <1/> occupies at least one of <2/> regions"
 msgstr "<0>{0}</0> porque <1/> ocupa al menos una de las regiones de <2/>"
+
+#. placeholder {0}: levelConfig.stats.defenseBonus || 0
+#: src/components/_other/upgrade/upgrade.frontConfig.tsx:34
+msgid "<0>{0}</0> Defense bonus"
+msgstr ""
 
 #. placeholder {0}: sideBonus.regionAttackBonusPercent
 #. placeholder {0}: sideBonus.regionDefenseBonusPercent
@@ -465,6 +559,11 @@ msgstr "<0>{0}</0> por bono de producción de recursos estratégicos."
 #: src/components/_common/RoundPoints.tsx:17
 msgid "<0>{0}</0> ground are required to win a round, points are gained every tick"
 msgstr "<0>{0}</0> puntos de terreno son necesarios para ganar una ronda, los puntos se ganan en cada tic"
+
+#. placeholder {0}: levelConfig.stats.maxProduction
+#: src/components/_other/upgrade/upgrade.frontConfig.tsx:81
+msgid "<0>{0}</0> Storage capacity"
+msgstr ""
 
 #. placeholder {0}: -lawConfig.maintenanceCost
 #: src/components/_political/law/Law.tsx:99
@@ -891,14 +990,29 @@ msgstr "Una <0>insignia de supporter</0>"
 msgid "A beautiful colored username that will make you very popular"
 msgstr "Un hermoso nombre de usuario colorido que te hará muy popular"
 
+#: src/components/_political/event/event.frontConfig.tsx:399
+msgid "A civil war has started by <0/> in <1/>"
+msgstr ""
+
 #: src/pages/region/[regionId]/index.tsx:57
 msgid "A deposit has been found in this region, it can be exploited by companies to produce raws."
 msgstr "Se ha encontrado un depósito en esta región, puede ser explotado por empresas para producir materias primas."
+
+#. placeholder {0}: ts[data.itemCode]
+#. placeholder {1}: data.bonusPercent
+#. placeholder {2}: data.durationDays
+#: src/components/_political/event/event.frontConfig.tsx:267
+msgid "A deposit of <0>{0}</0> <1>{1}</1> has been found in <2/> for {2} days"
+msgstr ""
 
 #. placeholder {0}: data.prize
 #: src/components/_user/notification/notification.frontConfig.tsx:1550
 msgid "A new giveaway for {0} cases has started! Join now!"
 msgstr "¡Un nuevo sorteo de {0} cajas ha comenzado! ¡Únete ahora!"
+
+#: src/components/_political/event/event.frontConfig.tsx:137
+msgid "A revolution has started in <0/>"
+msgstr ""
 
 #: src/pages/region/[regionId]/index.tsx:94
 msgid "A strategic resource has been found in this region, it gives its owner a production and development bonus."
@@ -1130,6 +1244,10 @@ msgstr "Casi listo..."
 msgid "Ammo"
 msgstr "Munición"
 
+#: src/components/_user/user/SkillValue.tsx:88
+msgid "Ammo:"
+msgstr ""
+
 #: src/components/_political/law/LawFormModal.tsx:251
 #: src/components/_political/law/LawFormModal.tsx:252
 msgid "Amount"
@@ -1147,7 +1265,15 @@ msgstr "Cantidad de <0>Trabajadores</0> que puedes gestionar. Y límite diario d
 msgid "Amount of companies you can own"
 msgstr "Número de empresas que puedes poseer"
 
-#: src/components/_user/auth/LoginFormModal.tsx:101
+#: src/components/_political/event/event.frontConfig.tsx:332
+msgid "An alliance has been broken"
+msgstr ""
+
+#: src/components/_political/event/event.frontConfig.tsx:317
+msgid "An alliance has been formed"
+msgstr ""
+
+#: src/components/_user/auth/LoginFormModal.tsx:94
 msgid "An email with the verification code has been sent to {email}"
 msgstr "Se ha enviado un email con el código de verificación a {email}"
 
@@ -1294,6 +1420,7 @@ msgid "Automated engine"
 msgstr "Motor automático"
 
 #: src/components/_economy/work/WorkChart.tsx:234
+#: src/components/_other/upgrade/upgrade.frontConfig.tsx:69
 msgid "Automated Engine"
 msgstr "Motor Automatizado"
 
@@ -1459,6 +1586,10 @@ msgstr "Romper alianza"
 msgid "Break an alliance with another country"
 msgstr "Romper una alianza con otro país"
 
+#: src/components/_other/upgrade/upgrade.frontConfig.tsx:114
+msgid "Break room"
+msgstr ""
+
 #: src/components/_political/law/law.frontConfig.tsx:252
 msgid "Break the alliance with <0/>"
 msgstr "Romper la alianza con <0/>"
@@ -1479,6 +1610,10 @@ msgstr "Buff terminado"
 msgid "Buff started"
 msgstr "Buff iniciado"
 
+#: src/components/_user/user/SkillValue.tsx:124
+msgid "Buffs:"
+msgstr ""
+
 #: src/components/_economy/company/CompanyList.tsx:152
 msgid "Build a company"
 msgstr "Crear una empresa"
@@ -1490,6 +1625,10 @@ msgstr "Crear una unidad militar"
 #: src/components/_military/mu/MuFormModal.tsx:136
 msgid "Build the military unit"
 msgstr "Crear la unidad militar"
+
+#: src/components/_other/upgrade/upgrade.frontConfig.tsx:31
+msgid "Bunker"
+msgstr ""
 
 #: src/pages/user/[userId]/bans.tsx:181
 msgid "Buy"
@@ -1556,19 +1695,19 @@ msgstr "No puedes elegir un bien de especialización / no se obtiene ningún ben
 msgid "Captain"
 msgstr "Capitán"
 
-#: src/components/_user/auth/ConnectFromModal.tsx:244
+#: src/components/_user/auth/ConnectFromModal.tsx:238
 msgid "CAPTCHA challenge expired. Please try again."
 msgstr "El desafío CAPTCHA ha caducado. Inténtalo de nuevo."
 
-#: src/components/_user/auth/ConnectFromModal.tsx:240
+#: src/components/_user/auth/ConnectFromModal.tsx:234
 msgid "CAPTCHA challenge failed. Resetting..."
 msgstr "El desafío CAPTCHA ha fallado. Reiniciando..."
 
-#: src/components/_user/auth/ConnectFromModal.tsx:248
+#: src/components/_user/auth/ConnectFromModal.tsx:242
 msgid "CAPTCHA timed out. Resetting..."
 msgstr "El CAPTCHA se agotó por tiempo. Reiniciando..."
 
-#: src/components/_user/auth/ConnectFromModal.tsx:72
+#: src/components/_user/auth/ConnectFromModal.tsx:65
 msgid "CAPTCHA verification timed out. Resetting..."
 msgstr "La verificación del CAPTCHA se agotó por tiempo. Reiniciando..."
 
@@ -1918,13 +2057,17 @@ msgstr "El congreso tiene un mínimo de <0>{0} escaños</0>."
 msgid "Congress members"
 msgstr "Miembros del congreso"
 
-#: src/components/_user/auth/ConnectFromModal.tsx:300
+#: src/components/_user/auth/ConnectFromModal.tsx:295
 msgid "Connect with Discord"
 msgstr "Conectar con Discord"
 
-#: src/components/_user/auth/ConnectFromModal.tsx:287
-msgid "Connect with email"
-msgstr "Conectar con correo electrónico"
+#: src/components/_user/auth/ConnectFromModal.tsx:281
+msgid "Connect with email code"
+msgstr ""
+
+#: src/components/_user/auth/ConnectFromModal.tsx:308
+msgid "Connect with Google"
+msgstr ""
 
 #: src/pages/user/[userId]/bans.tsx:254
 msgid "Connection"
@@ -2200,6 +2343,10 @@ msgstr "Causa algo de daño"
 msgid "Debuff ended"
 msgstr "Debuff terminado"
 
+#: src/components/_user/user/SkillValue.tsx:156
+msgid "Debuffs:"
+msgstr ""
+
 #: src/components/_political/law/law.frontConfig.tsx:93
 msgid "Declare war"
 msgstr "Declarar guerra"
@@ -2244,7 +2391,7 @@ msgstr "Declarar un enemigo principal"
 msgid "Delete account"
 msgstr "Eliminar cuenta"
 
-#: src/pages/index.tsx:159
+#: src/pages/index.tsx:146
 #: src/pages/rules.tsx:40
 msgid "Delete your account"
 msgstr "Eliminar tu cuenta"
@@ -2264,6 +2411,11 @@ msgstr "Depósito agotado"
 #: src/components/_political/event/EventList.tsx:70
 msgid "Deposit discovered"
 msgstr "Depósito descubierto"
+
+#. placeholder {0}: ts[data.itemCode]
+#: src/components/_political/event/event.frontConfig.tsx:285
+msgid "Deposit of <0>{0}</0> has been depleted in <1/>"
+msgstr ""
 
 #: src/pages/region/[regionId]/index.tsx:56
 msgid "Deposit resource"
@@ -2403,6 +2555,10 @@ msgstr "Resumen de donación"
 msgid "Donations"
 msgstr "Donaciones"
 
+#: src/components/_other/upgrade/upgrade.frontConfig.tsx:101
+msgid "Dormitories"
+msgstr ""
+
 #: src/components/_user/notification/notification.frontConfig.tsx:461
 msgid "Double XP Ended"
 msgstr "XP doble terminado"
@@ -2456,6 +2612,10 @@ msgstr "Editar descripción"
 #: src/components/_user/worker/WorkerEditFormModal.tsx:143
 msgid "Edit worker"
 msgstr "Editar trabajador"
+
+#: src/components/_user/user/SkillValue.tsx:201
+msgid "Effective:"
+msgstr ""
 
 #: src/components/_political/country/CountryHeader.tsx:101
 #: src/pages/country/[countryId]/elections.tsx:28
@@ -2539,8 +2699,8 @@ msgstr "Alférez"
 msgid "Enter article ID"
 msgstr "Introduce el ID del artículo"
 
-#: src/components/_user/auth/ConnectFromModal.tsx:138
-#: src/components/_user/auth/ConnectFromModal.tsx:144
+#: src/components/_user/auth/ConnectFromModal.tsx:140
+#: src/components/_user/auth/ConnectFromModal.tsx:145
 msgid "Enter the code we sent to your email."
 msgstr "Introduce el código que te enviamos a tu correo."
 
@@ -2554,6 +2714,10 @@ msgstr "Emprendimiento"
 #: src/pages/user/[userId]/inventory.tsx:58
 msgid "Equipment"
 msgstr "Equipo"
+
+#: src/components/_user/user/SkillValue.tsx:73
+msgid "Equipment:"
+msgstr ""
 
 #: src/components/_economy/market/MarketHeader.tsx:26
 msgid "Equipments"
@@ -2606,13 +2770,21 @@ msgstr "Error al copiar"
 msgid "Failed to copy text: "
 msgstr "Error al copiar el texto: "
 
-#: src/components/_user/auth/ConnectFromModal.tsx:102
+#: src/components/_user/auth/ConnectFromModal.tsx:94
 msgid "Failed to start Discord login."
 msgstr "No se pudo iniciar el inicio de sesión con Discord."
 
-#: src/components/_user/auth/ConnectFromModal.tsx:100
+#: src/components/_user/auth/ConnectFromModal.tsx:92
 msgid "Failed to start Discord login. Please retry the CAPTCHA."
 msgstr "No se pudo iniciar el inicio de sesión con Discord. Vuelve a intentar el CAPTCHA."
+
+#: src/components/_user/auth/ConnectFromModal.tsx:113
+msgid "Failed to start Google login."
+msgstr ""
+
+#: src/components/_user/auth/ConnectFromModal.tsx:111
+msgid "Failed to start Google login. Please retry the CAPTCHA."
+msgstr ""
 
 #: src/components/_user/user/FamilyGroup.tsx:60
 msgid "Family Group"
@@ -2823,6 +2995,11 @@ msgstr "General"
 msgid "Generate Missions"
 msgstr "Generar misiones"
 
+#. placeholder {0}: levelConfig.stats.dailyProd
+#: src/components/_other/upgrade/upgrade.frontConfig.tsx:72
+msgid "Generates <0>{0}</0>/day"
+msgstr ""
+
 #: src/components/_other/shop/SkinCollectionModal.tsx:94
 msgid "Get multiple skins at once with a 30% discount!"
 msgstr "¡Obten varias skins a la vez con un descuento del 30%!"
@@ -2878,6 +3055,11 @@ msgstr "Sorteo iniciado"
 #: src/components/_user/notification/notification.frontConfig.tsx:1532
 msgid "Giveaway Won!"
 msgstr "¡Sorteo ganado!"
+
+#. placeholder {0}: levelConfig.stats.attackBonus
+#: src/components/_other/upgrade/upgrade.frontConfig.tsx:92
+msgid "Gives <0>{0}</0>"
+msgstr ""
 
 #: src/components/_layout/LayoutMapOptions.tsx:220
 msgid "Globe (experimental)"
@@ -2935,6 +3117,10 @@ msgstr "Puntos de terreno"
 #: src/utils/translations.tsx:23
 msgid "Gun"
 msgstr "Pistola"
+
+#: src/components/_other/upgrade/upgrade.frontConfig.tsx:89
+msgid "Headquarters"
+msgstr ""
 
 #: src/components/_user/user/skills.frontConfig.tsx:77
 #: src/components/_user/user/skills.frontConfig.tsx:78
@@ -3491,6 +3677,17 @@ msgstr "IVA"
 msgid "Marshal"
 msgstr "Mariscal"
 
+#. placeholder {0}: levelConfig.stats.members
+#: src/components/_other/upgrade/upgrade.frontConfig.tsx:104
+msgid "Maximum of <0>{0}</0> members."
+msgstr ""
+
+#. placeholder {0}: levelConfig.stats.maxWorkers
+#. placeholder {1}: typeof levelConfig.stats.dailyHires !== 'undefined' && ( <> <br /> Daily hiring limit of{' '} <EntityValue IconComponent={WorkerIcon}> {levelConfig.stats.dailyHires} </EntityValue>{' '} per day. </> )
+#: src/components/_other/upgrade/upgrade.frontConfig.tsx:117
+msgid "Maximum of <0>{0}</0> workers.{1}"
+msgstr ""
+
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:32
 msgid "Maybe epic music would help?"
 msgstr "¿Quizás música épica ayudaría?"
@@ -3577,6 +3774,10 @@ msgstr "Militarismo vs Pacifismo"
 msgid "Militarist"
 msgstr "Militarismo"
 
+#: src/components/_other/upgrade/upgrade.frontConfig.tsx:43
+msgid "Military base"
+msgstr ""
+
 #: src/components/_political/law/LawTypeSelect.tsx:73
 msgid "Military laws"
 msgstr "Leyes militares"
@@ -3588,6 +3789,10 @@ msgstr "Rango militar"
 #: src/components/_user/notification/notification.frontConfig.tsx:1336
 msgid "Military Rank Up!"
 msgstr "¡Ascenso militar!"
+
+#: src/components/_user/user/SkillValue.tsx:140
+msgid "Military rank:"
+msgstr ""
 
 #: src/components/_user/user/MilitaryRanksInfoModal.tsx:82
 msgid "Military Ranks"
@@ -4127,7 +4332,7 @@ msgstr "Abrir cajas"
 msgid "Open Chat"
 msgstr "Abrir chat"
 
-#: src/components/_user/auth/LoginFormModal.tsx:118
+#: src/components/_user/auth/LoginFormModal.tsx:111
 msgid "Open Email"
 msgstr "Abrir email"
 
@@ -4197,6 +4402,10 @@ msgstr "Unidades militares propias"
 #: src/components/_user/notification/notification.frontConfig.tsx:1281
 msgid "Ownership of <0/> has been transferred from <1/> to <2/>"
 msgstr "La propiedad de <0/> ha sido transferida de <1/> a <2/>"
+
+#: src/components/_other/upgrade/upgrade.frontConfig.tsx:55
+msgid "Pacification Center"
+msgstr ""
 
 #: src/components/_political/party/party.frontConfig.tsx:64
 #: src/components/_political/party/party.frontConfig.tsx:77
@@ -4318,6 +4527,10 @@ msgstr "Paz firmada"
 msgid "Pending wage reduction"
 msgstr "Reducción salarial pendiente"
 
+#: src/components/_political/event/event.frontConfig.tsx:343
+msgid "People are angry, an auto revolt has started in <0/>"
+msgstr ""
+
 #: src/utils/translations.tsx:74
 msgid "Petroleum"
 msgstr "Petróleo"
@@ -4338,8 +4551,9 @@ msgstr "Píldora"
 msgid "Plant a tree in the data center"
 msgstr "Plantar un árbol en el data center"
 
-#: src/components/_user/auth/ConnectFromModal.tsx:84
-#: src/components/_user/auth/ConnectFromModal.tsx:169
+#: src/components/_user/auth/ConnectFromModal.tsx:82
+#: src/components/_user/auth/ConnectFromModal.tsx:101
+#: src/components/_user/auth/ConnectFromModal.tsx:167
 msgid "Please complete the CAPTCHA."
 msgstr "Por favor, completa el CAPTCHA."
 
@@ -4442,7 +4656,7 @@ msgstr "Elección primaria concluida"
 msgid "Priority from declaring wars or winning battles is <0>{0} hours</0> instead of 24."
 msgstr "Priority from declaring wars or winning battles is <0>{0} hours</0> instead of 24."
 
-#: src/pages/index.tsx:155
+#: src/pages/index.tsx:142
 #: src/pages/rules.tsx:36
 msgid "Privacy"
 msgstr "Privacidad"
@@ -4634,6 +4848,10 @@ msgstr "Alcanza el rango militar 5"
 #: src/components/_user/mission/mission.frontConfig.tsx:406
 msgid "Reach Military Rank 5"
 msgstr "Alcanzar rango militar 5"
+
+#: src/components/_user/user/SkillValue.tsx:171
+msgid "Reached limit:"
+msgstr ""
 
 #. placeholder {0}: leveling.level + 1
 #: src/components/_user/user/Level.tsx:108
@@ -4886,7 +5104,7 @@ msgstr "Restablecer"
 msgid "Reset avatar"
 msgstr "Restablecer avatar"
 
-#: src/components/_user/auth/ConnectFromModal.tsx:272
+#: src/components/_user/auth/ConnectFromModal.tsx:266
 msgid "Reset CAPTCHA"
 msgstr "Reiniciar CAPTCHA"
 
@@ -5266,8 +5484,9 @@ msgid "Show Inventory"
 msgstr "Mostrar inventario"
 
 #: src/components/_military/damageRanking/DamageRankingList.tsx:216
-#: src/components/_social/ArticleTags.tsx:235
-#: src/components/_social/ArticleTags.tsx:343
+#: src/components/_social/ArticleTags.tsx:268
+#: src/components/_social/ArticleTags.tsx:319
+#: src/components/_social/ArticleTags.tsx:427
 msgid "Show more"
 msgstr "Mostrar más"
 
@@ -5278,6 +5497,10 @@ msgstr ""
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:19
 msgid "Skill issue?"
 msgstr "¿Problema de habilidad?"
+
+#: src/components/_user/user/SkillValue.tsx:45
+msgid "Skill upgrade:"
+msgstr ""
 
 #: src/components/_user/user/MyAvatar.tsx:41
 #: src/components/_user/user/UserHeader.tsx:171
@@ -5452,6 +5675,7 @@ msgid "Steel"
 msgstr "Acero"
 
 #: src/components/_economy/company/CompanyTags.tsx:107
+#: src/components/_other/upgrade/upgrade.frontConfig.tsx:78
 msgid "Storage"
 msgstr "Almacenamiento"
 
@@ -5467,6 +5691,10 @@ msgstr "Recurso estratégico"
 msgid "Strategic resources"
 msgstr "Recursos estratégicos"
 
+#: src/components/_political/event/event.frontConfig.tsx:357
+msgid "Strategic resources have been reshuffled across the whole map."
+msgstr ""
+
 #: src/components/_social/ArticleList.tsx:189
 msgid "Subscribed"
 msgstr "Suscrito"
@@ -5475,9 +5703,9 @@ msgstr "Suscrito"
 msgid "Subscribers"
 msgstr "Suscriptores"
 
-#: src/components/_user/auth/ConnectFromModal.tsx:118
-msgid "Successfully logged in with Discord!"
-msgstr "¡Has iniciado sesión con Discord correctamente!"
+#: src/components/_user/auth/ConnectFromModal.tsx:125
+msgid "Successfully logged in!"
+msgstr ""
 
 #: src/components/_user/premium/PremiumActions.tsx:57
 msgid "Support the game"
@@ -5569,7 +5797,7 @@ msgstr "Tipo de impuesto"
 msgid "Taxes"
 msgstr "Impuestos"
 
-#: src/pages/index.tsx:151
+#: src/pages/index.tsx:138
 #: src/pages/rules.tsx:32
 msgid "Terms"
 msgstr "Términos"
@@ -5594,6 +5822,14 @@ msgstr "Los <0>Puntos de Producción</0> que generas cada vez que trabajas"
 msgid "The base value for <0>Damages</0> calculation."
 msgstr "El valor base para el cálculo de <0>Daño</0>."
 
+#: src/components/_political/event/event.frontConfig.tsx:431
+msgid "The civil war started by <0/> in <1/> has been suppressed"
+msgstr ""
+
+#: src/components/_political/event/event.frontConfig.tsx:415
+msgid "The civil war started by <0/> in <1/> has succeeded of <2/> and the government has been overthrown."
+msgstr ""
+
 #: src/components/_user/user/skills.frontConfig.tsx:57
 msgid "The damage factor increase of critical hits over normal hits"
 msgstr "Cuánto aumenta el daño de los golpes críticos respecto a los normales"
@@ -5617,6 +5853,14 @@ msgstr "El efecto de tus buffs consumidos ha terminado. La fase de debuff ha com
 #: src/components/_user/notification/notification.frontConfig.tsx:1561
 msgid "The giveaway has ended. Check if you won!"
 msgstr "El sorteo ha terminado. ¡Comprueba si ganaste!"
+
+#: src/components/_political/event/event.frontConfig.tsx:82
+msgid "The revolution in <0/> has been suppressed. The government remains in power."
+msgstr ""
+
+#: src/components/_political/event/event.frontConfig.tsx:68
+msgid "The revolution in <0/> has succeeded! The government has been overthrown."
+msgstr ""
 
 #: src/pages/region/[regionId]/index.tsx:110
 msgid "The strategic resource will be reshuffled in the following amount of time."
@@ -5767,7 +6011,7 @@ msgstr "Top (1 semana)"
 msgid "Top 3 offers"
 msgstr "Top 3 ofertas"
 
-#: src/pages/index.tsx:144
+#: src/pages/index.tsx:131
 msgid "Top countries"
 msgstr "Top países"
 
@@ -5808,6 +6052,10 @@ msgstr "Daños totales"
 msgid "Total Donated:"
 msgstr "Total donado:"
 
+#: src/components/_user/user/SkillValue.tsx:186
+msgid "Total:"
+msgstr ""
+
 #: src/components/_military/battle/ActiveBattlesList.tsx:75
 #: src/components/_military/battle/ActiveBattlesList.tsx:139
 #: src/pages/events/index.tsx:89
@@ -5825,6 +6073,10 @@ msgstr "Eliminado del torneo"
 #: src/components/_user/notification/notification.frontConfig.tsx:1456
 msgid "Tournament Ended"
 msgstr "Torneo terminado"
+
+#: src/components/_user/user/SkillValue.tsx:104
+msgid "Tournament reward:"
+msgstr ""
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1381
 msgid "Tournament Round Won"
@@ -6192,11 +6444,11 @@ msgstr "Tanque de San Valentín"
 msgid "Vanguard"
 msgstr "Vanguardia"
 
-#: src/components/_user/auth/LoginFormModal.tsx:96
+#: src/components/_user/auth/LoginFormModal.tsx:89
 msgid "Verification code"
 msgstr "Código de verificación"
 
-#: src/components/_user/auth/LoginFormModal.tsx:156
+#: src/components/_user/auth/LoginFormModal.tsx:149
 msgid "Verify"
 msgstr "Verificar"
 
@@ -6208,7 +6460,7 @@ msgstr "Verifica tu email para crear ofertas de trabajo. Revisa tu email o cierr
 msgid "Verify your email to trade items. Check your email or logout/login again"
 msgstr "Verifica tu email para comerciar artículos. Revisa tu email o cierra sesión e inicia de nuevo"
 
-#: src/components/_user/auth/ConnectFromModal.tsx:260
+#: src/components/_user/auth/ConnectFromModal.tsx:254
 msgid "Verifying CAPTCHA..."
 msgstr "Verificando CAPTCHA..."
 
@@ -6299,6 +6551,10 @@ msgstr "Riqueza"
 msgid "Weapon"
 msgstr "Arma"
 
+#: src/components/_user/user/SkillValue.tsx:58
+msgid "Weapon:"
+msgstr ""
+
 #: src/components/_user/mission/MissionsList.tsx:202
 msgid "Weekly"
 msgstr "Semanales"
@@ -6319,7 +6575,7 @@ msgstr "Reinicio de Misiones Semanales"
 msgid "Welcome"
 msgstr "Bienvenido"
 
-#: src/components/_user/auth/LoginFormModal.tsx:66
+#: src/components/_user/auth/LoginFormModal.tsx:59
 msgid "Welcome back {username}!"
 msgstr "¡Bienvenido de nuevo {username}!"
 
@@ -6849,7 +7105,7 @@ msgstr "Tu salario en <0/> cambió de <1>{0}</1> a <2>{1}</2>"
 msgid "Your weekly missions have been reset! Complete them to earn rewards."
 msgstr "¡Tus misiones semanales han sido reiniciadas! Completa las misiones para ganar recompensas."
 
-#: src/components/_user/auth/ConnectFromModal.tsx:208
+#: src/components/_user/auth/ConnectFromModal.tsx:203
 msgid "your@email.com"
 msgstr "tu@email.com"
 
