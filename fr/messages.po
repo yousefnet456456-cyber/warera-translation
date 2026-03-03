@@ -2367,6 +2367,15 @@ msgstr "Déclarer la guerre à un autre pays"
 msgid "Decline & Leave"
 msgstr "Refuser et partir"
 
+#: src/components/_political/unrest/UnrestPanel.tsx:143
+#: src/components/_political/unrest/UnrestPanel.tsx:179
+msgid "Decrease"
+msgstr ""
+
+#: src/components/_political/unrest/UnrestPanel.tsx:110
+msgid "Decrease unrest"
+msgstr ""
+
 #: src/components/_military/hit/HitButton.tsx:289
 msgid "Defend"
 msgstr "Défendre"
@@ -3273,6 +3282,15 @@ msgstr "Impôt sur le revenu"
 msgid "Income Tax"
 msgstr "Impôt sur le revenu"
 
+#: src/components/_political/unrest/UnrestPanel.tsx:143
+#: src/components/_political/unrest/UnrestPanel.tsx:179
+msgid "Increase"
+msgstr ""
+
+#: src/components/_political/unrest/UnrestPanel.tsx:109
+msgid "Increase unrest"
+msgstr ""
+
 #: src/components/_political/party/party.frontConfig.tsx:316
 msgid "Industrialism vs Agrarianism"
 msgstr "Industrialisme vs Agrarisme"
@@ -4142,7 +4160,7 @@ msgstr "Aucun citoyen"
 msgid "No congress members"
 msgstr "Aucun parlementaire"
 
-#: src/components/_political/contribution/ContributionList.tsx:216
+#: src/components/_political/contribution/ContributionList.tsx:225
 msgid "No contributions yet"
 msgstr "Aucune contribution pour le moment"
 
@@ -5140,7 +5158,7 @@ msgstr "Résister"
 msgid "Resistance"
 msgstr "Résistance"
 
-#: src/components/_political/contribution/ContributionList.tsx:189
+#: src/components/_political/contribution/ContributionList.tsx:198
 msgid "Resistance Contributors"
 msgstr "Contributeurs de la résistance"
 
@@ -6207,7 +6225,7 @@ msgstr "Se désinscrire"
 msgid "Unrest"
 msgstr "Troubles"
 
-#: src/components/_political/contribution/ContributionList.tsx:191
+#: src/components/_political/contribution/ContributionList.tsx:200
 msgid "Unrest Contributors"
 msgstr "Contributeurs aux troubles"
 
@@ -6855,7 +6873,7 @@ msgstr "Tu as obtenu de l'argent sur le champ de bataille."
 #. placeholder {0}: gameConfig.region.resistanceContributionMinLevel
 #. placeholder {0}: gameConfig.unrest.contributionMinLevel
 #: src/components/_political/region/RegionResistance.tsx:120
-#: src/components/_political/unrest/UnrestPanel.tsx:92
+#: src/components/_political/unrest/UnrestPanel.tsx:101
 msgid "You must be at least level {0} to contribute."
 msgstr "Vous devez être au moins niveau {0} pour contribuer."
 

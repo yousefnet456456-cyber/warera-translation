@@ -2365,6 +2365,15 @@ msgstr "Declară război altei țări"
 msgid "Decline & Leave"
 msgstr "Refuză și pleacă"
 
+#: src/components/_political/unrest/UnrestPanel.tsx:143
+#: src/components/_political/unrest/UnrestPanel.tsx:179
+msgid "Decrease"
+msgstr ""
+
+#: src/components/_political/unrest/UnrestPanel.tsx:110
+msgid "Decrease unrest"
+msgstr ""
+
 #: src/components/_military/hit/HitButton.tsx:289
 msgid "Defend"
 msgstr "Apără"
@@ -3271,6 +3280,15 @@ msgstr "Impozit pe venit"
 msgid "Income Tax"
 msgstr "Impozit pe venit"
 
+#: src/components/_political/unrest/UnrestPanel.tsx:143
+#: src/components/_political/unrest/UnrestPanel.tsx:179
+msgid "Increase"
+msgstr ""
+
+#: src/components/_political/unrest/UnrestPanel.tsx:109
+msgid "Increase unrest"
+msgstr ""
+
 #: src/components/_political/party/party.frontConfig.tsx:316
 msgid "Industrialism vs Agrarianism"
 msgstr ""
@@ -4140,7 +4158,7 @@ msgstr "Niciun cetățean"
 msgid "No congress members"
 msgstr "Niciun parlamentar"
 
-#: src/components/_political/contribution/ContributionList.tsx:216
+#: src/components/_political/contribution/ContributionList.tsx:225
 msgid "No contributions yet"
 msgstr ""
 
@@ -5138,7 +5156,7 @@ msgstr "Rezistă"
 msgid "Resistance"
 msgstr "Rezistență"
 
-#: src/components/_political/contribution/ContributionList.tsx:189
+#: src/components/_political/contribution/ContributionList.tsx:198
 msgid "Resistance Contributors"
 msgstr ""
 
@@ -6205,7 +6223,7 @@ msgstr "Anulează înregistrarea"
 msgid "Unrest"
 msgstr ""
 
-#: src/components/_political/contribution/ContributionList.tsx:191
+#: src/components/_political/contribution/ContributionList.tsx:200
 msgid "Unrest Contributors"
 msgstr ""
 
@@ -6853,7 +6871,7 @@ msgstr "Ai găsit bani pe câmpul de luptă."
 #. placeholder {0}: gameConfig.region.resistanceContributionMinLevel
 #. placeholder {0}: gameConfig.unrest.contributionMinLevel
 #: src/components/_political/region/RegionResistance.tsx:120
-#: src/components/_political/unrest/UnrestPanel.tsx:92
+#: src/components/_political/unrest/UnrestPanel.tsx:101
 msgid "You must be at least level {0} to contribute."
 msgstr ""
 

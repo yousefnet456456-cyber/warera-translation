@@ -2367,6 +2367,15 @@ msgstr "Оголосити війну іншій державі"
 msgid "Decline & Leave"
 msgstr "Відхилити та вийти"
 
+#: src/components/_political/unrest/UnrestPanel.tsx:143
+#: src/components/_political/unrest/UnrestPanel.tsx:179
+msgid "Decrease"
+msgstr ""
+
+#: src/components/_political/unrest/UnrestPanel.tsx:110
+msgid "Decrease unrest"
+msgstr ""
+
 #: src/components/_military/hit/HitButton.tsx:289
 msgid "Defend"
 msgstr "Оборона"
@@ -3273,6 +3282,15 @@ msgstr "Податок на дохід"
 msgid "Income Tax"
 msgstr "Податок на дохід"
 
+#: src/components/_political/unrest/UnrestPanel.tsx:143
+#: src/components/_political/unrest/UnrestPanel.tsx:179
+msgid "Increase"
+msgstr ""
+
+#: src/components/_political/unrest/UnrestPanel.tsx:109
+msgid "Increase unrest"
+msgstr ""
+
 #: src/components/_political/party/party.frontConfig.tsx:316
 msgid "Industrialism vs Agrarianism"
 msgstr "Індустріалізм vs Аграризм"
@@ -4142,7 +4160,7 @@ msgstr "Громадян немає"
 msgid "No congress members"
 msgstr "Парламентарів немає"
 
-#: src/components/_political/contribution/ContributionList.tsx:216
+#: src/components/_political/contribution/ContributionList.tsx:225
 msgid "No contributions yet"
 msgstr "Пожертв ще немає"
 
@@ -5140,7 +5158,7 @@ msgstr "Опір"
 msgid "Resistance"
 msgstr "Спротив"
 
-#: src/components/_political/contribution/ContributionList.tsx:189
+#: src/components/_political/contribution/ContributionList.tsx:198
 msgid "Resistance Contributors"
 msgstr "Сприячі спротиву"
 
@@ -6207,7 +6225,7 @@ msgstr "Скасувати реєстрацію"
 msgid "Unrest"
 msgstr "Заворушення"
 
-#: src/components/_political/contribution/ContributionList.tsx:191
+#: src/components/_political/contribution/ContributionList.tsx:200
 msgid "Unrest Contributors"
 msgstr "Сприячі заворушенням"
 
@@ -6855,7 +6873,7 @@ msgstr "Ви знайшли монети на полі бою."
 #. placeholder {0}: gameConfig.region.resistanceContributionMinLevel
 #. placeholder {0}: gameConfig.unrest.contributionMinLevel
 #: src/components/_political/region/RegionResistance.tsx:120
-#: src/components/_political/unrest/UnrestPanel.tsx:92
+#: src/components/_political/unrest/UnrestPanel.tsx:101
 msgid "You must be at least level {0} to contribute."
 msgstr "Досягніть {0} рівня, щоб сприяти."
 

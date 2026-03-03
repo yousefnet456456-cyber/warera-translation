@@ -2367,6 +2367,15 @@ msgstr "向其他國家宣戰"
 msgid "Decline & Leave"
 msgstr "拒絕並離開"
 
+#: src/components/_political/unrest/UnrestPanel.tsx:143
+#: src/components/_political/unrest/UnrestPanel.tsx:179
+msgid "Decrease"
+msgstr ""
+
+#: src/components/_political/unrest/UnrestPanel.tsx:110
+msgid "Decrease unrest"
+msgstr ""
+
 #: src/components/_military/hit/HitButton.tsx:289
 msgid "Defend"
 msgstr "防禦"
@@ -3273,6 +3282,15 @@ msgstr "所得稅"
 msgid "Income Tax"
 msgstr "所得稅"
 
+#: src/components/_political/unrest/UnrestPanel.tsx:143
+#: src/components/_political/unrest/UnrestPanel.tsx:179
+msgid "Increase"
+msgstr ""
+
+#: src/components/_political/unrest/UnrestPanel.tsx:109
+msgid "Increase unrest"
+msgstr ""
+
 #: src/components/_political/party/party.frontConfig.tsx:316
 msgid "Industrialism vs Agrarianism"
 msgstr "工業主義 vs 農業主義"
@@ -4142,7 +4160,7 @@ msgstr "沒有公民"
 msgid "No congress members"
 msgstr "沒有國會議員"
 
-#: src/components/_political/contribution/ContributionList.tsx:216
+#: src/components/_political/contribution/ContributionList.tsx:225
 msgid "No contributions yet"
 msgstr "尚無貢獻者"
 
@@ -5140,7 +5158,7 @@ msgstr "抵抗"
 msgid "Resistance"
 msgstr "抵抗度"
 
-#: src/components/_political/contribution/ContributionList.tsx:189
+#: src/components/_political/contribution/ContributionList.tsx:198
 msgid "Resistance Contributors"
 msgstr "抵抗度貢獻者"
 
@@ -6207,7 +6225,7 @@ msgstr "註銷"
 msgid "Unrest"
 msgstr "動盪值"
 
-#: src/components/_political/contribution/ContributionList.tsx:191
+#: src/components/_political/contribution/ContributionList.tsx:200
 msgid "Unrest Contributors"
 msgstr "動盪值貢獻者"
 
@@ -6855,7 +6873,7 @@ msgstr "你在戰場上掠奪了金錢。"
 #. placeholder {0}: gameConfig.region.resistanceContributionMinLevel
 #. placeholder {0}: gameConfig.unrest.contributionMinLevel
 #: src/components/_political/region/RegionResistance.tsx:120
-#: src/components/_political/unrest/UnrestPanel.tsx:92
+#: src/components/_political/unrest/UnrestPanel.tsx:101
 msgid "You must be at least level {0} to contribute."
 msgstr "你至少要等級 {0} 才能貢獻"
 
