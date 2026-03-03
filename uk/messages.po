@@ -1650,6 +1650,10 @@ msgstr "Замовлення на купівлю виконано!"
 msgid "Buy orders"
 msgstr "Замовлення на купівлю"
 
+#: src/components/_user/auth/ConnectFromModal.tsx:322
+msgid "By continuing, you agree to our <0>Terms of Service</0>."
+msgstr ""
+
 #. placeholder {0}: worker.fidelity ?? 0
 #: src/components/_user/worker/WageReductionAlert.tsx:56
 msgid "By rejecting the wage reduction, you will leave the company and lose your fidelity bonus of +{0}%."
@@ -1695,19 +1699,19 @@ msgstr "Неможна вибирати предмет спеціалізаці�
 msgid "Captain"
 msgstr "Капітан"
 
-#: src/components/_user/auth/ConnectFromModal.tsx:238
+#: src/components/_user/auth/ConnectFromModal.tsx:242
 msgid "CAPTCHA challenge expired. Please try again."
 msgstr "CAPTCHA більше не дійсна. Спробуйте знову."
 
-#: src/components/_user/auth/ConnectFromModal.tsx:234
+#: src/components/_user/auth/ConnectFromModal.tsx:238
 msgid "CAPTCHA challenge failed. Resetting..."
 msgstr "CAPTCHA провалено. Скидання..."
 
-#: src/components/_user/auth/ConnectFromModal.tsx:242
+#: src/components/_user/auth/ConnectFromModal.tsx:246
 msgid "CAPTCHA timed out. Resetting..."
 msgstr "Сплив час CAPTCHA. Скидання..."
 
-#: src/components/_user/auth/ConnectFromModal.tsx:65
+#: src/components/_user/auth/ConnectFromModal.tsx:69
 msgid "CAPTCHA verification timed out. Resetting..."
 msgstr "Сплив час підтвердження CAPTCHA. Скидання..."
 
@@ -2057,15 +2061,15 @@ msgstr "Парламент має щонайменше <0>{0} місць</0>."
 msgid "Congress members"
 msgstr "Парламентарі"
 
-#: src/components/_user/auth/ConnectFromModal.tsx:295
+#: src/components/_user/auth/ConnectFromModal.tsx:299
 msgid "Connect with Discord"
 msgstr "Увійти через Діскорд"
 
-#: src/components/_user/auth/ConnectFromModal.tsx:281
+#: src/components/_user/auth/ConnectFromModal.tsx:285
 msgid "Connect with email code"
 msgstr ""
 
-#: src/components/_user/auth/ConnectFromModal.tsx:308
+#: src/components/_user/auth/ConnectFromModal.tsx:312
 msgid "Connect with Google"
 msgstr ""
 
@@ -2699,8 +2703,8 @@ msgstr "Молодший лейтенант"
 msgid "Enter article ID"
 msgstr "Введіть ID статті"
 
-#: src/components/_user/auth/ConnectFromModal.tsx:140
-#: src/components/_user/auth/ConnectFromModal.tsx:145
+#: src/components/_user/auth/ConnectFromModal.tsx:144
+#: src/components/_user/auth/ConnectFromModal.tsx:149
 msgid "Enter the code we sent to your email."
 msgstr "Введіть код, який ми надіслали на вашу пошту."
 
@@ -2770,19 +2774,19 @@ msgstr "Не вдалося скопіювати"
 msgid "Failed to copy text: "
 msgstr "Не вдалося скопіювати текст: "
 
-#: src/components/_user/auth/ConnectFromModal.tsx:94
+#: src/components/_user/auth/ConnectFromModal.tsx:98
 msgid "Failed to start Discord login."
 msgstr "Не вдалося розпочати вхід через Discord."
 
-#: src/components/_user/auth/ConnectFromModal.tsx:92
+#: src/components/_user/auth/ConnectFromModal.tsx:96
 msgid "Failed to start Discord login. Please retry the CAPTCHA."
 msgstr "Не вдалося розпочати вхід через Discord. Спробуйте пройти CAPTCHA ще раз."
 
-#: src/components/_user/auth/ConnectFromModal.tsx:113
+#: src/components/_user/auth/ConnectFromModal.tsx:117
 msgid "Failed to start Google login."
 msgstr ""
 
-#: src/components/_user/auth/ConnectFromModal.tsx:111
+#: src/components/_user/auth/ConnectFromModal.tsx:115
 msgid "Failed to start Google login. Please retry the CAPTCHA."
 msgstr ""
 
@@ -4551,9 +4555,9 @@ msgstr "Пігулка"
 msgid "Plant a tree in the data center"
 msgstr "Посадіть дерево у дата-центрі"
 
-#: src/components/_user/auth/ConnectFromModal.tsx:82
-#: src/components/_user/auth/ConnectFromModal.tsx:101
-#: src/components/_user/auth/ConnectFromModal.tsx:167
+#: src/components/_user/auth/ConnectFromModal.tsx:86
+#: src/components/_user/auth/ConnectFromModal.tsx:105
+#: src/components/_user/auth/ConnectFromModal.tsx:171
 msgid "Please complete the CAPTCHA."
 msgstr "Будь ласка, завершіть CAPTCHA."
 
@@ -5104,7 +5108,7 @@ msgstr "Скинути"
 msgid "Reset avatar"
 msgstr "Скинути аватар"
 
-#: src/components/_user/auth/ConnectFromModal.tsx:266
+#: src/components/_user/auth/ConnectFromModal.tsx:270
 msgid "Reset CAPTCHA"
 msgstr "Скинути CAPTCHA"
 
@@ -5703,7 +5707,7 @@ msgstr "Підписки"
 msgid "Subscribers"
 msgstr "Підписники"
 
-#: src/components/_user/auth/ConnectFromModal.tsx:125
+#: src/components/_user/auth/ConnectFromModal.tsx:129
 msgid "Successfully logged in!"
 msgstr ""
 
@@ -5801,6 +5805,10 @@ msgstr "Податки"
 #: src/pages/rules.tsx:32
 msgid "Terms"
 msgstr "Умови"
+
+#: src/components/_user/auth/ConnectFromModal.tsx:349
+msgid "Terms of Service"
+msgstr ""
 
 #: src/components/_layout/LayoutMapOptions.tsx:335
 msgid "Texture"
@@ -6460,7 +6468,7 @@ msgstr "Підтвердьте свою пошту, щоб створити пр
 msgid "Verify your email to trade items. Check your email or logout/login again"
 msgstr "Підтвердьте свою пошту, щоб торгувати предметами. Перевірте пошту або заново увійдіть в обліковий запис"
 
-#: src/components/_user/auth/ConnectFromModal.tsx:254
+#: src/components/_user/auth/ConnectFromModal.tsx:258
 msgid "Verifying CAPTCHA..."
 msgstr "Підтвердження CAPTCHA..."
 
@@ -7105,7 +7113,7 @@ msgstr "Ваша зарплата у <0/> була змінена з <1>{0}</1> 
 msgid "Your weekly missions have been reset! Complete them to earn rewards."
 msgstr "Ваші щотижневі місії було скинуто! Завершіть їх, аби отримати нагороду."
 
-#: src/components/_user/auth/ConnectFromModal.tsx:203
+#: src/components/_user/auth/ConnectFromModal.tsx:207
 msgid "your@email.com"
 msgstr "ваш@email.com"
 

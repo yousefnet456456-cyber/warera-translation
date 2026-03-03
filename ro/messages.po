@@ -1648,6 +1648,10 @@ msgstr "Comandă de cumpărare rezolvată!"
 msgid "Buy orders"
 msgstr "Comenzi de cumpărare"
 
+#: src/components/_user/auth/ConnectFromModal.tsx:322
+msgid "By continuing, you agree to our <0>Terms of Service</0>."
+msgstr ""
+
 #. placeholder {0}: worker.fidelity ?? 0
 #: src/components/_user/worker/WageReductionAlert.tsx:56
 msgid "By rejecting the wage reduction, you will leave the company and lose your fidelity bonus of +{0}%."
@@ -1693,19 +1697,19 @@ msgstr ""
 msgid "Captain"
 msgstr "Căpitan"
 
-#: src/components/_user/auth/ConnectFromModal.tsx:238
+#: src/components/_user/auth/ConnectFromModal.tsx:242
 msgid "CAPTCHA challenge expired. Please try again."
 msgstr "Testul CAPTCHA a exiprat. Încearcă din nou."
 
-#: src/components/_user/auth/ConnectFromModal.tsx:234
+#: src/components/_user/auth/ConnectFromModal.tsx:238
 msgid "CAPTCHA challenge failed. Resetting..."
 msgstr "Testul CAPTCHA a eșuat. Resetare..."
 
-#: src/components/_user/auth/ConnectFromModal.tsx:242
+#: src/components/_user/auth/ConnectFromModal.tsx:246
 msgid "CAPTCHA timed out. Resetting..."
 msgstr "Testul CAPTCHA a expirat. Resetare..."
 
-#: src/components/_user/auth/ConnectFromModal.tsx:65
+#: src/components/_user/auth/ConnectFromModal.tsx:69
 msgid "CAPTCHA verification timed out. Resetting..."
 msgstr "Verificarea CAPTCHA a expirat. Resetare..."
 
@@ -2055,15 +2059,15 @@ msgstr ""
 msgid "Congress members"
 msgstr "Parlamentari"
 
-#: src/components/_user/auth/ConnectFromModal.tsx:295
+#: src/components/_user/auth/ConnectFromModal.tsx:299
 msgid "Connect with Discord"
 msgstr "Conectează-te cu Discord"
 
-#: src/components/_user/auth/ConnectFromModal.tsx:281
+#: src/components/_user/auth/ConnectFromModal.tsx:285
 msgid "Connect with email code"
 msgstr ""
 
-#: src/components/_user/auth/ConnectFromModal.tsx:308
+#: src/components/_user/auth/ConnectFromModal.tsx:312
 msgid "Connect with Google"
 msgstr ""
 
@@ -2697,8 +2701,8 @@ msgstr "Sublocotenent"
 msgid "Enter article ID"
 msgstr "Introdu ID articol"
 
-#: src/components/_user/auth/ConnectFromModal.tsx:140
-#: src/components/_user/auth/ConnectFromModal.tsx:145
+#: src/components/_user/auth/ConnectFromModal.tsx:144
+#: src/components/_user/auth/ConnectFromModal.tsx:149
 msgid "Enter the code we sent to your email."
 msgstr "Introdu codul pe care ți l-am trimis pe email."
 
@@ -2768,19 +2772,19 @@ msgstr "Eroare la copiere"
 msgid "Failed to copy text: "
 msgstr "Eroare la copiere: "
 
-#: src/components/_user/auth/ConnectFromModal.tsx:94
+#: src/components/_user/auth/ConnectFromModal.tsx:98
 msgid "Failed to start Discord login."
 msgstr "Eroare în pornirea autentificării cu Discord."
 
-#: src/components/_user/auth/ConnectFromModal.tsx:92
+#: src/components/_user/auth/ConnectFromModal.tsx:96
 msgid "Failed to start Discord login. Please retry the CAPTCHA."
 msgstr "Eroare în pornirea autentificării cu Discord. Refă testul CAPTCHA."
 
-#: src/components/_user/auth/ConnectFromModal.tsx:113
+#: src/components/_user/auth/ConnectFromModal.tsx:117
 msgid "Failed to start Google login."
 msgstr ""
 
-#: src/components/_user/auth/ConnectFromModal.tsx:111
+#: src/components/_user/auth/ConnectFromModal.tsx:115
 msgid "Failed to start Google login. Please retry the CAPTCHA."
 msgstr ""
 
@@ -4549,9 +4553,9 @@ msgstr "Pastilă"
 msgid "Plant a tree in the data center"
 msgstr "Plantează un copac în datacenter"
 
-#: src/components/_user/auth/ConnectFromModal.tsx:82
-#: src/components/_user/auth/ConnectFromModal.tsx:101
-#: src/components/_user/auth/ConnectFromModal.tsx:167
+#: src/components/_user/auth/ConnectFromModal.tsx:86
+#: src/components/_user/auth/ConnectFromModal.tsx:105
+#: src/components/_user/auth/ConnectFromModal.tsx:171
 msgid "Please complete the CAPTCHA."
 msgstr "Completează testul CAPTCHA."
 
@@ -5102,7 +5106,7 @@ msgstr "Reset"
 msgid "Reset avatar"
 msgstr "Resetează avatar"
 
-#: src/components/_user/auth/ConnectFromModal.tsx:266
+#: src/components/_user/auth/ConnectFromModal.tsx:270
 msgid "Reset CAPTCHA"
 msgstr "Resetează testul CAPTCHA"
 
@@ -5701,7 +5705,7 @@ msgstr "Abonamente"
 msgid "Subscribers"
 msgstr "Abonați"
 
-#: src/components/_user/auth/ConnectFromModal.tsx:125
+#: src/components/_user/auth/ConnectFromModal.tsx:129
 msgid "Successfully logged in!"
 msgstr ""
 
@@ -5799,6 +5803,10 @@ msgstr "Taxe"
 #: src/pages/rules.tsx:32
 msgid "Terms"
 msgstr "Termeni"
+
+#: src/components/_user/auth/ConnectFromModal.tsx:349
+msgid "Terms of Service"
+msgstr ""
 
 #: src/components/_layout/LayoutMapOptions.tsx:335
 msgid "Texture"
@@ -6458,7 +6466,7 @@ msgstr "Verifică-ți emailul pentru a crea oferte de muncă. Verifică emailul 
 msgid "Verify your email to trade items. Check your email or logout/login again"
 msgstr "Verifică-ți emailul pentru a tranzacționa articole. Verifică emailul sau deconectează-te și conectează-te din nou"
 
-#: src/components/_user/auth/ConnectFromModal.tsx:254
+#: src/components/_user/auth/ConnectFromModal.tsx:258
 msgid "Verifying CAPTCHA..."
 msgstr "Se verifică CAPTCHA..."
 
@@ -7103,7 +7111,7 @@ msgstr "Salariul tău în <0/> s-a schimbat de la <1>{0}</1> la <2>{1}</2>"
 msgid "Your weekly missions have been reset! Complete them to earn rewards."
 msgstr "Misiunile tale săptămânale au fost resetate! Completează-le pentru a câștiga recompense."
 
-#: src/components/_user/auth/ConnectFromModal.tsx:203
+#: src/components/_user/auth/ConnectFromModal.tsx:207
 msgid "your@email.com"
 msgstr "adresa_ta@email.com"
 
