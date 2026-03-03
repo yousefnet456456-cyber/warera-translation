@@ -106,7 +106,7 @@ msgstr "{battleIcon}معركة مقاومة من أجل {regionName} {score}"
 
 #: src/components/_military/battle/BattleName.tsx:146
 msgid "{battleIcon}Revolution battle {score}"
-msgstr "{battleIcon}معركة الثورة {score}"
+msgstr "{battleIcon}حرب اهليه   {score}"
 
 #: src/components/_military/battle/BattleName.tsx:151
 msgid "{battleIcon}Tournament battle for {tournamentName} {score}"
@@ -114,7 +114,7 @@ msgstr "{battleIcon}معركة بطولة من أجل {tournamentName} {score}"
 
 #: src/components/_military/battle/BattleName.tsx:136
 msgid "{battleIcon}War battle for {regionName} {score}"
-msgstr "{battleIcon}معركة حرب من أجل {regionName} {score}"
+msgstr "{battleIcon}معركة من أجل {regionName} {score}"
 
 #: src/components/_user/mission/MissionsList.tsx:171
 msgid "{completedCount}/{totalCount} completed"
@@ -150,7 +150,7 @@ msgstr "طلب <0/> الانضمام إلى <1/>"
 #. placeholder {1}: incomeTax > 0 && ( <Typo as='span' opacity={0.7}> {' ('} <Money static precision={3} color='yellowText'> {wageAfterTax} </Money> {' after taxes)'} </Typo> )
 #: src/components/_economy/workOffer/WorkOfferList.tsx:116
 msgid "<0/> at <1>{0}</1> wage.{1}"
-msgstr "<0/> بأجر <1>{0}</1>.{1}"
+msgstr "<0/> الأجر <1>{0}</1>.{1}"
 
 #. placeholder {0}: law.data.amount ?? 0
 #: src/components/_political/law/law.frontConfig.tsx:294
@@ -291,7 +291,7 @@ msgstr "رد <0/> على رسالتك {0}"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:952
 msgid "<0/> subscribed to you on your article <1/>"
-msgstr "اشترك <0/> بك في مقالك <1/>"
+msgstr "اشترك <0/> لك في مقالك <1/>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:933
 msgid "<0/> tipped your article <1/>"
@@ -349,7 +349,7 @@ msgstr "<0/>آخر اتصال كان في <1><2/></1>"
 
 #: src/pages/war/[warId]/index.tsx:55
 msgid "<0/>Priority ends in <1/>"
-msgstr "تنتهي أولوية <0/> في <1/>"
+msgstr "تنتهي الأولوية <0/> في <1/>"
 
 #. placeholder {0}: companiesIds?.length ?? 0
 #. placeholder {1}: companiesLimit ?? 99
@@ -392,7 +392,7 @@ msgstr "<0>{0}</0> لأن <1/> خسر <2/>"
 #. placeholder {0}: sideBonus.occupyingYourRegionsMalusPercent
 #: src/components/_military/battle/BattleDamageBonuses.tsx:206
 msgid "<0>{0}</0> because <1/> occupies at least one of <2/> regions"
-msgstr "<0>{0}</0> لأن <1/> يحتل منطقة واحدة على الأقل من مناطق <2/>"
+msgstr "<0>{0}</0> لأن <1/> تحتل منطقة واحدة على الأقل من مناطق <2/>"
 
 #. placeholder {0}: sideBonus.regionAttackBonusPercent
 #. placeholder {0}: sideBonus.regionDefenseBonusPercent
@@ -565,7 +565,7 @@ msgstr "1★ عريف"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:82
 msgid "1★ Ensign"
-msgstr "1★ ملازم بحري"
+msgstr "1★ حامل رايه"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:149
 msgid "1★ General"
@@ -608,7 +608,7 @@ msgid "1★ Private"
 msgstr "1★ جندي"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:127
-msgid "1★ Rear Admiral"
+msgid "1★ Rear Admiral "
 msgstr "1★ لواء بحري"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:22
@@ -677,7 +677,7 @@ msgstr "2★ عريف"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:83
 msgid "2★ Ensign"
-msgstr "2★ ملازم بحري"
+msgstr "2★ حامل رايه"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:150
 msgid "2★ General"
@@ -789,7 +789,7 @@ msgstr "3★ عريف"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:84
 msgid "3★ Ensign"
-msgstr "3★ ملازم بحري"
+msgstr "3★ حامل رايه"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:151
 msgid "3★ General"
@@ -1098,7 +1098,7 @@ msgstr "جميع الأنواع"
 
 #: src/components/_political/event/EventList.tsx:75
 msgid "Alliance broken"
-msgstr "انهار التحالف"
+msgstr "تفكك التحالف"
 
 #: src/components/_political/event/EventList.tsx:74
 msgid "Alliance formed"
@@ -6402,7 +6402,7 @@ msgstr "واو مبروك! على كل حال، هل فكرت في شراء ال
 #: src/components/_political/law/LawFormModal.tsx:169
 #: src/components/_political/law/LawList.tsx:58
 msgid "Write a law"
-msgstr "اكتب قانوناً"
+msgstr "اقترح قراراً"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:65
 msgid "Wtf"
